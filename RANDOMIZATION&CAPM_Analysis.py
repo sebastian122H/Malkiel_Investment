@@ -1,26 +1,24 @@
 import yfinance as yf
 import pandas as pd
 import numpy as np
-## Creating the Stock list and the randomization
+## Parsing CSV
 
-df = pd.read_csv("etoro_data.csv")
-df.drop(['Industry', 'Stock Name', 'Exchange'],axis = 1, inplace=True)
-stock_list = df["Ticker"].values.tolist()
+etoro_data = pd.read_csv("etoro_data.csv")
+stock_list = etoro_data["Ticker"].values.tolist()
 
-
-num = int(input("How many stocks does every group need?: "))
-group1 = np.random.choice(stock_list,num,replace=False)
-group2 = np.random.choice(stock_list,num,replace=False)
-group3 = np.random.choice(stock_list,num,replace=False)
-group4 = np.random.choice(stock_list,num,replace=False)
-print("Group 1 Stocks are: ", group1, "\n Group 2 Stocks are: ", group2, "\n Group 3 Stocks are: ", group3, "\n Group 4 Stocks are: ", group4)
-
-##Create a newlist that combines all the stocks for every group into one big list
-newlist = [y for x in [group1, group2, group3,group4] for y in x]
+stock_num = int(input("How many stocks does every group need?: "))
+# lets loop this instead
+j = 1
+all_picks = []
+for j in range(1,5):
+    group_picks = np.random.choice(stock_list,stock_num,replace=False)
+    print("Group ", j, "stocks are: ", group_picks)
+    all_picks.extend(group_picks)
+    j+=1
 
 
 ## Define Market Rate and Risk free Rate
-
+# we should try to make this dynamic too ideally
 mrkt_ret = 0.008
 risk_f = 0.0346
 
@@ -31,22 +29,22 @@ market_returns = []
 for i in range(len(dfm)):
     if i +1 < len(dfm):
         market_returns.append((dfm.iloc[i + 1] - dfm.iloc[i]) / dfm.iloc[i])
-    else: 
+    else:
         market_geo_returns = [i + 1 for i in market_returns]
         df_mreturns = pd.DataFrame({"Ret" : market_returns, "Ret + 1" : market_geo_returns})
         variance_market = np.var(df_mreturns["Ret"])
 
 ##Stock returns and Download
 
-dfh = yf.download(newlist, period="5y", interval="1wk", ignore_tz = True, prepost = False)["Close"]
+dfh = yf.download(all_picks, period="5y", interval="1wk", ignore_tz = True, prepost = False)["Close"]
 
 
-for j in range(len(newlist)):
+for j in range(len(all_picks)):
     returns = []
     for i in range(len(dfh)):
         if i +1 < len(dfh):
             returns.append((dfh.iloc[i + 1,j] - dfh.iloc[i,j]) / dfh.iloc[i,j])
-        else: 
+        else:
             continue
     geo_returns = [i + 1 for i in returns]
     df_returns = pd.DataFrame({"Ret" : returns, "Ret + 1" : geo_returns})
@@ -62,6 +60,6 @@ for j in range(len(newlist)):
         covariance = np.cov(df_returns["Ret"],df_mreturns["Ret"])
         beta = covariance[0,1]/variance_market
         CAPM = risk_f + beta * (mrkt_ret - risk_f)
-        print("Stock: ",stock_list[j], "\n", "CAPM: " ,CAPM, "\n", "Beta: ", beta, "\n", "Sharpe geo/arith: (", sharpe_arith, "/", sharpe_geo, ")" "\n", "AAR geo/arith: (", 
+        print("Stock: ",stock_list[j], "\n", "CAPM: " ,CAPM, "\n", "Beta: ", beta, "\n", "Sharpe geo/arith: (", sharpe_arith, "/", sharpe_geo, ")" "\n", "AAR geo/arith: (",
         aar_geo, "/", aar_arith,")", "\n" "Std. Dev: ",std_deviation, "\n")
 
