@@ -1,10 +1,11 @@
 import yfinance as yf
 import pandas as pd
 import numpy as np
-##Add the Randomization code into this, then you can make it automatic with one run
 
-# ASSUMPTIONS:
-# DATA PERIOD = 5Y, DATA RECORDING = WEEKLY
+
+dfh = pd.read_csv("HOUS.csv")
+
+
 returns = []
 for i in range(len(dfh)):
     if i +1 < len(dfh):
@@ -25,6 +26,25 @@ for i in range(len(dfh)):
         df_returns = pd.DataFrame({"Ret" : returns, "Ret + 1" : geo_returns})
 print(df_returns)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##Required Variables
 Weeks = len(df_returns)
 Years = len(df_returns)/52
@@ -35,11 +55,5 @@ std_deviation = np.std(df_returns["Ret"])
 sharpe_arith = (aar_arith/std_deviation)
 sharpe_geo = (aar_geo/std_deviation)
 
-covariance = np.covariance(df1["Ret"],dfm["Ret"])
-## Preliminary varaibles defined
-
-##VIP variables
-mrkt_ret = input("Market Return: ")
-risk_f = input("Risk Free Rate: ")
-beta = covariance/variance_market
-CAPM = risk_f + beta * (mrkt_ret - risk_f)
+print(sharpe_arith)
+print(sharpe_geo)

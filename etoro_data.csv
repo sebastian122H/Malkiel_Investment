@@ -1,0 +1,3037 @@
+Industry,Ticker,Exchange,Stock Name
+basicmaterials,00857.HK,hongkong,PetroChina Co Ltd
+basicmaterials,0386.HK,hongkong,China Petroleum & Chemical Corporation
+basicmaterials,03993.HK,hongkong,China Molybdenum Co Ltd
+basicmaterials,0883.HK,hongkong,Cnooc
+basicmaterials,0968.HK,hongkong,Xinyi Solar Holdings Ltd
+basicmaterials,1088.HK,hongkong,China Shenhua
+basicmaterials,1171.HK,hongkong,Yanzhou Coal
+basicmaterials,1898.HK,hongkong,China Coal Energy
+basicmaterials,1COV.DE,frankfurt,Covestro
+basicmaterials,2883.HK,hongkong,China Oilfield
+basicmaterials,2899.HK,hongkong,Zijin Mining
+basicmaterials,3800.HK,hongkong,GCL Technology Holdings Ltd
+basicmaterials,AA,nyse,Alcoa
+basicmaterials,AAL.L,london,Anglo American
+basicmaterials,ACX.MC,bolsademadrid,Acerinox SA
+basicmaterials,AEM,nyse,Agnico Eagle Mines Ltd
+basicmaterials,AG,nyse,First Majestic Silver Corp
+basicmaterials,AGI,nyse,Alamos Gold Inc
+basicmaterials,AKE.ASX,Sydney,Allkem Limited
+basicmaterials,AKE.PA,paris,Arkema
+basicmaterials,AKSO.OL,oslo,Aker Solutions
+basicmaterials,AKZA.NV,amsterdam,Akzo Nobel NV
+basicmaterials,AMG.NV,amsterdam,AMG Advanced Metallurgical Group NV
+basicmaterials,AMRS,nasdaq,Amyris Inc
+basicmaterials,ANTO.L,london,Antofagasta
+basicmaterials,APA,nasdaq,APA Corporation
+basicmaterials,APD,nyse,Air Products & Chemicals Inc
+basicmaterials,ARNC,nyse,Arconic Corporation
+basicmaterials,ARRY,nasdaq,Array Technologies Inc
+basicmaterials,ASH,nyse,Ashland Inc
+basicmaterials,AU,nyse,AngloGold Ashanti Ltd
+basicmaterials,AUY,nyse,Yamana Gold Inc
+basicmaterials,AWC.ASX,Sydney,Alumina Limited
+basicmaterials,AXTA,nyse,Axalta Coating Systems
+basicmaterials,BAS.DE,frankfurt,BASF SE
+basicmaterials,BCPC,nasdaq,Balchem Corporation
+basicmaterials,BHP,nyse,BHP Group Ltd ADR
+basicmaterials,BHP.ASX,Sydney,BHP Group Limited
+basicmaterials,BHP.L,london,BHP Billiton
+basicmaterials,BKR,nyse,Baker Hughes Company
+basicmaterials,BNR.DE,frankfurt,Brenntag
+basicmaterials,BOL.ST,stockholm,Boliden AB
+basicmaterials,BP.L,london,BP
+basicmaterials,BP.US,nyse,BP plc ADR
+basicmaterials,BSL.ASX,Sydney,BlueScope Steel Limited
+basicmaterials,BTG.US,nyse,B2Gold Corp
+basicmaterials,BWY.L,london,Bellway PLC
+basicmaterials,CCJ,nyse,Cameco Corp
+basicmaterials,CDE,nyse,Coeur Mining Inc
+basicmaterials,CDXS,nasdaq,Codexis Inc
+basicmaterials,CE,nyse,Celanese Corp
+basicmaterials,CF,nyse,CF Industries Holdings Inc
+basicmaterials,CHRD,nasdaq,Chord Energy Corporation
+basicmaterials,CHX,nasdaq,ChampionX Corporation
+basicmaterials,CLF.US,nyse,Cleveland-Cliffs Inc
+basicmaterials,CLMT,nasdaq,Calumet Specialty Products Partners LP
+basicmaterials,CLN.ZU,zurich,Clariant AG
+basicmaterials,CLR,nyse,Continental Resources Inc
+basicmaterials,CMC,nyse,Commercial Metals Co
+basicmaterials,CMP,nyse,Compass Minerals International Inc.
+basicmaterials,COP,nyse,ConocoPhillips Co
+basicmaterials,CRDA.L,london,Croda International
+basicmaterials,CTRA,nyse,Coterra EnerCoterra Energy Inc
+basicmaterials,CVI.N,nyse,CVR Energy
+basicmaterials,CVX,nyse,Chevron
+basicmaterials,CXO.ASX,Sydney,Core Lithium Ltd
+basicmaterials,DAE.ZU,zurich,Daetwyler Holding AG
+basicmaterials,DD,nyse,DuPont de Nemours Inc.
+basicmaterials,DINO,nyse,HF Sinclair Corp.
+basicmaterials,DK,nyse,Delek US Holdings Inc
+basicmaterials,DLN.L,london,Derwent London PLC
+basicmaterials,DNMR,nyse,Danimer Scientific Inc.
+basicmaterials,DNO.OL,oslo,DNO ASA
+basicmaterials,DNOW,nyse,NOW Inc
+basicmaterials,DOW,nyse,Dow Inc.
+basicmaterials,DQ,nyse,Daqo New Energy Corp
+basicmaterials,DRX.L,london,Drax Group PLC
+basicmaterials,DSM.NV,amsterdam,Koninklijke DSM NV
+basicmaterials,DVN,nyse,Devon Energy Corp
+basicmaterials,E,nyse,Eni SpA
+basicmaterials,EE,nyse,Excelerate Energy Inc.
+basicmaterials,EGO,nyse,Eldorado Gold Corp
+basicmaterials,EMN,nyse,Eastman Chemical Co
+basicmaterials,EMSN.ZU,zurich,Ems-Chemie Holding AG
+basicmaterials,ENB,nyse,Enbridge Inc
+basicmaterials,ENC.MC,bolsademadrid,Ence Energia Y Celulosa SA
+basicmaterials,ENI.MI,borsaitaliana,Eni Energy Company
+basicmaterials,EOG,nyse,EOG Resources Inc
+basicmaterials,EPD,nyse,Enterprise Products Partners LP
+basicmaterials,ESI,nyse,Element Solutions Inc
+basicmaterials,ET,nyse,Energy Transfer LP
+basicmaterials,EVK.DE,frankfurt,Evonik
+basicmaterials,EVN.ASX,Sydney,Evolution Mining Limited
+basicmaterials,EXK,nyse,Endeavour Silver Corp
+basicmaterials,FANG,nasdaq,Diamondback Energy Inc
+basicmaterials,FCX,nyse,Freeport-McMoRan Inc
+basicmaterials,FMC,nyse,FMC Corp
+basicmaterials,FMG.ASX,Sydney,Fortescue Metals Group Limited
+basicmaterials,FNV,nyse,Franco-Nevada Corp
+basicmaterials,FRES.L,london,Fresnillo
+basicmaterials,FSM,nyse,Fortuna Silver Mines Inc
+basicmaterials,FTI,nyse,TechnipFMC Plc
+basicmaterials,FUL,nyse,H.B. Fuller Company
+basicmaterials,GFI,nyse,Gold Fields Ltd
+basicmaterials,GGB,nyse,Gerdau SA
+basicmaterials,GIVN.ZU,zurich,Givaudan S.A
+basicmaterials,GLEN.L,london,Glencore Plc
+basicmaterials,GOLD.BARRICK,nyse,Barrick Gold
+basicmaterials,GXI.DE,frankfurt,Gerresheimer
+basicmaterials,HAL,nyse,Halliburton Co
+basicmaterials,HES,nyse,Hess Corp
+basicmaterials,HL,nyse,Hecla Mining Company
+basicmaterials,HMY,nyse,Harmony Gold Mining Co Ltd
+basicmaterials,HOLN.ZU,zurich,Holcim Ltd
+basicmaterials,HUN,nyse,Huntsman Corp
+basicmaterials,HVPE.L,london,HarbourVest Global Private Equity Ltd
+basicmaterials,ICL,nyse,ICL Group Ltd
+basicmaterials,IFF,nyse,International Flavors & Fragra
+basicmaterials,IGG.L,london,IG Group Holdings PLC
+basicmaterials,IGO.ASX,Sydney,IGO Limited
+basicmaterials,ILU.ASX,Sydney,Iluka Resources Limited
+basicmaterials,IMCD.NV,amsterdam,IMCD NV
+basicmaterials,INT,nyse,World Fuel Services Corp
+basicmaterials,IP,nyse,International Paper Co
+basicmaterials,IPL.ASX,Sydney,Incitec Pivot Limited
+basicmaterials,JKS,nyse,JinkoSolar Holding Co Ltd
+basicmaterials,JMAT.L,london,Johnson Matthey
+basicmaterials,KGC,nyse,Kinross Gold Corp
+basicmaterials,KMI,nyse,Kinder Morgan Inc
+basicmaterials,KRO,nyse,Kronos Worldwide Inc
+basicmaterials,LAC,nyse,Lithium Americas Corp
+basicmaterials,LIN,nyse,Linde PLC
+basicmaterials,LKOD.L,london,Lukoil OAO
+basicmaterials,LMP.L,london,LondonMetric Property PLC
+basicmaterials,LNG,nyse,Cheniere Energy Inc
+basicmaterials,LTHM,nyse,Livent Corp
+basicmaterials,LTR.ASX,Sydney,Liontown Resources Limited
+basicmaterials,LXS.DE,frankfurt,LANXESS
+basicmaterials,LYB,nyse,LyondellBasell Industries NV
+basicmaterials,LYC.ASX,Sydney,Lynas Rare Earths Limited
+basicmaterials,MAG,nyse,MAG Silver Corp
+basicmaterials,MIN.ASX,Sydney,Mineral Resources Limited
+basicmaterials,MNODL.L,london,MMC Norilsk Nickel OJSC
+basicmaterials,MOS,nyse,Mosaic Co
+basicmaterials,MP,nyse,MP Materials Corp.
+basicmaterials,MRO,nyse,Marathon Oil Corp
+basicmaterials,MT.US,nyse,ArcelorMittal ADR
+basicmaterials,MTS.MC,bolsademadrid,ArcelorMittal
+basicmaterials,MUR,nyse,Murphy Oil Corp
+basicmaterials,NCM.ASX,Sydney,Newcrest Mining Limited
+basicmaterials,NCMGF,nasdaq,Newcrest Mining LTD
+basicmaterials,NDA.DE,frankfurt,Aurubis AG
+basicmaterials,NDX1.DE,frankfurt,Nordex
+basicmaterials,NEM,nyse,Newmont Mining Corp
+basicmaterials,NESTE.HE,helsinki,Neste Oyj
+basicmaterials,NFE,nasdaq,New Fortress Energy Inc.
+basicmaterials,NOV,nyse,NOV Inc
+basicmaterials,NST.ASX,Sydney,Northern Star Resources Limited
+basicmaterials,NUE,nyse,Nucor Corp
+basicmaterials,OCDO.L,london,Ocado Group PLC
+basicmaterials,OCI.NV,amsterdam,OCI NV
+basicmaterials,OERL.ZU,zurich,OC Oerlikon Corporation AG
+basicmaterials,OLN,nyse,Olin Corp
+basicmaterials,ORRON.ST,stockholm,Orron Energy AB
+basicmaterials,OUT1V.HE,helsinki,Outokumpu Oyj
+basicmaterials,OVV,nyse,Ovintiv Inc
+basicmaterials,OXY,nyse,Occidental Petroleum Corp
+basicmaterials,OZL.ASX,Sydney,OZ Minerals Limited
+basicmaterials,PAAS,nasdaq,Pan American Silver Corp
+basicmaterials,PAGP,nasdaq,Plains GP Holdings LP
+basicmaterials,PBF,nyse,PBF Energy Inc
+basicmaterials,PBR,nyse,Petroleo Brasileiro SA Petrobras
+basicmaterials,PBR.A,nyse,Petroleo Brasileiro ADR
+basicmaterials,PFC.L,london,Petrofac
+basicmaterials,PGS.OL,oslo,Petroleum Geo-Services
+basicmaterials,PKX,nyse,Posco - ADR
+basicmaterials,PLS.ASX,Sydney,Pilbara Minerals Limited
+basicmaterials,PPG,nyse,PPG Industries Inc
+basicmaterials,PRS.OL,oslo,Prosafe
+basicmaterials,PTRCY,nyse,PetroChina Company Limited
+basicmaterials,PXD,nyse,Pioneer Natural Resources Company
+basicmaterials,RAA.DE,frankfurt,Rational AG
+basicmaterials,RCP.L,london,RIT Capital Partners PLC
+basicmaterials,RGLD,nasdaq,Royal Gold Inc.
+basicmaterials,RHIM.L,london,RHI Magnesita
+basicmaterials,RIG,nyse,Transocean LTD
+basicmaterials,RIO,nyse,Rio Tinto PLC ADR
+basicmaterials,RIO.ASX,Sydney,Rio Tinto Group
+basicmaterials,RIO.L,london,Rio Tinto
+basicmaterials,ROG,nyse,Rogers Corporation
+basicmaterials,ROSNL.L,london,Rosneft OAO
+basicmaterials,RPM,nyse,RPM International Inc
+basicmaterials,RS,nyse,Reliance Steel And Aluminum Co
+basicmaterials,RTN.L,london,Restaurant Group PLC
+basicmaterials,RWI.L,london,Renewi
+basicmaterials,S32.ASX,Sydney,South32 Limited
+basicmaterials,SAGA.L,london,Saga PLC
+basicmaterials,SAND.ST,stockholm,Sandvik AB
+basicmaterials,SAOC,tadawul,Aramco Saudi Arabian Oil Corp
+basicmaterials,SBSW,nyse,Sibanye Stillwater Ltd
+basicmaterials,SCCO,nyse,Southern Copper Corp
+basicmaterials,SDF.DE,frankfurt,K+S Aktiengesellschaft
+basicmaterials,SGL.DE,frankfurt,SGL Carbon
+basicmaterials,SHEL,nyse,Shell PLS (ADR)
+basicmaterials,SHLS,nasdaq,Shoals Technologies Group Inc
+basicmaterials,SHW,nyse,Sherwin-Williams Co
+basicmaterials,SID,nyse,Cia Siderurgica Nacional SA
+basicmaterials,SLB,nyse,Schlumberger Ltd
+basicmaterials,SLVM,nyse,Sylvamo Corp.
+basicmaterials,SNPTY,nyse,China Petroleum & Chemical Corporation ADR
+basicmaterials,SOLB.PA,paris,SOLVAY
+basicmaterials,SON,nyse,Sonoco Products Co
+basicmaterials,SQM,nyse,Sociedad Quimica y Minera de Chile SA
+basicmaterials,SRP.L,london,Serco Group PLC
+basicmaterials,SSABAH.HE,helsinki,SSAB AB ser. A
+basicmaterials,SSL,nyse,Sasol Ltd
+basicmaterials,SSRM,nasdaq,SSR Mining Inc
+basicmaterials,STEM,nyse,Stem Inc.
+basicmaterials,STLD,nasdaq,Steel Dynamics Inc
+basicmaterials,SU,nyse,Suncor Energy Inc.
+basicmaterials,SUBC.OL,oslo,Subsea 7
+basicmaterials,SUZ,nyse,Suzano SA
+basicmaterials,SVS.L,london,Savills PLC
+basicmaterials,SVSTL.L,london,Severstal PAO
+basicmaterials,SWN,nyse,Southwestern Energy Co
+basicmaterials,SXT,nyse,Sensient Technologies Corp
+basicmaterials,SY1.DE,frankfurt,Symrise
+basicmaterials,SZG.DE,frankfurt,Salzgitter
+basicmaterials,TECK,nyse,Teck Resources Ltd
+basicmaterials,TEN.MI,borsaitaliana,Tenaris Group
+basicmaterials,TGS.OL,oslo,TGS-NOPEC
+basicmaterials,TKA.DE,frankfurt,ThyssenKrupp AG
+basicmaterials,TLW.L,london,Tullow Oil
+basicmaterials,TPL,nyse,Texas Pacific Land Corporation
+basicmaterials,TRGP,nyse,Targa Resources Corp
+basicmaterials,TROX,nyse,Tronox Holdings PLC
+basicmaterials,TTE,nyse,TotalEnergies SE
+basicmaterials,TTE.PA,paris,TotalEnergies SE
+basicmaterials,TX,nyse,Ternium SA
+basicmaterials,UHR.ZU,zurich,The Swatch Group SA - B Shares
+basicmaterials,UMI.BR,brussels,Umicore
+basicmaterials,UPM.HE,helsinki,UPM-Kymmene Oyj
+basicmaterials,VALE,nyse,Vale SA
+basicmaterials,VOE.DE,frankfurt,Voestalpine AG
+basicmaterials,VOLV-A.ST,stockholm,Volvo AB ser. A
+basicmaterials,VUL.ASX,Sydney,Vulcan Energy Resources Ltd
+basicmaterials,VVV,nyse,Valvoline Inc.
+basicmaterials,VWS.CO,copenhagen,Vestas Wind Systems A/S
+basicmaterials,WDS,nyse,Woodside Energy Group LTD.
+basicmaterials,WLK,nyse,Westlake Chemical Corp
+basicmaterials,WPM,nyse,Wheaton Precious Metals Corp
+basicmaterials,X,nyse,United States Steel Corp
+basicmaterials,XOM,nyse,Exxon-Mobil
+conglomerates,BYD,nyse,Boyd Gaming
+conglomerates,CC,nyse,The Chemours
+conglomerates,CCU,nyse,Cia Cervecerias unidas
+conglomerates,FAST,nasdaq,Fastenal Company
+conglomerates,IEP,nasdaq,Icahn Entrpres Depositary Units Repr Units of LP Interests
+conglomerates,MMM,nyse,3M
+conglomerates,POST,nyse,Post holdings
+conglomerates,SBH,nyse,Sally Beauty Holdings Inc.
+conglomerates,SPB,nyse,Spectrum Brands Holdings Inc.
+conglomerates,WEN,nasdaq,Wendy's
+consumergoods,00027.HK,hongkong,Galaxy Entertainment Group Ltd
+consumergoods,00175.HK,hongkong,Geely Automobile Holdings Ltd
+consumergoods,00322.HK,hongkong,Tingyi Cayman Islands Holding
+consumergoods,00880.HK,hongkong,SJM Holdings Ltd
+consumergoods,01055.HK,hongkong,China Southern Airlines Co Ltd
+consumergoods,01093.HK,hongkong,CSPC Pharmaceutical Group Ltd
+consumergoods,01114.HK,hongkong,Brilliance China Automotive
+consumergoods,01128.HK,hongkong,Wynn Macau Ltd
+consumergoods,01177.HK,hongkong,Sino Biopharmaceutical Ltd
+consumergoods,01211.HK,hongkong,BYD Co Ltd
+consumergoods,01928.HK,hongkong,Sands China Ltd
+consumergoods,02020.HK,hongkong,ANTA Sports Products Ltd
+consumergoods,02196.HK,hongkong,Shanghai Fosun Pharmaceutical
+consumergoods,02269.HK,hongkong,Wuxi Biologics Cayman Inc
+consumergoods,02313.HK,hongkong,Shenzhou International Group
+consumergoods,02319.HK,hongkong,China Mengniu Dairy Co Ltd
+consumergoods,0489.HK,hongkong,Dongfeng Motor Group
+consumergoods,06862.HK,hongkong,Haidilao International Holding
+consumergoods,0753.HK,hongkong,Air China
+consumergoods,0941.HK,hongkong,China Mobile
+consumergoods,1044.HK,hongkong,Hengan International Group Co Ltd
+consumergoods,1317.HK,hongkong,China Maple Leaf Educational Systems Ltd
+consumergoods,151.HK,hongkong,Want Want China Holdings Ltd
+consumergoods,1530.HK,hongkong,3SBio Inc
+consumergoods,1585.HK,hongkong,Yadea Group Holdings Ltd
+consumergoods,1797.HK,hongkong,Koolearn Technology Holding Ltd
+consumergoods,1801.HK,hongkong,Innovent Biologics Inc
+consumergoods,1810.HK,hongkong,Xiaomi Corp
+consumergoods,1833.HK,hongkong,Ping An Healthcare and Technology Co Ltd
+consumergoods,1873.HK,hongkong,Viva Biotech Holdings
+consumergoods,1958.HK,hongkong,BAIC Motor Corp Ltd
+consumergoods,200.HK,hongkong,Melco International Development Ltd
+consumergoods,2238.HK,hongkong,Guangzhou Automobile
+consumergoods,2331.HK,hongkong,Li Ning Co Ltd
+consumergoods,2333.HK,hongkong,Great Wall Motor
+consumergoods,2338.HK,hongkong,Weichai Power
+consumergoods,288.HK,hongkong,WH Group Ltd
+consumergoods,341.HK,hongkong,Cafe de Coral Holdings Ltd
+consumergoods,6055.HK,hongkong,China Tobacco International HK Co Ltd
+consumergoods,6185.HK,hongkong,CanSino Biologics Inc
+consumergoods,9866.HK,hongkong,NIO Inc Class A
+consumergoods,9926.HK,hongkong,Akeso Inc
+consumergoods,AAK.ST,stockholm,AAK AB
+consumergoods,AAPL,nasdaq,Apple
+consumergoods,ABC,nyse,AmerisourceBergen Corp
+consumergoods,ABCL,nasdaq,AbCellera Biologics Inc.
+consumergoods,ABEV,nyse,Ambev ADR
+consumergoods,ABF.L,london,Associated British Foods
+consumergoods,ABI.BR,brussels,Anheuser Busch InBev
+consumergoods,ABMD,nasdaq,ABIOMED Inc
+consumergoods,ACAD,nasdaq,ACADIA Pharmaceuticals Inc
+consumergoods,ACHC,nasdaq,Acadia Healthcare Company Inc.
+consumergoods,ACI,nyse,Albertsons Cos Inc
+consumergoods,AD.NV,amsterdam,Koninklijke Ahold NV
+consumergoods,ADM,nyse,Archer-Daniels-Midland Co
+consumergoods,ADMP,nasdaq,Adamis Pharmaceuticals Corp
+consumergoods,ADNT,nyse,Adient plc
+consumergoods,ADS.DE,frankfurt,Adidas AG
+consumergoods,ADVM,nasdaq,Adverum Biotechnologies Inc
+consumergoods,ADYEN.NV,amsterdam,Adyen NV
+consumergoods,AEO,nyse,American Eagle Outfitters Inc
+consumergoods,AF.PA,paris,Air France-KLM
+consumergoods,AFRM,nasdaq,Affirm
+consumergoods,AGL,nyse,agilon health inc.
+consumergoods,AGL.MI,borsaitaliana,Autogrill
+consumergoods,AGRO,nyse,Adecoagro S.A.
+consumergoods,AGRX,nasdaq,Agile Therapeutics Inc
+consumergoods,AHCO,nasdaq,AdaptHealth Corp.
+consumergoods,ALC.ZU,zurich,Alcon Inc.
+consumergoods,ALDX,nasdaq,Aldeyra Therapeutics Inc
+consumergoods,ALGN,nasdaq,Align Technology Inc
+consumergoods,ALGT,nasdaq,Allegiant Travel Company
+consumergoods,ALKS,nasdaq,Alkermes plc
+consumergoods,ALL.ASX,Sydney,Aristocrat Leisure Limited
+consumergoods,ALLO,nasdaq,Allogene Therapeutics Inc.
+consumergoods,ALM.MC,bolsademadrid,Laboratorios Almirall SA
+consumergoods,ALNY,nasdaq,Alnylam Pharmaceuticals Inc
+consumergoods,ALSN,nyse,Allison Transmission Holdings Inc
+consumergoods,ALV,nyse,Autoliv Inc
+consumergoods,AM,nyse,Antero Midstream Corp
+consumergoods,AMBUB.CO,copenhagen,Ambu A/S
+consumergoods,AMC,nyse,AMC Entertainment Holdings Inc
+consumergoods,AMED,nasdaq,Amedisys Inc
+consumergoods,AML.L,london,Aston Martin Lagonda Global Holdings PLC
+consumergoods,AMN,nyse,AMN Healthcare Services Inc.
+consumergoods,ANDE,nasdaq,Andersons Inc
+consumergoods,APE.US,nyse,AMC pref
+consumergoods,APLS,nasdaq,Apellis Pharmaceuticals Inc.
+consumergoods,APP,nasdaq,Applovin Corp
+consumergoods,APPS.MC,bolsademadrid,Applus Services SA
+consumergoods,APRN,nyse,Blue Apron Holdings Inc.
+consumergoods,APTV,nyse,Aptiv PLC
+consumergoods,AR.US,nyse,Antero Resources Corp
+consumergoods,ARCH,nyse,Arch Resources Inc
+consumergoods,ARCT,nasdaq,Arcturus Therapeutics Holdings Inc
+consumergoods,ARGX,nasdaq,Argenx SE
+consumergoods,ARGX.BR,brussels,Argenx Se
+consumergoods,ARVL,nasdaq,Arrival
+consumergoods,ARVN,nasdaq,Arvinas Inc.
+consumergoods,ARWR,nasdaq,Arrowhead Pharmaceuticals Inc
+consumergoods,ASGN,nyse,ASGN Incorporated
+consumergoods,ASND,nasdaq,Ascendis Pharma
+consumergoods,ASO,nasdaq,Academy Sports and Outdoors Inc.
+consumergoods,ASXC,nyse,Asensus Surgical Inc.
+consumergoods,ATGE,nyse,Adtalem Global Education Inc
+consumergoods,ATHX,nasdaq,Athersys Inc
+consumergoods,ATNX,nasdaq,Athenex Inc
+consumergoods,ATR,nyse,AptarGroup Inc.
+consumergoods,ATRA,nasdaq,Atara Biotherapeutics Inc
+consumergoods,ATST.L,london,Alliance Trust PLC
+consumergoods,AUPH,nasdaq,Aurinia Pharmaceuticals Inc.
+consumergoods,AVNT,nyse,Avient Corporation
+consumergoods,AVTR,nyse,Avantor Inc
+consumergoods,AVV.L,london,AVEVA Group PLC
+consumergoods,AVXL,nasdaq,Anavex Life Sciences Corp
+consumergoods,AVY,nyse,Avery Dennison Corp
+consumergoods,AXGN,nasdaq,Axogen Inc.
+consumergoods,AXL,nyse,American Axle & Manufacturing Holdings Inc
+consumergoods,AXNX,nasdaq,Axonics Inc.
+consumergoods,AXSM,nasdaq,Axsome Therapeutics Inc
+consumergoods,AY,nasdaq,Atlantica Sustainable Infrastructure PLC
+consumergoods,AYRO,nasdaq,AYRO Inc
+consumergoods,AYTU,nasdaq,Aytu BioScience Inc
+consumergoods,AZN,nasdaq,AstraZeneca PLC ADR
+consumergoods,AZUL,nyse,Azul SA
+consumergoods,B4B.DE,frankfurt,METRO AG
+consumergoods,BAKK.L,london,Bakkavor
+consumergoods,BALL,nyse,Ball Corp
+consumergoods,BALY,nyse,Ballys Corporation
+consumergoods,BARN.ZU,zurich,Barry Callebaut AG
+consumergoods,BATS.L,london,British American Tobacco
+consumergoods,BB.PA,paris,Societe BIC SA
+consumergoods,BBIO,nasdaq,Bridgebio Pharma Inc
+consumergoods,BBOX.L,london,Tritax Big Box REIT Plc
+consumergoods,BC,nyse,Brunswick Corp
+consumergoods,BCO,nyse,Brinks Co
+consumergoods,BCRX,nasdaq,BioCryst Pharmaceuticals Inc
+consumergoods,BEAM,nasdaq,Beam Therapeutics Inc.
+consumergoods,BEI.DE,frankfurt,Beiersdorf AG
+consumergoods,BERY,nyse,Berry Plastics Group Inc
+consumergoods,BF-B,nyse,Brown-Forman Corporation
+consumergoods,BFAM,nyse,Bright Horizons Family Solutions
+consumergoods,BFLY,nyse,Butterfly Network Inc.
+consumergoods,BG,nyse,Bunge Ltd
+consumergoods,BGEO.L,london,Bank of Georgia Group PLC
+consumergoods,BGNE,nasdaq,BeiGene Ltd
+consumergoods,BGS,nyse,B&G Foods Inc.
+consumergoods,BHVN,nyse,Biohaven Pharmaceutical Holding Co Ltd
+consumergoods,BILI,nasdaq,Bilibili
+consumergoods,BIM.PA,paris,BioMerieux
+consumergoods,BIO,nyse,Bio-Rad Laboratories Inc
+consumergoods,BJ,nyse,BJ's Wholesale Club Holdings Inc
+consumergoods,BKD,nyse,Brookdale Senior Living Inc
+consumergoods,BLD,nyse,TopBuild Corp.
+consumergoods,BLFS,nasdaq,BioLife Solutions Inc
+consumergoods,BLUE,nasdaq,Bluebird Bio Inc
+consumergoods,BMRN,nasdaq,BioMarin Pharmaceutical Inc
+consumergoods,BMW.DE,frankfurt,Bayerische Motoren Werke Aktiengesellschaft
+consumergoods,BN.PA,paris,Danone S.A
+consumergoods,BNGO,nasdaq,BioNano Genomics Inc
+consumergoods,BNTX,nasdaq,BioNTech SE
+consumergoods,BOOT,nyse,Boot Barn Holdings Inc
+consumergoods,BOSS.DE,frankfurt,HUGO BOSS
+consumergoods,BOY.L,london,Bodycote PLC
+consumergoods,BPMC,nasdaq,Blueprint Medicines Corp
+consumergoods,BRFS,nyse,BRF SA
+consumergoods,BRKR,nasdaq,Bruker Corp
+consumergoods,BROS,nyse,Dutch Bros Inc.
+consumergoods,BSX.US,nyse,Boston Scientific Corp
+consumergoods,BTI,nyse,British American Tobacco PLC ADR
+consumergoods,BUD,nyse,Anheuser-Busch Inbev Sa
+consumergoods,BVI.PA,paris,Bureau Veritas SA
+consumergoods,BVIC.L,london,Britvic PLC
+consumergoods,BWA,nyse,BorgWarner Inc
+consumergoods,BXB.ASX,Sydney,Brambles Limited
+consumergoods,BYG.L,london,Big Yellow Group PLC
+consumergoods,CA.PA,paris,Carrefour SA
+consumergoods,CAG,nyse,ConAgra Foods Inc
+consumergoods,CAH,nyse,Cardinal Health Inc
+consumergoods,CAKE,nasdaq,The Cheesecake Factory Inc
+consumergoods,CAL,nyse,Caleres Inc
+consumergoods,CBRL,nasdaq,Cracker Barrel Old Country Store Inc.
+consumergoods,CCEP,nyse,Coca-Cola Europacific partners
+consumergoods,CCH.L,london,Coca Cola Hellenic
+consumergoods,CCK,nyse,Crown Holdings Inc
+consumergoods,CCL,nyse,Carnival Corp
+consumergoods,CCL.L,london,Carnival
+consumergoods,CCXI,nasdaq,ChemoCentryx Inc.
+consumergoods,CDI.PA,paris,Christian Dior
+consumergoods,CDMO,nasdaq,Avid Bioservices Inc.
+consumergoods,CDNA,nasdaq,CareDx Inc
+consumergoods,CEC.DE,frankfurt,Ceconomy St
+consumergoods,CELH,nasdaq,Celsius Holdings Inc.
+consumergoods,CEMI,nasdaq,Chembio Diagnostics Inc
+consumergoods,CENN,nasdaq,Cenntro Electric Group Limited
+consumergoods,CENTA,nasdaq,Central Garden & Pet Company
+consumergoods,CERS,nasdaq,Cerus Corp
+consumergoods,CERT,nasdaq,Certara Inc.
+consumergoods,CGC,nasdaq,Canopy Growth Corp
+consumergoods,CHD,nyse,Church & Dwight Co Inc
+consumergoods,CHE,nyse,Chemed Corp
+consumergoods,CHEF,nasdaq,The Chefs' Warehouse Inc
+consumergoods,CHGG,nyse,Chegg Inc
+consumergoods,CHH,nyse,Choice Hotels International Inc
+consumergoods,CHRS,nasdaq,Coherus Biosciences Inc
+consumergoods,CHWY,nyse,Chewy
+consumergoods,CL,nyse,Colgate-Palmolive
+consumergoods,CLDX,nasdaq,Celldex Therapeutics Inc
+consumergoods,CLNE,nasdaq,Clean Energy Fuels Corp
+consumergoods,CLSK,nasdaq,Cleanspark Inc
+consumergoods,CLVS,nasdaq,Clovis Oncology Inc
+consumergoods,CLX,nyse,Clorox Co
+consumergoods,CMCSA,nasdaq,Comcast Corp
+consumergoods,CMPS,nasdaq,COMPASS Pathways plc
+consumergoods,CNE.L,london,Cairn Energy PLC
+consumergoods,CNK,nyse,Cinemark Holdings Inc
+consumergoods,CNM,nyse,Core & Main Inc
+consumergoods,CNMD,nyse,Conmed Corp.
+consumergoods,CNQ,nyse,Canadian Natural Resources Ltd
+consumergoods,CNX,nyse,CNX Resources Corp
+consumergoods,CO.PA,paris,Casino Guichard Perrachon SA
+consumergoods,COCP,nasdaq,Cocrystal Pharma Inc
+consumergoods,CODX,nasdaq,Co-Diagnostics Inc
+consumergoods,COH.ASX,Sydney,Cochlear Limited
+consumergoods,COL.ASX,Sydney,Coles Group Limited
+consumergoods,COLM,nasdaq,Columbia Sportswear Company
+consumergoods,COLR.BR,brussels,Colruyt Group
+consumergoods,CON.DE,frankfurt,Continental AG
+consumergoods,COST,nasdaq,Costco Wholesale Corp
+consumergoods,COTY,nyse,Coty Inc
+consumergoods,COUR,nyse,Coursera Inc.
+consumergoods,CPA,nyse,Copa Holdings SA
+consumergoods,CPB,nyse,Campbell Soup Co
+consumergoods,CPE,nyse,Callon Petroleum Co
+consumergoods,CPR.MI,borsaitaliana,Davide Campari - Milano Beverage
+consumergoods,CPRI,nyse,Capri Holdings Ltd
+consumergoods,CPRT,nasdaq,Copart Inc
+consumergoods,CPRX,nasdaq,Catalyst Pharmaceuticals Inc
+consumergoods,CRI,nyse,Carter's
+consumergoods,CRIS,nasdaq,Curis Inc
+consumergoods,CRK,nyse,Comstock Resources Inc
+consumergoods,CRL,nyse,Charles River Laboratories International Inc
+consumergoods,CROX,nasdaq,Crocs Inc
+consumergoods,CRSP,nasdaq,CRISPR Therapeutics AG
+consumergoods,CSGP,nasdaq,CoStar Group Inc
+consumergoods,CSL,nyse,Carlisle Companies Incorporated
+consumergoods,CSL.ASX,Sydney,CSL Limited
+consumergoods,CTEC.L,london,ConvaTec
+consumergoods,CTKB,nasdaq,Cytek Biosciences Inc
+consumergoods,CTLT,nyse,Catalent Inc
+consumergoods,CTVA,nyse,Corteva Inc
+consumergoods,CURV,nyse,Torrid Holdings Inc
+consumergoods,CVE,nyse,Cenovus Energy Inc
+consumergoods,CVET,nasdaq,Covetrus Inc
+consumergoods,CVNA,nyse,Carvana Co
+consumergoods,CWH,nyse,Camping World Holdings Inc.
+consumergoods,CWK.L,london,Cranswick PLC
+consumergoods,CYTK,nasdaq,Cytokinetics Inc
+consumergoods,CZR,nasdaq,Caesars Entertainment Inc
+consumergoods,DAN,nyse,Dana Holding Corp
+consumergoods,DBI,nyse,Designer Brands Inc
+consumergoods,DBV.PA,paris,DBV Technologies
+consumergoods,DECK,nyse,Deckers Outdoor Corp
+consumergoods,DEN,nyse,Denbury Resources Inc
+consumergoods,DENN,nasdaq,Denny's Corp.
+consumergoods,DEO,nyse,Diageo plc ADR
+consumergoods,DG.US,nyse,Dollar General Corporation
+consumergoods,DGE.L,london,Diageo
+consumergoods,DIA.MC,bolsademadrid,Distribuidora Internacional de Alimentacion SA
+consumergoods,DIM.PA,paris,Sartorius Stedim Biotech SA
+consumergoods,DIN,nyse,Dine Brands Global Inc
+consumergoods,DLB,nyse,Dolby Laboratories Inc.
+consumergoods,DLTR,nasdaq,Dollar Tree Inc
+consumergoods,DMP.ASX,Sydney,Dominos Pizza Enterprises Limited
+consumergoods,DNA,nyse,Ginkgo Bioworks Holdings
+consumergoods,DOM.ST,stockholm,Dometic Group AB
+consumergoods,DPH.L,london,Dechra Pharmaceuticals PLC
+consumergoods,DPLM.L,london,Diploma PLC
+consumergoods,DRVN,nasdaq,Driven Brands Holdings Inc
+consumergoods,DS,nyse,Drive Shack Inc
+consumergoods,DTY.L,london,Dignity PLC
+consumergoods,DUFN.ZU,zurich,Dufry AG
+consumergoods,DVAX,nasdaq,Dynavax Technologies Corp
+consumergoods,DXCM,nasdaq,DexCom Inc
+consumergoods,EC,nyse,Ecopetrol SA
+consumergoods,ECL,nyse,Ecolab Inc
+consumergoods,EDEN.PA,paris,Edenred SA
+consumergoods,EDU,nyse,New Oriental Education & Technology Group Inc
+consumergoods,EDV.ASX,Sydney,Endeavour Group Limited
+consumergoods,EEFT,nasdaq,Euronet Worldwide Inc.
+consumergoods,EFX,nyse,Equifax Inc
+consumergoods,EHC,nyse,Encompass Health Corp
+consumergoods,EKTAB.ST,stockholm,Elekta AB Ser. B
+consumergoods,EL,nyse,Estee Lauder Companies Inc
+consumergoods,ELAN,nyse,Elanco Animal Health Inc
+consumergoods,ELF,nyse,elf Beauty Inc
+consumergoods,ELIOR.PA,paris,Elior Group SA
+consumergoods,ELIS.PA,paris,Elis SA
+consumergoods,ENR,nyse,Energizer Holdings Inc
+consumergoods,ENSG,nasdaq,The Ensign Group Inc.
+consumergoods,EO.PA,paris,Faurecia
+consumergoods,EPC,nyse,Edgewell Personal Care
+consumergoods,EQNR,nyse,Equinor ASA
+consumergoods,EQT,nyse,EQT Corp
+consumergoods,ERF.PA,paris,Eurofins Scientific SE
+consumergoods,ERM.L,london,Euromoney Institutional Investor PLC
+consumergoods,ESNT.L,london,Essentra PLC
+consumergoods,ESSITYB.ST,stockholm,Essity AB ser. B
+consumergoods,ETRN,nyse,Equitrans Midstream Corp
+consumergoods,EVD.DE,frankfurt,CTS Eventim
+consumergoods,EVFM,nasdaq,Evofem Biosciences Inc
+consumergoods,EVGO,nasdaq,EVgo Inc
+consumergoods,EVRI,nyse,Everi Holdings Inc
+consumergoods,EW,nyse,Edwards Lifesciences Corp
+consumergoods,EXAS,nasdaq,Exact Sciences Corp
+consumergoods,EXEL,nasdaq,Exelixis Inc
+consumergoods,EYE,nasdaq,National Vision Holdings Inc.
+consumergoods,F,nyse,Ford Motor Co
+consumergoods,FATE,nasdaq,Fate Therapeutics Inc
+consumergoods,FBHS,nyse,Fortune Brands Home & Security Inc
+consumergoods,FCEL,nasdaq,FuelCell Energy Inc
+consumergoods,FCN,nyse,FTI Consulting Inc
+consumergoods,FDJ.PA,paris,LA FRANCAISE DES JEUX
+consumergoods,FEML.L,london,Fidelity Emerging Markets Limited
+consumergoods,FEVR.L,london,Fevertree Drinks PLC
+consumergoods,FIE.DE,frankfurt,Fielmann AG
+consumergoods,FIVE,nasdaq,Five Below Inc
+consumergoods,FIZZ,nasdaq,National Beverage Corp
+consumergoods,FL,nyse,Foot Locker Inc
+consumergoods,FLGT,nasdaq,Fulgent Genetics Inc.
+consumergoods,FLO,nyse,Flowers Foods
+consumergoods,FLT.ASX,Sydney,Flight Centre Travel Group Limited
+consumergoods,FMX,nyse,Fomento Economico Mexicano SAB
+consumergoods,FNAC.PA,paris,Fnac Darty SA
+consumergoods,FND,nyse,Floor & Decor Holdings Inc.
+consumergoods,FOLD,nasdaq,Amicus Therapeutics Inc
+consumergoods,FOSL,nasdaq,Fossil Group Inc.
+consumergoods,FOUR,nyse,Shift4 Payments Inc
+consumergoods,FOXF,nasdaq,Fox Factory Holding Corp.
+consumergoods,FR.PA,paris,Valeo SA
+consumergoods,FROG,nasdaq,Jfrog Ltd
+consumergoods,FRPT,nasdaq,Freshpet Inc
+consumergoods,FRSX,nasdaq,Foresight Autonomous Holdings Ltd
+consumergoods,FSR,nyse,Fisker Inc
+consumergoods,FUN,nyse,Cedar Fair LP
+consumergoods,FXPO.L,london,Ferrexpo PLC
+consumergoods,GALE.ZU,zurich,Galenica AG
+consumergoods,GAN,nasdaq,GAN Limited
+consumergoods,GAW.L,london,Games Workshop
+consumergoods,GBT,nasdaq,Global Blood Therapeutics Inc.
+consumergoods,GDEN,nasdaq,Golden Entertainment Inc
+consumergoods,GDOT,nyse,Green Dot Corp
+consumergoods,GDRX,nasdaq,GoodRx Holdings Inc.
+consumergoods,GEF,nyse,Greif Inc
+consumergoods,GENI,nyse,Genius Sports Limited
+consumergoods,GEST.MC,bolsademadrid,Gestamp Automocion
+consumergoods,GETIB.ST,stockholm,Getinge AB Ser. B
+consumergoods,GEVO,nasdaq,Gevo Inc
+consumergoods,GFRD.L,london,Galliford Try PLC
+consumergoods,GFTU.L,london,Grafton Group PLC
+consumergoods,GGG,nyse,Graco Inc.
+consumergoods,GH,nasdaq,Guardant Health Inc
+consumergoods,GIII,nasdaq,G-III Apparel Group Ltd
+consumergoods,GIS,nyse,General Mills Inc
+consumergoods,GKOS,nyse,Glaukos Corp
+consumergoods,GLPG.NV,amsterdam,Galapagos
+consumergoods,GM,nyse,General Motors Co
+consumergoods,GMED,nyse,Globus Medical Inc
+consumergoods,GN.CO,copenhagen,GN Store Nord A/S
+consumergoods,GNFT.PA,paris,Genfit
+consumergoods,GO,nasdaq,Grocery Outlet Holding Corp
+consumergoods,GOEV,nasdaq,Canoo Inc.
+consumergoods,GOG.L,london,Go-Ahead Group PLC
+consumergoods,GOL,nyse,Gol Linhas Aereas Inteligentes SA
+consumergoods,GOSS,nasdaq,Gossamer Bio Inc
+consumergoods,GPK,nyse,Graphic Packaging Holding Co
+consumergoods,GPN,nyse,Global Payments Inc
+consumergoods,GPRE,nasdaq,Green Plains Inc
+consumergoods,GPRO,nasdaq,GoPro Inc
+consumergoods,GRG.L,london,Greggs PLC
+consumergoods,GRWG,nasdaq,GrowGeneration
+consumergoods,GSK,nyse,GlaxoSmithKline plc ADR
+consumergoods,GT,nasdaq,Goodyear Tire & Rubber Co
+consumergoods,GXO,nyse,GXO Logistics Inc.
+consumergoods,HA,nasdaq,Hawaiian Holdings Inc
+consumergoods,HAE,nyse,Haemonetics Corp.
+consumergoods,HALO,nasdaq,Halozyme Therapeutics Inc
+consumergoods,HAS,nasdaq,Hasbro Inc
+consumergoods,HBI,nyse,Hanesbrands Inc
+consumergoods,HEIA.NV,amsterdam,Heineken
+consumergoods,HEIO.NV,amsterdam,Heineken Holding NV
+consumergoods,HELE,nasdaq,Helen of Troy Limited
+consumergoods,HEN3.DE,frankfurt,Henkel AG & Co. KGaA
+consumergoods,HEXO,nasdaq,HEXO Corp
+consumergoods,HFD.L,london,Halfords Group PLC
+consumergoods,HFG.DE,frankfurt,HelloFresh SE
+consumergoods,HGV,nyse,Hilton Grand Vacations Inc
+consumergoods,HIK.L,london,Hikma Pharmaceuticals PLC
+consumergoods,HILS.L,london,Hill & Smith Holdings PLC
+consumergoods,HLE.DE,frankfurt,Hella
+consumergoods,HLF,nyse,Herbalife Nutrition Ltd.
+consumergoods,HLN,nyse,Haleon PLC
+consumergoods,HM-B.ST,stockholm,"Hennes & Mauritz AB, H & M ser. B"
+consumergoods,HMC,nyse,"Honda Motor Co, Ltd"
+consumergoods,HOG,nyse,Harley-Davidson Inc
+consumergoods,HOLX,nasdaq,Hologic Inc
+consumergoods,HP,nyse,Helmerich & Payne Inc
+consumergoods,HQY,nasdaq,HealthEquity Inc
+consumergoods,HRB,nyse,H&R Block Inc
+consumergoods,HRL,nyse,Hormel Foods Corp
+consumergoods,HSKA,nasdaq,Heska Corporation
+consumergoods,HSX.L,london,Hiscox Ltd
+consumergoods,HSY,nyse,Hershey Co
+consumergoods,HTGM,nasdaq,HTG Molecular Diagnostics Inc
+consumergoods,HTHT,nasdaq,Huazhu Group Ltd
+consumergoods,HTZWW,Sydney,Hertz Global Holdings Inc. Wt
+consumergoods,HUT,nasdaq,Hut 8 Mining Corp
+consumergoods,HYLN,nyse,Hyliion Holdings Corp
+consumergoods,HYZN,nasdaq,Hyzon Motors Inc.
+consumergoods,HZNP,nasdaq,Horizon Therapeutics Public Limited Company
+consumergoods,IAA,nyse,IAA Inc.
+consumergoods,IART,nasdaq,Integra LifeSciences Holdings Corporation
+consumergoods,IBP,nyse,Installed Building Products Inc
+consumergoods,IBRX,nasdaq,ImmunityBio Inc
+consumergoods,ICLR,nasdaq,ICON Public Limited Company
+consumergoods,ICP.L,london,Intermediate Capital Group PLC
+consumergoods,ICUI,nasdaq,ICU Medical Inc.
+consumergoods,IDXX,nasdaq,IDEXX Laboratories Inc
+consumergoods,IEL.ASX,Sydney,IDP Education Limited
+consumergoods,IFRX,nasdaq,InflaRx NV
+consumergoods,IGT,nyse,International Game Technology PLC
+consumergoods,IHG,nyse,InterContinental Hotels Group PLC
+consumergoods,IMAB,nasdaq,I-Mab
+consumergoods,IMAX,nyse,IMAX Corp
+consumergoods,IMB.L,london,Imperial Brands PLC
+consumergoods,IMGN,nasdaq,ImmunoGen Inc
+consumergoods,INDV.L,london,Indivior PLC
+consumergoods,INGN,nasdaq,Inogen Inc
+consumergoods,INGR,nyse,Ingredion Inc
+consumergoods,INMD,nasdaq,Inmode Ltd
+consumergoods,INO,nasdaq,Inovio Pharmaceuticals Inc
+consumergoods,INPP.L,london,International Public Partnerships Ltd
+consumergoods,INSM,nasdaq,Insmed Incorporated
+consumergoods,INSP,nyse,Inspire Medical Systems Inc.
+consumergoods,IOVA,nasdaq,Iovance Biotherapeutics Inc.
+consumergoods,IPN.PA,paris,Ipsen SA
+consumergoods,IPO.L,london,IP Group PLC
+consumergoods,IRBT,nasdaq,iRobot Corp.
+consumergoods,IRTC,nasdaq,iRhythm Technologies Inc.
+consumergoods,IRWD,nasdaq,Ironwood Pharmaceuticals Inc.
+consumergoods,ISRG,nasdaq,Intuitive Surgical Inc
+consumergoods,IT,nyse,Gartner Inc
+consumergoods,ITCI,nasdaq,Intra-Cellular Therapies Inc
+consumergoods,ITX.MC,bolsademadrid,Industria de Diseno Textil SA
+consumergoods,IVVD,nasdaq,Invivyd Inc
+consumergoods,JACK,nasdaq,Jack in the Box Inc
+consumergoods,JAGX,nasdaq,Jaguar Health Inc
+consumergoods,JBH.ASX,Sydney,JB Hi-Fi Limited
+consumergoods,JCI,nyse,Johnson Controls Inc
+consumergoods,JD.L,london,JD Sports Fashion PLC
+consumergoods,JMT.LSB,lisbon,Jeronimo Martins SGPS SA
+consumergoods,JOE,nyse,The St. Joe Company
+consumergoods,JOUT,nasdaq,Johnson Outdoors Inc.
+consumergoods,JUP.L,london,Jupiter Fund Management PLC
+consumergoods,JUVE.MI,borsaitaliana,Juventus Football Club
+consumergoods,K,nyse,Kellogg Co
+consumergoods,KAR,nyse,KAR Auction Services Inc
+consumergoods,KBH,nyse,KB Home
+consumergoods,KDP,nasdaq,Keurig Dr Pepper Inc.
+consumergoods,KER.PA,paris,Kering SA
+consumergoods,KESKOB.HE,helsinki,Kesko Oyj B
+consumergoods,KHC,nasdaq,The Kraft Heinz Company
+consumergoods,KINDSDB.ST,stockholm,Kindred Group plc
+consumergoods,KMB,nyse,Kimberly-Clark Corp
+consumergoods,KNDI,nasdaq,Kandi Technologies Group Inc
+consumergoods,KO,nyse,Coca-Cola
+consumergoods,KOS,nyse,Kosmos Energy Ltd
+consumergoods,KR,nyse,Kroger Co
+consumergoods,KTB,nyse,Kontoor Brands Inc.
+consumergoods,LAD,nyse,Lithia Motors Inc
+consumergoods,LAZR,nasdaq,Luminar Technologies Inc.
+consumergoods,LCII,nyse,LCI Industries
+consumergoods,LEA,nyse,Lear Corp
+consumergoods,LEG,nyse,Leggett & Platt Inc
+consumergoods,LEGN,nasdaq,Legend Biotech Corporation
+consumergoods,LEVI,nyse,Levi Strauss & Co.
+consumergoods,LGIH,nasdaq,LGI Homes Inc.
+consumergoods,LHCG,nasdaq,LHC Group Inc.
+consumergoods,LHX,nyse,L3Harris
+consumergoods,LI,nasdaq,Li Auto Inc
+consumergoods,LIVN,nasdaq,LivaNova PLC
+consumergoods,LKQ,nasdaq,LKQ Corp
+consumergoods,LNW,nasdaq,Light & Wonder Inc
+consumergoods,LONN.ZU,zurich,Lonza Group Ltd
+consumergoods,LOOMIS.ST,stockholm,Loomis AB
+consumergoods,LOPE,nasdaq,Grand Canyon Education Inc.
+consumergoods,LOVE,nasdaq,The Lovesac Company
+consumergoods,LOW,nyse,Lowe's Companies Inc
+consumergoods,LPI,nyse,Laredo Petroleum Inc
+consumergoods,LRE.L,london,Lancashire Holdings Ltd
+consumergoods,LRN,nyse,Stride Inc.
+consumergoods,LULU,nasdaq,Lululemon Athletica Inc
+consumergoods,LW,nyse,Lamb Weston Holdings Inc
+consumergoods,LXRX,nasdaq,Lexicon Pharmaceuticals Inc
+consumergoods,M,nyse,Macy's Inc
+consumergoods,MANU,nyse,Manchester United
+consumergoods,MARA,nasdaq,Marathon Digital Holdings Inc.
+consumergoods,MASI,nasdaq,Masimo Corp.
+consumergoods,MAT,nasdaq,Mattel Inc
+consumergoods,MBG.DE,frankfurt,Mercedes-Benz Group AG
+consumergoods,MC.PA,paris,LVMH Moet Hennessy Louis Vuitton SA
+consumergoods,MCK,nyse,McKesson Corp
+consumergoods,MCRB,nasdaq,Seres Therapeutics Inc
+consumergoods,MD,nyse,"Pediatrix Medical Group, Inc."
+consumergoods,MDC,nyse,MDC Holdings Inc
+consumergoods,MDC.L,london,Mediclinic International PLC
+consumergoods,MDLZ,nasdaq,Mondelez International Inc
+consumergoods,MED.US,nyse,Medifast Inc
+consumergoods,MEDP,nasdaq,Medpace Holdings Inc.
+consumergoods,MEL.MC,bolsademadrid,Melia Hotels International SA
+consumergoods,MFEB.MI,borsaitaliana,MFE - MediaForEurope NV
+consumergoods,MGA,nyse,Magna International Inc
+consumergoods,MGI,nasdaq,MoneyGram International Inc
+consumergoods,MGNTL.L,london,Magnit PJSC
+consumergoods,MGY,nyse,Magnolia Oil & Gas Corp
+consumergoods,MHK,nyse,Mohawk Industries Inc
+consumergoods,MHO,nyse,M/I Homes Inc.
+consumergoods,MKC,nyse,McCormick & Co Inc
+consumergoods,MKTX,nasdaq,MarketAxess Holdings Inc
+consumergoods,ML.PA,paris,Compagnie Generale DES Etablissements Michelin SCA
+consumergoods,MLCO,nasdaq,Melco Resorts & Entertainment Ltd
+consumergoods,MNDI.L,london,Mondi
+consumergoods,MNKD,nasdaq,MannKind Corp
+consumergoods,MO,nyse,Altria Group Inc
+consumergoods,MODG,nyse,Topgolf Callaway Brands Corp
+consumergoods,MONC.MI,borsaitaliana,Moncler
+consumergoods,MORN,nasdaq,Morningstar Inc.
+consumergoods,MOWI.OL,oslo,Mowi ASA
+consumergoods,MPL.ASX,Sydney,Medibank Private Limited
+consumergoods,MPLX,nyse,MPLX LP
+consumergoods,MRNA,nasdaq,Moderna Inc
+consumergoods,MRTX,nasdaq,Mirati Therapeutics Inc
+consumergoods,MSGE,nyse,Madison Square Garden Entertainment Corp.
+consumergoods,MSGS,nyse,Madison Square Garden Sports Corp
+consumergoods,MSLH.L,london,Marshalls PLC
+consumergoods,MSM,nyse,MSC Industrial Direct Co. Inc.
+consumergoods,MTDR,nyse,Matador Resources Co
+consumergoods,MTH,nyse,Meritage Homes Corp
+consumergoods,MTN,nyse,Vail Resorts Inc
+consumergoods,MTO.L,london,Mitie Group PLC
+consumergoods,NARI,nasdaq,Inari Medical Inc
+consumergoods,NBEVQ,nasdaq,New Age Inc
+consumergoods,NBIX,nasdaq,Neurocrine Biosciences Inc
+consumergoods,NBR,nyse,Nabors Industries Ltd
+consumergoods,NCLH,nyse,Norwegian Cruise Line Holdings
+consumergoods,NDSN,nasdaq,Nordson Corporation
+consumergoods,NEGG,nasdaq,Newegg Commerce Inc
+consumergoods,NEO.US,nasdaq,NeoGenomics Inc.
+consumergoods,NESN.ZU,zurich,Nestle SA
+consumergoods,NEX.L,london,National Express Group PLC
+consumergoods,NHWK,nasdaq,NightHawk Biosciences Inc
+consumergoods,NIO,nyse,Nio Inc.
+consumergoods,NIU,nasdaq,Niu Technologies
+consumergoods,NKE,nyse,NIKE
+consumergoods,NKLA,nasdaq,Nikola Corp
+consumergoods,NKTR,nasdaq,Nektar Therapeutics
+consumergoods,NNOX,nasdaq,Nano-X Imaging Ltd.
+consumergoods,NOMD,nyse,Nomad Foods Ltd
+consumergoods,NOVA,nyse,Sunnova Energy International Inc
+consumergoods,NS,nyse,NuStar Energy LP
+consumergoods,NSP,nyse,Insperity Inc
+consumergoods,NSTG,nasdaq,NanoString Technologies Inc.
+consumergoods,NTCO,nyse,Natura & Co Holding SA
+consumergoods,NTRA,nasdaq,Natera Inc
+consumergoods,NUS,nyse,Nu Skin Enterprises Inc
+consumergoods,NUVA,nasdaq,NuVasive Inc.
+consumergoods,NUWE,nasdaq,Nuwellis Inc
+consumergoods,NVAX,nasdaq,Novavax Inc
+consumergoods,NVCR,nasdaq,Novocure Ltd
+consumergoods,NVEI,nasdaq,Nuvei Corp
+consumergoods,NVO,nyse,Novo-Nordisk A/S SPONS ADR
+consumergoods,NVRO,nyse,Nevro Corp
+consumergoods,NVS,nyse,Novartis ADR
+consumergoods,NVST,nyse,Envista Holdings Corporation
+consumergoods,NVTA,nyse,Invitae Corp
+consumergoods,NWL,nasdaq,Newell Brands Inc.
+consumergoods,OCGN,nasdaq,Ocugen Inc
+consumergoods,OCUL,nasdaq,Ocular Therapeutix Inc
+consumergoods,OGI,nasdaq,Organigram Holdings Inc
+consumergoods,OGN.US,nyse,Organon & Co.
+consumergoods,OI,nyse,O-I Glass Inc
+consumergoods,OLLI,nasdaq,Ollie's Bargain Outlet Holdings Inc
+consumergoods,OLPX,nasdaq,OLAPLEX HOLDINGS INC
+consumergoods,OMCL,nasdaq,Omnicell Inc.
+consumergoods,OPK,nasdaq,OPKO Health Inc
+consumergoods,OR.PA,paris,LOreal SA
+consumergoods,ORK.OL,oslo,Orkla
+consumergoods,ORNBV.HE,helsinki,Orion Oyj Class B
+consumergoods,ORP.PA,paris,Orpea
+consumergoods,ORTX,nasdaq,Orchard Therapeutics plc
+consumergoods,OSB.L,london,OSB Group PLC
+consumergoods,OSH,nyse,Oak Street Health Inc.
+consumergoods,OSK,nyse,Oshkosh Corp
+consumergoods,OTB.L,london,On the Beach
+consumergoods,OTLY,nasdaq,Oatly Group AB
+consumergoods,PAA,nasdaq,Plains All American Pipeline LP
+consumergoods,PACB,nasdaq,Pacific Biosciences of California Inc
+consumergoods,PAG,nyse,Penske Automotive Group Inc
+consumergoods,PAG.L,london,Paragon Group of Cos PLC
+consumergoods,PAH3.DE,frankfurt,Porsche Automobil Holding SE
+consumergoods,PARA,nasdaq,Paramount Global
+consumergoods,PAY.L,london,PayPoint PLC
+consumergoods,PBA,nyse,Pembina Pipeline Corp
+consumergoods,PCAR,nasdaq,Paccar Inc
+consumergoods,PCRX,nyse,Pacira BioSciences Inc.
+consumergoods,PCTY,nasdaq,Paylocity Holding Corporation
+consumergoods,PDCE,nasdaq,PDC Energy Inc
+consumergoods,PDD,nasdaq,Pinduoduo Inc
+consumergoods,PEN,nyse,Penumbra Inc
+consumergoods,PENN,nasdaq,Penn National Gaming Inc
+consumergoods,PEP,nasdaq,PepsiCo
+consumergoods,PFGC,nyse,Performance Food Group Co.
+consumergoods,PG,nyse,Procter & Gamble Co
+consumergoods,PGNY,nasdaq,Progyny Inc
+consumergoods,PHG,nyse,Koninklijke Philips NV
+consumergoods,PHIA.NV,amsterdam,Koninklijke Philips N.V.
+consumergoods,PHM.MC,bolsademadrid,Pharma Mar SA
+consumergoods,PII,nyse,Polaris Industries Inc
+consumergoods,PINC,nasdaq,Premier Inc
+consumergoods,PKG,nyse,Packaging Corp of America
+consumergoods,PLAY,nasdaq,Dave & Busters Entertainment Inc
+consumergoods,PLCE,nasdaq,Children's Place Inc
+consumergoods,PLNT,nyse,Planet Fitness Inc
+consumergoods,PLTK,nasdaq,Playtika Holding Corp.
+consumergoods,PLUG,nasdaq,Plug Power Inc
+consumergoods,PLYA,nasdaq,Playa Hotels & Resorts NV
+consumergoods,PM,nyse,Philip Morris International Inc
+consumergoods,PNDORA.CO,copenhagen,Pandora A/S
+consumergoods,PODD,nasdaq,Insulet Corp.
+consumergoods,POM.PA,paris,Cie Plastic Omnium SA
+consumergoods,POOL,nasdaq,Pool Corp.
+consumergoods,PPC,nasdaq,Pilgrim's Pride
+consumergoods,PR,nasdaq,Permian Resources Corp
+consumergoods,PRG,nyse,Prog Holdings Inc
+consumergoods,PRQR,nasdaq,ProQR Therapeutics NV
+consumergoods,PRTY,nyse,Party City Holdco Inc
+consumergoods,PSFE,nyse,Paysafe Limited
+consumergoods,PSG.MC,bolsademadrid,Prosegur Compania de Seguridad SA
+consumergoods,PTEC.L,london,Playtech Plc
+consumergoods,PTEN,nasdaq,Patterson-UTI Energy Inc
+consumergoods,PTGX,nasdaq,Protagonist Therapeutics Inc
+consumergoods,PTLO,nasdaq,Portillo's Inc.
+consumergoods,PUM.DE,frankfurt,PUMA AG
+consumergoods,PUMP,nyse,ProPetro Holding Corp
+consumergoods,PVH,nyse,PVH Corp
+consumergoods,PZC.L,london,PZ Cussons PLC
+consumergoods,PZZA,nasdaq,Papa John's International Inc
+consumergoods,QAN.ASX,Sydney,Qantas Airways Limited
+consumergoods,QDEL,nasdaq,Quidel Corp
+consumergoods,QLGN,nasdaq,Qualigen Therapeutics Inc
+consumergoods,QRTEA,nasdaq,Qurate Retail Group inc
+consumergoods,QS,nyse,QuantumScape Corporation
+consumergoods,QURE,nasdaq,uniQure NV
+consumergoods,RACE,nyse,Ferrari NV
+consumergoods,RAMP,nyse,LiveRamp Holding
+consumergoods,RAND.NV,amsterdam,Randstad Holding NV
+consumergoods,RARE.US,nasdaq,Ultragenyx Pharmaceutical Inc.
+consumergoods,RAT.L,london,Rathbone Brothers PLC
+consumergoods,RBREW.CO,copenhagen,Royal Unibrew A/S
+consumergoods,RCII,nasdaq,Rent-A-Center Inc.
+consumergoods,RCL,nyse,Royal Caribbean Cruises Ltd
+consumergoods,RCM,nasdaq,R1 RCM Inc.
+consumergoods,RCO.PA,paris,Remy Cointreau SA
+consumergoods,RDW.L,london,Redrow PLC
+consumergoods,REDD.L,london,Redde Northgate PLC
+consumergoods,REE.US,nasdaq,REE Automotive Ltd
+consumergoods,RELX,nyse,RELX PLC
+consumergoods,RENT,nasdaq,Rent the Runway
+consumergoods,RETA,nasdaq,Reata Pharmaceuticals Inc
+consumergoods,RFP,nyse,Resolute Forest Products Inc
+consumergoods,RGEN,nasdaq,Repligen Corp
+consumergoods,RH,nyse,RH
+consumergoods,RHC.ASX,Sydney,Ramsay Health Care Limited
+consumergoods,RHM.DE,frankfurt,Rheinmetall AG
+consumergoods,RI.PA,paris,Pernod-Ricard SA
+consumergoods,RIDE,nasdaq,Lordstown Motors Corp
+consumergoods,RIGL,nasdaq,Rigel Pharmaceuticals Inc
+consumergoods,RIOT,nasdaq,Riot Blockchain Inc
+consumergoods,RIVN,nasdaq,Rivian Automotive
+consumergoods,RKT.L,london,Reckitt Benckiser
+consumergoods,RL,nyse,Ralph Lauren Corp
+consumergoods,RLAY,nasdaq,Relay Therapeutics Inc.
+consumergoods,RLX,nyse,RLX Technology Inc-ADR
+consumergoods,RMD,nyse,ResMed Inc
+consumergoods,RMD.ASX,Sydney,ResMed Inc
+consumergoods,RNK.L,london,Rank Group PLC
+consumergoods,RNO.PA,paris,Renault
+consumergoods,ROG.ZU,zurich,Roche Holding Ltd
+consumergoods,ROL,nyse,Rollins Inc.
+consumergoods,ROO.L,london,Deliveroo Holdings PLC
+consumergoods,ROR.L,london,Rotork PLC
+consumergoods,RPAY,nasdaq,Repay Holdings Corp
+consumergoods,RPRX,nasdaq,Royalty Pharma PLC
+consumergoods,RRC,nyse,Range Resources Corp
+consumergoods,RRGB,nasdaq,Red Robin Gourmet Burgers Inc
+consumergoods,RRR,nasdaq,Red Rock Resorts Inc
+consumergoods,RSI,nyse,Rush Street Interactive Inc
+consumergoods,RUTH,nasdaq,Ruth's Hospitality Group Inc
+consumergoods,RVMD,nasdaq,REVOLUTION Medicines Inc
+consumergoods,RVNC,nasdaq,Revance Therapeutics Inc
+consumergoods,RXL.PA,paris,Rexel SA
+consumergoods,SABR,nasdaq,Sabre Corp
+consumergoods,SAGE,nasdaq,Sage Therapeutics Inc
+consumergoods,SALM.OL,oslo,SalMar ASA
+consumergoods,SAM,nyse,Boston Beer Co Inc
+consumergoods,SAVA,nasdaq,Cassava Sciences Inc.
+consumergoods,SDC,nasdaq,SmileDirectClub Inc
+consumergoods,SDRY.L,london,Superdry
+consumergoods,SEAS,nyse,SeaWorld Entertainment Inc
+consumergoods,SEE,nyse,Sealed Air Corp
+consumergoods,SFER.MI,borsaitaliana,Salvatore Ferragamo Company
+consumergoods,SFM,nasdaq,Sprouts Farmers Market Inc.
+consumergoods,SFT,nasdaq,Shift Technologies Inc Class A
+consumergoods,SG,nasdaq,SweetGreen
+consumergoods,SHA.DE,frankfurt,Schaeffler
+consumergoods,SHAK,nyse,Shake Shack Inc
+consumergoods,SHB.L,london,Shaftesbury PLC
+consumergoods,SHEL.L,london,Shell PLC
+consumergoods,SHL.ASX,Sydney,Sonic Healthcare Limited
+consumergoods,SHOO,nasdaq,Steven Madden Ltd.
+consumergoods,SINT,nasdaq,SiNtx Technologies Inc
+consumergoods,SITE,nyse,SiteOne Landscape Supply Inc.
+consumergoods,SJM,nyse,JM Smucker Co
+consumergoods,SK.PA,paris,SEB SA
+consumergoods,SKX,nyse,Skechers USA Inc
+consumergoods,SKY,nyse,Skyline Champion Corporation
+consumergoods,SKYW,nasdaq,SkyWest Inc
+consumergoods,SLCA,nyse,US Silica Holdings Inc
+consumergoods,SLGN,nasdaq,Silgan Holdings Inc
+consumergoods,SM,nyse,SM Energy Co
+consumergoods,SNBR,nasdaq,Sleep Number Corporation
+consumergoods,SNDL,nasdaq,SNDL Inc
+consumergoods,SNDX,nasdaq,Syndax Pharmaceuticals Inc
+consumergoods,SNY,nasdaq,Sanofi
+consumergoods,SOBI.ST,stockholm,Swedish Orphan Biovitrum AB
+consumergoods,SOL.US,nyse,ReneSola Ltd
+consumergoods,SOLO,nasdaq,ElectraMeccanica Vehicles Corp
+consumergoods,SONO,nasdaq,Sonos Inc
+consumergoods,SONY,nyse,Sony Group Corp.
+consumergoods,SOON.ZU,zurich,Sonova Holding AG
+consumergoods,SPCE,nyse,Virgin Galactic Holdings Inc
+consumergoods,SPI.L,london,Spire Healthcare Group PLC
+consumergoods,SPWH,nasdaq,Sportsman's Warehouse Holdings Inc
+consumergoods,SPWR,nasdaq,SunPower Corp
+consumergoods,SRAD,nasdaq,Sportradar Group AG
+consumergoods,SRNE,nasdaq,Sorrento Therapeutics Inc
+consumergoods,SRPT,nasdaq,Sarepta Therapeutics Inc
+consumergoods,SSPG.L,london,SSP Group Plc
+consumergoods,STAA,nasdaq,STAAR Surgical Company
+consumergoods,STE,nyse,STERIS PLC
+consumergoods,STLA.MI,borsaitaliana,Stellantis NV
+consumergoods,STLA.US,nyse,Stellantis NV
+consumergoods,STMN.ZU,zurich,Straumann Holding Ltd
+consumergoods,STNE,nasdaq,StoneCo Ltd A
+consumergoods,STVN,nyse,Stevanato Group S.p.A.
+consumergoods,STZ,nyse,Constellation Brands Inc.
+consumergoods,SUN,nyse,Sunoco LP
+consumergoods,SUNW,nasdaq,Sunworks Inc
+consumergoods,SURF,nasdaq,Surface Oncology Inc
+consumergoods,SW.PA,paris,Sodexo SA
+consumergoods,SWAV,nasdaq,Shockwave Medical Inc
+consumergoods,SWMA.ST,stockholm,Swedish Match AB
+consumergoods,SWTX,nasdaq,SpringWorks Therapeutics Inc
+consumergoods,SXS.L,london,Spectris PLC
+consumergoods,SYNH,nasdaq,Syneos Health Inc
+consumergoods,SYNT.L,london,Synthomer PLC
+consumergoods,SZU.DE,frankfurt,Suedzucker
+consumergoods,TAK,nyse,Takeda Pharmaceutical Co Ltd
+consumergoods,TAL,nyse,TAL Education Group ADR
+consumergoods,TAP,nyse,Molson Coors Brewing Co
+consumergoods,TATE.L,london,Tate & Lyle
+consumergoods,TBCG.L,london,TBC Bank Group PLC
+consumergoods,TCL.ASX,Sydney,Transurban Group
+consumergoods,TDOC,nyse,Teladoc Health Inc
+consumergoods,TDY,nyse,Teledyne Technologies Incorporated
+consumergoods,TECH,nasdaq,Bio-Techne Corp
+consumergoods,TECN.ZU,zurich,Tecan Group AG
+consumergoods,TELL,nasdaq,Tellurian Inc
+consumergoods,TEM.L,london,Templeton Emerging Markets Investment Tr
+consumergoods,TEP.L,london,Telecom Plus PLC
+consumergoods,TEVA,nyse,Teva Pharmaceutical Industries ADR
+consumergoods,TFX,nyse,Teleflex Inc
+consumergoods,TGT,nyse,Target Corp
+consumergoods,TGTX,nasdaq,TG Therapeutics Inc.
+consumergoods,THO,nyse,Thor Industries Inc
+consumergoods,THRM,nasdaq,Gentherm Incorporated
+consumergoods,THS,nyse,TreeHouse Foods Inc.
+consumergoods,TIFS.L,london,TI Fluid Systems
+consumergoods,TKWY.NV,amsterdam,Just Eat Takeaway.com NV
+consumergoods,TM,nyse,Toyota Motor Corporation
+consumergoods,TMHC,nyse,Taylor Morrison Home Corp
+consumergoods,TNDM,nasdaq,Tandem Diabetes Care Inc
+consumergoods,TNET,nyse,TriNet Group Inc.
+consumergoods,TOD.MI,borsaitaliana,Tods Group
+consumergoods,TOPS,nasdaq,TOP Ships Inc
+consumergoods,TPIC,nasdaq,TPI Composites Inc
+consumergoods,TPR,nyse,"Tapestry, Inc"
+consumergoods,TPX,nyse,Tempur Sealy
+consumergoods,TRI.PA,paris,Trigano SA
+consumergoods,TRTN,nyse,Triton International Limited
+consumergoods,TRU,nyse,TransUnion
+consumergoods,TRVN,nasdaq,Trevena Inc
+consumergoods,TS,nyse,Tenaris S.A.
+consumergoods,TSCO,nasdaq,Tractor Supply Co
+consumergoods,TSLA,nasdaq,"Tesla Motors, Inc."
+consumergoods,TSN,nyse,Tyson Foods Inc
+consumergoods,TSP,nasdaq,TuSimple Holdings Inc
+consumergoods,TSVT,nasdaq,2Seventy Bio Inc.
+consumergoods,TTCF,nasdaq,Tattooed Chef Inc
+consumergoods,TTM,nyse,Tata Motors Shs Sponsored American Deposit Receipt Repr 5 Shs
+consumergoods,TTNP,nasdaq,Titan Pharmaceuticals Inc
+consumergoods,TUP,nyse,Tupperware Brands Corp
+consumergoods,TWNK,nasdaq,Hostess Brands Inc.
+consumergoods,TWOU,nasdaq,2U Inc
+consumergoods,TWST,nasdaq,Twist Bioscience Corporation
+consumergoods,TXG,nasdaq,10X Genomics Inc
+consumergoods,TXRH,nasdaq,Texas Roadhouse Inc
+consumergoods,TYRES.HE,helsinki,Nokian Renkaat Oyj
+consumergoods,U,nyse,Unity Software Inc.
+consumergoods,UA,nyse,Under Armour
+consumergoods,UAA,nyse,Under Armour Inc
+consumergoods,UCB.BR,brussels,UCB SA
+consumergoods,UEIC,nasdaq,Universal Electronics Inc.
+consumergoods,UHAL,nasdaq,AMERCO
+consumergoods,UL.US,nyse,Unilever PLC-ADR
+consumergoods,ULTA,nasdaq,Ulta Beauty Inc
+consumergoods,ULVR.L,london,Unilever
+consumergoods,UNVR,nyse,Univar Solutions Inc.
+consumergoods,USFD,nyse,US Foods Holding Corp.
+consumergoods,UTG.L,london,UNITE Group PLC
+consumergoods,UTHR,nasdaq,United Therapeutics Corp
+consumergoods,UVV,nyse,Universal Corp/VA
+consumergoods,VAC,nyse,Marriott Vacations Worldwide Corp
+consumergoods,VBIV,nasdaq,VBI Vaccines Inc
+consumergoods,VC,nasdaq,Visteon Corp
+consumergoods,VCYT,nasdaq,Veracyte Inc
+consumergoods,VERV,nasdaq,Verve Therapeutics Inc
+consumergoods,VFC,nyse,VF Corp
+consumergoods,VICR,nasdaq,Vicor Corporation
+consumergoods,VIFN.ZU,zurich,Vifor Pharma AG
+consumergoods,VIR,nasdaq,Vir Biotechnology Inc
+consumergoods,VIS.MC,bolsademadrid,Viscofan SA
+consumergoods,VIV.PA,paris,Vivendi
+consumergoods,VLDR,nasdaq,Velodyne Lidar Inc.
+consumergoods,VOW3.DE,frankfurt,Volkswagen AG
+consumergoods,VRDN,nasdaq,Viridian Therapeutics Inc
+consumergoods,VRM,nasdaq,Vroom Inc
+consumergoods,VRT,nyse,Vertiv Holdings Co
+consumergoods,VSCO,nyse,Victoria's Secret & Co.
+consumergoods,VSTO,nyse,Vista Outdoor Inc.
+consumergoods,VTRS,nasdaq,Viatris Inc
+consumergoods,VXRT,nasdaq,Vaxart Inc
+consumergoods,WBA,nasdaq,Walgreens Boots Alliance Inc
+consumergoods,WDFC,nasdaq,WD-40 Company
+consumergoods,WES.ASX,Sydney,Wesfarmers Limited
+consumergoods,WEX,nyse,WEX Inc
+consumergoods,WG.L,london,John Wood Group PLC
+consumergoods,WGO,nyse,Winnebago Industries Inc.
+consumergoods,WH,nyse,Wyndham Hotels & Resorts Inc
+consumergoods,WHR,nyse,Whirlpool Corp
+consumergoods,WING,nasdaq,Wingstop Inc
+consumergoods,WIZZ.L,london,Wizz Air Holdings Plc
+consumergoods,WKHS,nasdaq,Workhorse Group Inc
+consumergoods,WMG,nasdaq,Warner Music Group Corp
+consumergoods,WMS,nyse,Advanced Drainage Systems Inc.
+consumergoods,WOOF,nasdaq,Petco Health & Wellness Company Inc
+consumergoods,WOR.ASX,Sydney,Worley Limited
+consumergoods,WOW.ASX,Sydney,Woolworths Group Limited
+consumergoods,WST,nyse,West Pharmaceutical Services Inc
+consumergoods,WTI,nyse,W&T Offshore Inc
+consumergoods,WTS,nyse,Watts Water Technologies Inc.
+consumergoods,WW,nasdaq,Weight Watchers International Inc.
+consumergoods,WWD,nasdaq,Woodward Inc.
+consumergoods,XPEV,nyse,XPeng Inc ADR
+consumergoods,XXII,nasdaq,22nd Century Group Inc.
+consumergoods,YETI,nyse,YETI Holdings Inc
+consumergoods,YUMC,nyse,Yum China Holdings Inc
+consumergoods,ZAL.DE,frankfurt,Zalando
+consumergoods,ZBH,nyse,Zimmer Biomet Holdings Inc
+consumergoods,ZEPP,nyse,ZEPP Health Corp.
+consumergoods,ZIL2.DE,frankfurt,ElringKlinger
+consumergoods,ZLAB,nasdaq,Zai Lab Limited
+consumergoods,ZOM,nyse,Zomedica Corp
+financial,00011.HK,hongkong,Hang Seng Bank Ltd
+financial,00016.HK,hongkong,Sun Hung Kai Properties Ltd
+financial,00017.HK,hongkong,New World Development Co Ltd
+financial,00388.HK,hongkong,Hong Kong Exchanges & Clearing
+financial,00966.HK,hongkong,China Taiping Insurance Holdin
+financial,01113.HK,hongkong,CK Asset Holdings Ltd
+financial,01336.HK,hongkong,New China Life Insurance Co Ltd
+financial,02388.HK,hongkong,BOC Hong Kong Holdings Ltd
+financial,03333.HK,hongkong,China Evergrande Group
+financial,03908.HK,hongkong,China International Capital Co
+financial,06060.HK,hongkong,ZhongAn Online P&C Insurance
+financial,0656.HK,hongkong,Fosun International
+financial,06837.HK,hongkong,Haitong Securities Co Ltd
+financial,0688.HK,hongkong,China Overseas Land & Investment
+financial,06881.HK,hongkong,China Galaxy Securities Co Ltd
+financial,06886.HK,hongkong,Huatai Securities Co Ltd
+financial,0939.HK,hongkong,China Construction Bank
+financial,0998.HK,hongkong,China Citic Bank
+financial,101.HK,hongkong,Hang Lung Properties Ltd
+financial,1109.HK,hongkong,China Resources Land
+financial,12.HK,hongkong,Henderson Land Development Co Ltd
+financial,1288.HK,hongkong,Agricultural Bank of China
+financial,1299.HK,hongkong,AIA Group Ltd
+financial,1339.HK,hongkong,People's Insurance Company (Group) of China
+financial,1359.HK,hongkong,China Cinda Asset Management Co Ltd
+financial,1398.HK,hongkong,Industrial And Commercial Bank of China
+financial,1628.HK,hongkong,Yuzhou Properties Co Ltd
+financial,1966.HK,hongkong,China SCE Property Holdings Ltd
+financial,1988.HK,hongkong,China Minsheng Bank
+financial,1997.HK,hongkong,Wharf Real Estate Investment Co Ltd
+financial,2007.HK,hongkong,Country Garden
+financial,2318.HK,hongkong,Ping An Insurance
+financial,2328.HK,hongkong,Picc Property And Casualty
+financial,2601.HK,hongkong,China Pacific Insurance
+financial,2628.HK,hongkong,China Life Insurance (HK)
+financial,3328.HK,hongkong,Bank of Communications
+financial,3968.HK,hongkong,China Merchants Bank
+financial,3988.HK,hongkong,Bank of China
+financial,3IN.L,london,3i Infrastructure PLC
+financial,6030.HK,hongkong,CITIC Securities Co Ltd
+financial,778.HK,hongkong,Fortune Real Estate Investment Trust
+financial,823.HK,hongkong,Link REIT
+financial,83.HK,hongkong,Sino Land Co Ltd
+financial,AAT,nyse,American Assets Trust Inc
+financial,ABCB,nasdaq,Ameris Bancorp
+financial,ABDN.L,london,abrdn PLC
+financial,ABN.NV,amsterdam,ABN AMRO Group NV
+financial,ABR,nyse,Arbor Realty Trust Inc
+financial,ACA.PA,paris,Credit Agricole S.A.
+financial,ACGL,nasdaq,Arch Capital Group Ltd.
+financial,ADC,nyse,Agree Realty Corp
+financial,ADJ.DE,frankfurt,ADO Properties SA
+financial,ADM.L,london,Admiral Group
+financial,AED.BR,brussels,Aedifica SA
+financial,AER,nyse,AerCap Holdings NV
+financial,AFG,nyse,American Financial Group Inc
+financial,AFL,nyse,Aflac Inc
+financial,AGN.NV,amsterdam,Aegon NV
+financial,AGNC,nasdaq,AGNC Investment Corp
+financial,AGO,nyse,Assured Guaranty Ltd.
+financial,AGR.L,london,Assura PLC
+financial,AGS.BR,brussels,Ageas NV
+financial,AIG,nyse,American International Group Inc
+financial,AIRC,nyse,Apartment Income REIT Corp.
+financial,AIV,nyse,Apartment Investment and Management Co
+financial,AIZ,nyse,Assurant Inc
+financial,AJG,nyse,Arthur J.Gallagher & Co
+financial,AKR,nyse,Acadia Realty Trust
+financial,AL,nyse,Air Lease Corporation
+financial,ALL,nyse,Allstate Corp
+financial,ALLY,nyse,Ally Financial Inc
+financial,ALV.DE,frankfurt,Allianz SE
+financial,AMG,nyse,Affiliated Managers Group
+financial,AMH,nyse,American Homes 4 Rent
+financial,AMP.US,nyse,Ameriprise Financial Inc
+financial,AMT,nyse,American Tower Corp
+financial,AMUN.PA,paris,Amundi SA
+financial,ANZ.ASX,Sydney,Australia and New Zealand Banking Group Limited
+financial,AOX.DE,frankfurt,alstria office REIT-AG
+financial,APAM,nyse,Artisan Partners Asset Management Inc.
+financial,APLE,nyse,Apple Hospitality REIT Inc
+financial,APO,nyse,Apollo Global Management Inc
+financial,ARCC,nasdaq,Ares Capital Corp
+financial,ARE,nyse,Alexandria Real Estate Equities Inc
+financial,ARES,nyse,Ares Management Corporation
+financial,ARGO,nyse,Argo Group
+financial,ARL.DE,frankfurt,Aareal Bank
+financial,ARR,nyse,ARMOUR Residential REIT Inc
+financial,ASB,nyse,Associated Banc-Corp
+financial,ASCL.L,london,Ascential PLC
+financial,ASHM.L,london,Ashmore Group PLC
+financial,ASRNL.NV,amsterdam,ASR Nederland NV
+financial,ASX.ASX,Sydney,ASX Limited
+financial,AT1.DE,frankfurt,Aroundtown SA
+financial,AV.L,london,Aviva
+financial,AVB,nyse,AvalonBay Communities Inc
+financial,AXP,nyse,American Express CO
+financial,AZM.MI,borsaitaliana,Azimut Holding
+financial,BAC,nyse,Bank of America Corp
+financial,BAER.ZU,zurich,Julius Baer Gruppe AG
+financial,BAG.L,london,A.G. Barr PLC
+financial,BALDB.ST,stockholm,Fastighets AB Balder ser. B
+financial,BALN.ZU,zurich,Baloise Holding AG
+financial,BAM,nyse,Brookfield Asset Management Inc
+financial,BAMI.MI,borsaitaliana,Banco Bpm
+financial,BAP,nyse,Credicorp Ltd
+financial,BARC.L,london,Barclays
+financial,BBD,nyse,Banco Bradesco ADR
+financial,BBVA.MC,bolsademadrid,BBVA
+financial,BBVA.US,nyse,Banco Bilbao Vizcaya Argentaria SA
+financial,BCP.LSB,lisbon,Banco Comercial Portugues SA
+financial,BCS,nyse,Barclays PLC
+financial,BDN,nyse,Brandywine Realty Trust
+financial,BEKE,nyse,KE Holdings Inc.
+financial,BEN,nyse,Franklin Resources Inc.
+financial,BEZ.L,london,Beazley PLC
+financial,BFH,nyse,Bread Financial Holdings Inc
+financial,BGCP,nasdaq,BGC Partners Inc
+financial,BGN.MI,borsaitaliana,Banca Generali
+financial,BHF,nasdaq,Brighthouse Financial Inc
+financial,BK,nyse,Bank of New York Mellon Corp
+financial,BKG.L,london,Berkeley Group Holdings PLC
+financial,BKT.MC,bolsademadrid,Bankinter
+financial,BKU,nyse,BankUnited Inc.
+financial,BLK,nyse,BlackRock Inc
+financial,BLND.L,london,British Land
+financial,BME.L,london,B&M European Value Retail SA
+financial,BNP.PA,paris,BNP Paribas SA
+financial,BNS,nyse,The Bank of Nova Scotia
+financial,BPE.MI,borsaitaliana,BPER Banca
+financial,BPOP,nasdaq,Popular Inc
+financial,BRK.B,nyse,Berkshire Hathaway Inc
+financial,BRO,nyse,Brown & Brown Inc
+financial,BRX,nyse,Brixmor Property Group Inc
+financial,BSAC,nyse,Banco Santander Chile
+financial,BSBR,nyse,Banco Santander Brasil SA
+financial,BSIG,nyse,BrightSphere Investment Group Inc.
+financial,BWNG.L,london,N Brown Group PLC
+financial,BX,nyse,BlackStone Group LP
+financial,BXMT,nyse,Blackstone Mortgage Trust Inc
+financial,BXP,nyse,Boston Properties Inc
+financial,C,nyse,Citigroup
+financial,CABK.MC,bolsademadrid,Caixabank
+financial,CACC,nasdaq,Credit Acceptance
+financial,CADE,nyse,Cadence Bank
+financial,CARD.L,london,Card Factory PLC
+financial,CAST.ST,stockholm,Castellum AB
+financial,CB,nyse,Chubb Corp
+financial,CBA.ASX,Sydney,Commonwealth Bank of Australia
+financial,CBG.L,london,Close Brothers Group PLC
+financial,CBK.DE,frankfurt,Commerzbank AG
+financial,CBOE,Sydney,Cboe Global Markets Inc.
+financial,CBRE,nyse,CBRE Group Inc
+financial,CCI,nyse,Crown Castle International
+financial,CEY.L,london,Centamin PLC
+financial,CFG,nyse,Citizens Financial Group Inc
+financial,CFR,nyse,Cullen/Frost Bankers Inc.
+financial,CFR.ZU,zurich,Compagnie Financiere Richemont SA
+financial,CG,nasdaq,The Carlyle Group Inc
+financial,CHC.ASX,Sydney,Charter Hall Group
+financial,CIB,nyse,Bancolombia S.A
+financial,CIM,nyse,Chimera Investment Corp
+financial,CINE.L,london,Cineworld Group PLC
+financial,CINF,nasdaq,Cincinnati Financial Corp
+financial,CM,nyse,Canadian Imperial Bank of Commerce
+financial,CMA,nyse,Comerica Inc
+financial,CMBN.ZU,zurich,Cembra Money Bank AG
+financial,CMCX,london,CMC MARKETS PLC
+financial,CME,nasdaq,CME Group
+financial,CNO,nyse,CNO Financial Group Inc
+financial,COA.L,london,Coats Group PLC
+financial,COF,nyse,Capital One Financial Corp
+financial,COFB.BR,brussels,Cofinimmo SA
+financial,COIN,nasdaq,Coinbase Global Inc
+financial,COL.MC,bolsademadrid,Inmobiliaria Colonial Socimi SA
+financial,COLB,nasdaq,Columbia Banking System Inc.
+financial,COLD,nyse,Americold Realty Trust
+financial,COMP.US,nyse,Compass Inc.
+financial,COOP,nasdaq,Mr Cooper Group Inc
+financial,COV.PA,paris,Covivio SA
+financial,CPT,nyse,Camden Property Trust
+financial,CRBG,nyse,Corebridge Financial Inc
+financial,CS.PA,paris,AXA Group
+financial,CS.US,nyse,Credit Suisse Group AG
+financial,CSGN.ZU,zurich,Credit Suisse Group AG
+financial,CTY.L,london,City of London Investment Trust PLC
+financial,CUBE,nyse,CubeSmart
+financial,CUZ,nyse,Cousins Properties Inc
+financial,CWK.US,nyse,Cushman & Wakefield PLC
+financial,DB,nyse,Deutsche-Bank
+financial,DB1.DE,frankfurt,Deutsche Boerse AG
+financial,DBRG,nyse,DigitalBridge Group Inc
+financial,DEI,nyse,Douglas Emmett Inc
+financial,DEQ.DE,frankfurt,Deutsche Euroshop
+financial,DFS,nyse,Discover Financial Services
+financial,DGN.L,london,Edinburgh Dragon Trust
+financial,DIDIY,nyse,DIDI Global Inc.
+financial,DKNG,nasdaq,Draftkings Inc
+financial,DLO,nasdaq,dLocal Ltd.
+financial,DLR,nyse,Digital Realty Trust Inc
+financial,DNB.OL,oslo,DNB Bank ASA
+financial,DNLM.L,london,Dunelm Group PLC
+financial,DOC,nyse,Physicians Realty Trust
+financial,DOM.L,london,Domino's Pizza Group PLC
+financial,DRE,nyse,Duke Realty Corp
+financial,DRH,nyse,DiamondRock Hospitality Co
+financial,DWAC,nasdaq,Digital World Acquisition Corp
+financial,DWNI.DE,frankfurt,Deutsche Wohnen
+financial,DWS.DE,frankfurt,DWS Group GmbH & Co KGaA
+financial,DXS.ASX,Sydney,Dexus
+financial,EGP.US,nyse,EastGroup Properties Inc
+financial,EHTH,nasdaq,eHealth Inc
+financial,ELS,nyse,Equity LifeStyle Properties Inc
+financial,EMG.L,london,Man Group PLC
+financial,ENX.PA,paris,Euronext NV
+financial,EOT.L,london,European Opportunities Trust
+financial,EPR,nyse,EPR Properties
+financial,EPRT,nyse,Essential Properties Realty Trust Inc
+financial,EQC,nyse,Equity Commonwealth
+financial,EQH,nyse,Equitable Holdings Inc.
+financial,EQIX,nasdaq,Equinix Inc
+financial,EQR,nyse,Equity Residential
+financial,ESKN.L,london,Esken Ltd
+financial,ESNT,nyse,Essent Group
+financial,ESRT,nyse,Empire State Realty Trust Inc
+financial,ESS,nyse,Essex Property Trust Inc
+financial,EVR,nyse,Evercore Inc.
+financial,EVR.L,london,Evraz PLC
+financial,EWBC,nasdaq,East West Bancorp Inc.
+financial,EXO.MI,borsaitaliana,Exor Investment Company
+financial,EXPI,nasdaq,eXp World Holdings Inc
+financial,EXR,nyse,Extra Space Storage Inc
+financial,FABG.ST,stockholm,Fabege AB
+financial,FAF,nyse,First American Financial Corp
+financial,FBC,nyse,Flagstar Bancorp Inc.
+financial,FBK.MI,borsaitaliana,FinecoBank
+financial,FBP,nyse,First BanCorp/Puerto Rico
+financial,FCIT.L,london,Foreign & Colonial Investment Trust PLC
+financial,FCNCA,nasdaq,First Citizens BancShares Inc.
+financial,FCPT,nyse,Four Corners Property Trust
+financial,FDM.L,london,FDM Group Holdings PLC
+financial,FHN,nyse,First Horizon Corporation
+financial,FITB,nasdaq,Fifth Third Bancorp
+financial,FLOW.NV,amsterdam,Flow Traders Cooperatief UA
+financial,FNB,nyse,F.N.B. Corporation
+financial,FNF,nyse,Fidelity National Financial Inc
+financial,FOCS,nasdaq,Focus Financial Partners Inc.
+financial,FR.US,nyse,First Industrial Realty Trust Inc
+financial,FRC,nyse,First Republic Bank/CA
+financial,FRHC,nasdaq,Freedom Holding Corp.
+financial,FRT,nyse,Federal Realty Investment Trust
+financial,FSK,nyse,FS KKR Capital Corp
+financial,FUTU,nasdaq,Futu Holdings Ltd
+financial,G.MI,borsaitaliana,Assicurazioni Generali SpA
+financial,GBLB.BR,brussels,Groupe Bruxelles Lambert
+financial,GEO,nyse,GEO Group Inc
+financial,GFC.PA,paris,Gecina
+financial,GL,nyse,Globe Life Inc
+financial,GLE.PA,paris,Societe Generale Group
+financial,GLJ.DE,frankfurt,GRENKE AG
+financial,GLPI,nasdaq,Gaming and Leisure
+financial,GMG.ASX,Sydney,Goodman Group
+financial,GNC.L,london,Greencore Group PLC
+financial,GNL,nyse,Global Net Lease Inc
+financial,GNS.L,london,Genus PLC
+financial,GNW,nyse,Genworth Financial Inc
+financial,GPE.L,london,Great Portland Estates PLC
+financial,GPT.ASX,Sydney,GPT Group
+financial,GS,nyse,Goldman Sachs Group Inc
+financial,GSHD,nasdaq,Goosehead Insurance Inc
+financial,GYC.DE,frankfurt,Grand City Properties
+financial,HAS.L,london,Hays PLC
+financial,HASI,nyse,Hannon Armstrong Sustainable Infrastructure Capital Inc
+financial,HBAN,nasdaq,Huntington Bancshares Inc
+financial,HDB,nyse,HDFC Bank Ltd
+financial,HELN.ZU,zurich,Helvetia Holding AG
+financial,HHC,nyse,The Howard Hughes Corp
+financial,HICL.L,london,HICL Infrastructure Co Ltd
+financial,HIG,nyse,The Hartford Financial Services Group Inc
+financial,HIPO,nyse,Hippo Holdings Inc
+financial,HIW,nyse,Highwoods Properties Inc
+financial,HL.L,london,Hargreaves Lansdown
+financial,HLI,nyse,Houlihan Lokey Inc.
+financial,HLNE,nasdaq,Hamilton Lane Incorporated
+financial,HMSO.L,london,Hammerson
+financial,HOC.L,london,Hochschild Mining PLC
+financial,HOOD,nasdaq,Robinhood Markets Inc.
+financial,HOUS,nyse,Anywhere Real Estate Inc
+financial,HPP,nyse,Hudson Pacific Properties Inc
+financial,HR,nyse,Healthcare Realty Trust Inc
+financial,HSBA.L,london,HSBC Holdings
+financial,HSBC,nyse,HSBC
+financial,HST,nasdaq,Host Hotels & Resorts Inc
+financial,HSV.L,london,HomeServe PLC
+financial,HTG.L,london,Hunting PLC
+financial,HTGC,nyse,Hercules Capital Inc
+financial,IAG.ASX,Sydney,Insurance Australia Group Limited
+financial,IBKR,nasdaq,Interactive Brokers Group
+financial,IBN,nyse,ICICI Bank Ltd
+financial,IBST.L,london,Ibstock PLC
+financial,ICAD.PA,paris,Icade SA
+financial,III,london,3i Group PLC
+financial,IIPR,nyse,Innovative Industrial Properties Inc. A
+financial,INCH.L,london,Inchcape PLC
+financial,INDB,nasdaq,Independent Bank Corp.
+financial,INDU-A.ST,stockholm,"IndustrivÃ¤rden, AB ser. A"
+financial,INGA.NV,amsterdam,ING Groep NV
+financial,INN,nyse,Summit Hotel Properties Inc
+financial,INTER.NV,amsterdam,Intertrust NV
+financial,INVE-A.ST,stockholm,Investor AB ser. A
+financial,INVEB.ST,stockholm,Investor AB ser. B
+financial,INVH,nyse,Invitation Homes Inc
+financial,INVP.L,london,Investec PLC
+financial,IRM,nyse,Iron Mountain Inc
+financial,IRT,nyse,Independence Realty Trust Inc
+financial,ISP.MI,borsaitaliana,Intesa Sanpaolo Group
+financial,ITUB,nyse,Itau Unibanco Holding ADR
+financial,IVR,nyse,Invesco Mortgage Capital Inc
+financial,IWG.L,london,IWG PLC
+financial,JDW.L,london,J D Wetherspoon PLC
+financial,JEF,nyse,Jefferies Financial Group Inc
+financial,JFU,nasdaq,9F Inc
+financial,JHG,nyse,Janus Henderson Group plc
+financial,JLL,nyse,Jones Lang Lasalle Inc
+financial,JPM,nyse,JPMorgan Chase & Co
+financial,JUST.L,london,Just Group PLC
+financial,JYSK.CO,copenhagen,Jyske Bank A/S
+financial,KB,nyse,KB Financial Group Inc
+financial,KBC.BR,brussels,KBC Groep
+financial,KEY,nyse,KeyCorp
+financial,KIE.L,london,Kier Group PLC
+financial,KIM,nyse,Kimco Realty Corp
+financial,KKR,nyse,KKR & Co LP
+financial,KNSL,nasdaq,Kinsale Capital Group Inc.
+financial,KRC,nyse,Kilroy Realty Corp
+financial,KRG,nyse,Kite Realty Group Trust
+financial,L,nyse,Loews Corp
+financial,LAMR,nasdaq,Lamar Advertising Company
+financial,LAND.L,london,Land Securities
+financial,LAZ,nyse,Lazard
+financial,LC,nyse,LendingClub Corporation
+financial,LEG.DE,frankfurt,LEG Immobilien AG
+financial,LGEN.L,london,Legal & General
+financial,LI.PA,paris,Klepierre SA
+financial,LLOY.L,london,Lloyd's Banking Group PLC
+financial,LMND,nyse,Lemonade Inc.
+financial,LNC,nyse,Lincoln National Corp
+financial,LNK.ASX,Sydney,Link Administration Holdings Limited
+financial,LOB,nasdaq,Live Oak Bancshares Inc.
+financial,LSEG.L,london,London Stock Exchange
+financial,LSI,nyse,Life Storage Inc
+financial,LTC.US,nyse,LTC Properties Inc.
+financial,LU,nyse,Lufax Holding Ltd
+financial,LUND-B.ST,stockholm,"LundbergfÃ¶retagen AB, L E ser. B"
+financial,LXP,nyse,Lexington Realty Trust
+financial,LYG,nyse,Lloyds Banking Group PLC
+financial,MA,nyse,Mastercard
+financial,MAA,nyse,Mid-America Apartment Communities Inc.
+financial,MAB.L,london,Mitchells & Butlers PLC
+financial,MAC,nyse,The Macerich Co
+financial,MAIN,nyse,Main Street Capital Corp.
+financial,MAP.MC,bolsademadrid,Mapfre
+financial,MARS.L,london,Marston's PLC
+financial,MB.MI,borsaitaliana,Mediobanca Banca Di Credito Fnnzr SpA
+financial,MC,nyse,Moelis & Company
+financial,MET,nyse,Metlife Inc
+financial,MF.PA,paris,Wendel
+financial,MFA,nyse,MFA Financial Inc
+financial,MFG,nyse,Mizuho Financial Group Inc
+financial,MFG.ASX,Sydney,Magellan Financial Group Limited
+financial,MGAM.L,london,Morgan Advanced Materials PLC
+financial,MGR.ASX,Sydney,Mirvac Group
+financial,MKL,nyse,Markel Corp
+financial,MMC,nyse,Marsh & McLennan Cos Inc
+financial,MMI,nyse,Marcus & Millichap
+financial,MNKS.L,london,Monks Investment Trust PLC
+financial,MONY.L,london,Moneysupermarket.com Group PLC
+financial,MPW,nyse,Medical Properties Trust Inc
+financial,MQ,nasdaq,Marqeta Inc.
+financial,MQG.ASX,Sydney,Macquarie Group Limited
+financial,MRL.MC,bolsademadrid,Merlin Properties SOCIMI SA
+financial,MS,nyse,Morgan Stanley
+financial,MTB,nyse,M&T Bank Corporation
+financial,MTG,nyse,MGIC Investment Corporation
+financial,MUFG,nyse,Mitsubishi UFJ Financial Group Inc
+financial,MUV2.DE,frankfurt,Muenchener Rueckvrschrng Gslchft AG Mnch
+financial,NAB.ASX,Sydney,National Australia Bank Limited
+financial,NAVI,nasdaq,Navient Corp
+financial,NDAQ,nasdaq,Nasdaq Inc.
+financial,NDA_SE.ST,stockholm,Nordea Bank AB
+financial,NLY,nyse,Annaly Capital Management Inc
+financial,NMIH,nasdaq,NMI Holdings Inc
+financial,NN.NV,amsterdam,NN Group NV
+financial,NNN,nyse,National Retail Properties Inc
+financial,NOG.L,london,Nostrum Oil & Gas PLC
+financial,NRR.L,london,NewRiver REIT PLC
+financial,NSA,nyse,National Storage Affiliates Trust
+financial,NTRS,nasdaq,Northern Trust Corp
+financial,NU,nyse,Nu Holdings Ltd.
+financial,NWG.L,london,Natwest Group PLC
+financial,NXI.PA,paris,Nexity SA
+financial,NYCB,nyse,New York Community Bancorp Inc.
+financial,NYMT,nasdaq,New York Mortgage Trust Inc
+financial,O,nyse,Realty Income Corp
+financial,OFC,nyse,Corporate Office Properties Trust
+financial,OHI,nyse,Omega Healthcare Investors Inc
+financial,OMF,nyse,OneMain Holdings Inc.
+financial,ONB,nasdaq,Old National Bancorp
+financial,ONL,nyse,Orion Office Reit Inc.
+financial,ORI,nyse,Old Republic International Corp
+financial,ORSTED.CO,copenhagen,Orsted A/S
+financial,OZK,nasdaq,Bank OZK
+financial,PACW,nasdaq,PacWest Bancorp
+financial,PAGE.L,london,Pagegroup PLC
+financial,PAGS,nyse,Pagseguro Digital Ltd
+financial,PAT.DE,frankfurt,PATRIZIA AG
+financial,PAYS,nasdaq,Paysign Inc
+financial,PB,nyse,Prosperity Bancshares Inc.
+financial,PCH,nasdaq,PotlatchDeltic Corp
+financial,PDM,nyse,Piedmont Office Realty Trust Inc
+financial,PEAK,nyse,Healthpeak Properties Inc
+financial,PEB,nyse,Pebblebrook Hotel Trust
+financial,PFG,nasdaq,Principal Financial Group Inc
+financial,PFG.L,london,Provident Financial
+financial,PFSI,nyse,PennyMac Financial Services Inc.
+financial,PGHN.ZU,zurich,Partners Group Holding AG
+financial,PGR,nyse,Progressive Corp
+financial,PGRE,nyse,Paramount Group Inc
+financial,PGY,nasdaq,Pagaya Technologies Ltd
+financial,PHP.L,london,Primary Health Properties
+financial,PIN.L,london,Pantheon International
+financial,PK,nyse,Park Hotels & Resorts Inc
+financial,PLD,nyse,Prologis Inc
+financial,PLUS.L,london,PLUS 500 LTD
+financial,PNC,nyse,PNC Financial Services Group Inc
+financial,PNFP,nasdaq,Pinnacle Financial Partners Inc.
+financial,PNN.L,london,Pennon Group PLC
+financial,PRU,nyse,Prudential Financial Inc
+financial,PRU.L,london,Prudential
+financial,PSA,nyse,Public Storage
+financial,PSEC,nasdaq,Prospect Capital Corp
+financial,PSH.L,london,Pershing Square Holdings Ltd
+financial,PSPN.ZU,zurich,PSP Swiss Property AG
+financial,PUK,nyse,Prudential plc
+financial,QBE.ASX,Sydney,QBE Insurance Group Limited
+financial,QD,nyse,Qudian Inc.
+financial,QFIN,nasdaq,360 Finance Inc.
+financial,QIWI,nasdaq,Qiwi Plc
+financial,QLT.L,london,Quilter PLC
+financial,QQ.L,london,QinetiQ Group PLC
+financial,RDFN,nasdaq,Redfin Corp
+financial,RDN,nyse,Radian Group Inc
+financial,RE,nyse,Everest Re Group Ltd
+financial,REA.ASX,Sydney,REA Group Limited
+financial,REG,nasdaq,Regency Centers Corp
+financial,REXR,nyse,Rexford Industrial Realty Inc
+financial,RF,nyse,Regions Financial Corp
+financial,RF.PA,paris,Eurazeo
+financial,RGA,nyse,Reinsurance Group America Inc
+financial,RHP,nyse,Ryman Hospitality Properties Inc.
+financial,RITM,nyse,New Residential Investment Corp
+financial,RJF,nyse,Raymond James Financial Inc
+financial,RKT,nyse,Rocket Companies Inc
+financial,RLJ,nyse,RLJ Lodging Trust
+financial,RMAX,nyse,RE/MAX Holdings
+financial,RNR,nyse,RenaissanceRe Holdings Ltd
+financial,ROIC,nasdaq,Retail Opportunity Investments Corp
+financial,RS1.L,london,Electrocomponents PLC
+financial,RSW.L,london,Renishaw PLC
+financial,RWT,nyse,Redwood Trust Inc
+financial,RY,nyse,Royal Bank of Canada
+financial,RYAN,nyse,"Ryan Specialty Group Holdings, Inc."
+financial,RYN,nyse,Rayonier Inc
+financial,SAB.MC,bolsademadrid,Banco Sabadell
+financial,SAFE.L,london,Safestore Holdings PLC
+financial,SAMPO.HE,helsinki,Sampo Oyj A
+financial,SAN,nyse,Banco Santander SA (US)
+financial,SAN.MC,bolsademadrid,Banco Santander SA
+financial,SBNY,nasdaq,Signature Bank
+financial,SBRA,nasdaq,Sabra Health Care REIT Inc
+financial,SCG.ASX,Sydney,Scentre Group
+financial,SCHW,nyse,Charles Schwab Corp
+financial,SCR.PA,paris,Scor SE
+financial,SDF.ASX,Sydney,Steadfast Group Limited
+financial,SDP.L,london,Schroder AsiaPacific Fund
+financial,SDR.L,london,Schroders
+financial,SEB-A.ST,stockholm,Skandinaviska Enskilda Banken ser. A
+financial,SEIC,nasdaq,SEI Investments Company
+financial,SEQI.L,london,Sequoia Economic Infrastructure Income Fund
+financial,SF.US,nyse,Stifel Financial Corporation
+financial,SGP.ASX,Sydney,Stockland
+financial,SGRO.L,london,Segro
+financial,SHB-A.ST,stockholm,Svenska Handelsbanken ser. A
+financial,SHI.L,london,SIG PLC
+financial,SHO,nyse,Sunstone Hotel Investors Inc
+financial,SI,nyse,SilverGate Capital
+financial,SITC,nyse,SITE Centers Corp
+financial,SIVB,nasdaq,SVB Financial Group
+financial,SKT,nyse,Tanger Factory Outlet Centers Inc
+financial,SLG,nyse,SL Green Realty Corp.
+financial,SLHN.ZU,zurich,Swiss Life Holding AG
+financial,SLM,nasdaq,SLM Corp
+financial,SMDS.L,london,DS Smith PLC
+financial,SMFG,nyse,Sumitomo Mitsui Financial Group Inc
+financial,SMT.L,london,Scottish Mortgage Investment Trust
+financial,SMWH.L,london,WH Smith PLC
+financial,SNEX,nasdaq,StoneX Group Inc
+financial,SNV,nyse,Synovus Financial Corp.
+financial,SOF.BR,brussels,Sofina SA
+financial,SOL.ASX,Sydney,Washington H. Soul Pattinson and Company Limited
+financial,SPG,nyse,Simon Property Group Inc
+financial,SPSN.ZU,zurich,Swiss Prime Site AG
+financial,SRC,nyse,Spirit Realty Capital Inc
+financial,SREN.ZU,zurich,Swiss Re AG
+financial,SRG.US,nyse,Seritage Growth Properties
+financial,SSB,nasdaq,SouthState Corporation
+financial,SSSS,nasdaq,SuRo Capital Corp
+financial,STAG,nyse,STAG Industrial Inc.
+financial,STAN.L,london,Standard Chartered
+financial,STJ.L,london,St.James's Place Capital Plc
+financial,STOR,nyse,Store Capital Corp.
+financial,STT,nyse,State Street Corp
+financial,STWD,nyse,Starwood Property Trust Inc
+financial,SUI,nyse,Sun Communities Inc
+financial,SUN.ASX,Sydney,Suncorp Group Limited
+financial,SVC,nasdaq,Service Properties Trust
+financial,SWED-A.ST,stockholm,Swedbank AB ser A
+financial,SYF,nyse,Synchrony Financial
+financial,TCBI,nasdaq,Texas Capital Bancshares Inc.
+financial,TD,nyse,Toronto-Dominion Bank
+financial,TEG.DE,frankfurt,TAG Immobilien
+financial,TFC,nyse,Truist Financial Corp
+financial,THG,nyse,The Hanover Insurance Group Inc
+financial,TLG.DE,frankfurt,TLG Immobilien AG
+financial,TMPL.L,london,Temple Bar Investment Trust PLC
+financial,TPG,nasdaq,TPG Inc.
+financial,TREE,nasdaq,LendingTree Inc
+financial,TRIG.L,london,Renewables Infrastructure Group Ltd
+financial,TRNO,nyse,Terreno Realty Corp
+financial,TROW,nasdaq,T Rowe Price Group Inc
+financial,TRUP,nasdaq,Trupanion Inc
+financial,TRV,nyse,Travelers
+financial,TRYG.CO,copenhagen,Tryg A/S
+financial,TW,nasdaq,Tradeweb Markets Inc.
+financial,TWO,nyse,Two Harbors Investment Corp
+financial,UBS,nyse,UBS Group AG
+financial,UBSG.ZU,zurich,UBS Group AG
+financial,UCG.MI,borsaitaliana,UniCredit Commercial Bank
+financial,UDR,nyse,UDR Inc
+financial,UE,nyse,Urban Edge Properties
+financial,UMPQ,nasdaq,Umpqua Holdings Corporation
+financial,UNI.MC,bolsademadrid,Unicaja Banco SA
+financial,UNM,nyse,Unum Group
+financial,UPST,nasdaq,Upstart Holdings Inc
+financial,URW.NV,amsterdam,Unibail-Rodamco-Westfield
+financial,US.MI,borsaitaliana,UnipolSai Assicurazzioni SPA
+financial,USB,nyse,US Bancorp
+financial,UWMC,nyse,UWM Holdings Corporation
+financial,V,nyse,Visa
+financial,VCT.L,london,Victrex PLC
+financial,VCX.ASX,Sydney,Vicinity Centres
+financial,VICI,nyse,VICI Properties Inc
+financial,VIRT,nasdaq,Virtu Financial Inc
+financial,VLY,nasdaq,Valley National Bancorp
+financial,VNA.DE,frankfurt,Vonovia SE
+financial,VNO,nyse,Vornado Realty Trust
+financial,VOF.L,london,VinaCapital Vietnam Opportunity Fund
+financial,VSVS.L,london,Vesuvius PLC
+financial,VTR,nyse,Ventas Inc
+financial,VTY.L,london,Vistry Group PLC
+financial,WAL,nyse,Western Alliance Bancorporation
+financial,WBC.ASX,Sydney,Westpac Banking Corporation
+financial,WBS,nyse,Webster Financial Corporation
+financial,WDI.DE,frankfurt,Wirecard
+financial,WDP.BR,brussels,Warehouses De Pauw NV
+financial,WELL,nyse,Welltower Inc
+financial,WFC,nyse,Wells Fargo & Co
+financial,WHA.NV,amsterdam,Wereldhave NV
+financial,WKP.L,london,Workspace Group PLC
+financial,WPC,nyse,WP Carey Inc
+financial,WRE,nyse,Washington Real Estate Investment Trust
+financial,WTFC,nasdaq,Wintrust Financial Corporation
+financial,WU,nyse,Western Union Company
+financial,XP,nasdaq,XP Inc
+financial,Y,nyse,Alleghany Corp
+financial,Z,nasdaq,Zillow Group Inc
+financial,ZION,nasdaq,Zions Bancorp NA
+financial,ZURN.ZU,zurich,Zurich Insurance Group Ltd
+healthcare,A,nyse,Agilent Technologies Inc
+healthcare,ABBV,nyse,AbbVie Inc
+healthcare,ABT,nyse,Abbott Laboratories
+healthcare,ACB,nasdaq,Aurora Cannabis Inc
+healthcare,AFX.DE,frankfurt,Carl Zeiss Meditec AG
+healthcare,AGEN,nasdaq,Agenus Inc
+healthcare,AI.PA,paris,Air Liquide SA
+healthcare,ALVR,nasdaq,Allovir Inc
+healthcare,AMGN,nasdaq,Amgen Inc
+healthcare,AMP.MI,borsaitaliana,Amplifon
+healthcare,AZN.L,london,AstraZeneca
+healthcare,BAX,nyse,Baxter International Inc
+healthcare,BAYN.DE,frankfurt,Bayer AG
+healthcare,BDX,nyse,Becton Dickinson & Co.
+healthcare,BHC,nyse,Bausch Health Companies Inc
+healthcare,BHG,nyse,Bright Health Group Inc.
+healthcare,BIIB,nasdaq,Biogen Inc
+healthcare,BMY,nyse,Bristol-Myers Squibb Co
+healthcare,CARA,nasdaq,Cara Therapeutics
+healthcare,CHR.CO,copenhagen,Chr. Hansen Holding A/S
+healthcare,CI,nyse,Cigna Corp
+healthcare,CLOV,nasdaq,Clover Health Investments Corp.
+healthcare,CNC,nyse,Centene Corp
+healthcare,COLO-B.CO,copenhagen,Coloplast B A/S
+healthcare,COO,nyse,The Cooper Companies Inc
+healthcare,CRBP,nasdaq,Corbus Pharmaceuticals Holding
+healthcare,CRON,nasdaq,Cronos Group Inc
+healthcare,CVAC,nasdaq,CureVac NV
+healthcare,CVS,nyse,CVS Health Corp
+healthcare,CYH,nyse,Community Health Systems Inc
+healthcare,DEMANT.CO,copenhagen,Demant A/S
+healthcare,DGX,nyse,Quest Diagnostics Inc
+healthcare,DVA,nyse,DaVita HealthCare Partners Inc
+healthcare,EBS,nyse,Emergent BioSolutions Inc
+healthcare,EL.PA,paris,EssilorLuxottica SA
+healthcare,ELV,nyse,Elevance Health Inc
+healthcare,EVT.DE,frankfurt,EVOTEC
+healthcare,FME.DE,frankfurt,Fresenius Medical Care AG & Co. KGAA
+healthcare,FRE.DE,frankfurt,Fresenius SE & Co KGaA
+healthcare,GEBN.ZU,zurich,Geberit AG
+healthcare,GILD,nasdaq,Gilead Sciences Inc
+healthcare,GMAB.CO,copenhagen,Genmab A/S
+healthcare,GRF.MC,bolsademadrid,Grifols SA
+healthcare,GSK.L,london,GlaxoSmithKline
+healthcare,HCA,nyse,HCA Holdings Inc
+healthcare,HLUNB.CO,copenhagen,H. Lundbeck A/S
+healthcare,HUM,nyse,Humana Inc
+healthcare,ICPT,nasdaq,Intercept Pharma
+healthcare,ILMN,nasdaq,Illumina
+healthcare,INCY,nasdaq,Incyte Corp.
+healthcare,IONS,nasdaq,Ionis Pharmaceuticals
+healthcare,IQV,nyse,IQVIA Holdings Inc.
+healthcare,JAZZ,nasdaq,Jazz Pharmaceuticals
+healthcare,JNJ,nyse,Johnson & Johnson
+healthcare,LH,nyse,Laboratory Corp Of America Holdings
+healthcare,LLY,nyse,Eli Lilly & Co
+healthcare,MDT.US,nyse,Medtronic PLC
+healthcare,MOH,nyse,Molina Healthcare Inc
+healthcare,MOR.DE,frankfurt,MorphoSys
+healthcare,MRK,nyse,Merck & Co.
+healthcare,NOVO-B.CO,copenhagen,Novo Nordisk B A/S
+healthcare,NZYM-B.CO,copenhagen,Novozymes B A/S
+healthcare,PBYI,nasdaq,Puma Biotechnology Inc
+healthcare,PCVX,nasdaq,Vaxcyte Inc
+healthcare,PFE,nyse,Pfizer
+healthcare,PRGO,nyse,Perrigo Company
+healthcare,QIA.DE,frankfurt,QIAGEN
+healthcare,REGN,nasdaq,Regeneron Pharmaceuticals
+healthcare,SAN.PA,paris,Sanofi
+healthcare,SGEN,nasdaq,Seagen Inc
+healthcare,SGMO,nasdaq,Sangamo Therapeutics Inc
+healthcare,SHL.DE,frankfurt,Siemens Healthineers AG
+healthcare,SMG,nyse,Scotts Miracle-Gro Company
+healthcare,SN.L,london,Smith & Nephew
+healthcare,SRT.DE,frankfurt,Sartorius AG
+healthcare,SYK,nyse,Stryker Corp
+healthcare,THC,nyse,Tenet Healthcare Corp
+healthcare,TLRY,nasdaq,Tilray Brands Inc
+healthcare,TMO,nyse,Thermo Fisher Scientific Inc
+healthcare,UHS,nyse,Universal Health Services Inc
+healthcare,UNH,nyse,UnitedHealth
+healthcare,VLA.PA,paris,Valneva SE
+healthcare,VRTX,nasdaq,Vertex Pharmaceuticals Incorporated
+healthcare,WAT,nyse,Waters Corporation
+healthcare,XRAY,nasdaq,Dentsply Sirona Inc.
+healthcare,ZTS,nyse,Zoetis
+healthcare,ZYNE,nasdaq,Zynerba Pharmaceuticals Inc
+industrialgoods,00066.HK,hongkong,MTR Corp Ltd
+industrialgoods,00285.HK,hongkong,BYD Electronic International
+industrialgoods,00788.HK,hongkong,China Tower Corp Ltd
+industrialgoods,02018.HK,hongkong,AAC Technologies Holdings Inc
+industrialgoods,02382.HK,hongkong,Sunny Optical Technology Group
+industrialgoods,0390.HK,hongkong,China Railway Group
+industrialgoods,0914.HK,hongkong,Anhui Conch
+industrialgoods,1038.HK,hongkong,CK Infrastructure Holdings Ltd
+industrialgoods,1186.HK,hongkong,China Railway Construction
+industrialgoods,1618.HK,hongkong,Metallurgical Corporation of China
+industrialgoods,1800.HK,hongkong,China Communications Construction
+industrialgoods,3323.HK,hongkong,China National Building Material
+industrialgoods,669.HK,hongkong,Techtronic Industries Co Ltd
+industrialgoods,AALB.NV,amsterdam,Aalberts NV
+industrialgoods,AAWW,nasdaq,Atlas Air Worlwide Holdings
+industrialgoods,ABBN.ZU,zurich,ABB LTD
+industrialgoods,ACKB.BR,brussels,Ackermans & Van Haaren NV
+industrialgoods,ACS.MC,bolsademadrid,ACS
+industrialgoods,ADP.PA,paris,Groupe ADP
+industrialgoods,ADT,nyse,ADT Inc.
+industrialgoods,AENA.MC,bolsademadrid,Aena SME
+industrialgoods,AGCO,nyse,AGCO Corp
+industrialgoods,AIN,nyse,Albany International Corp
+industrialgoods,AJRD,nyse,Aerojet Rocketdyne Holdings Inc
+industrialgoods,AKRBP.OL,oslo,Aker BP ASA
+industrialgoods,ALFA.ST,stockholm,Alfa Laval AB
+industrialgoods,ALO.PA,paris,Alstom SA
+industrialgoods,ALRM,nasdaq,Alarm.com Holdings Inc.
+industrialgoods,AM.PA,paris,Dassault Aviation SA
+industrialgoods,AMBA,nasdaq,Ambarella Inc
+industrialgoods,AMC.ASX,Sydney,Amcor plc
+industrialgoods,AMCR,nyse,Amcor PLC
+industrialgoods,AME,nyse,AMETEK Inc
+industrialgoods,AOS,nyse,A O Smith Corp
+industrialgoods,AQUA,nyse,Evoqua Water Technologies Corp
+industrialgoods,ARCAD.NV,amsterdam,Arcadis NV
+industrialgoods,ARCB,nasdaq,ArcBest Corporation
+industrialgoods,ASSA-B.ST,stockholm,ASSA ABLOY AB ser. B
+industrialgoods,ASTR,nasdaq,Astra Space Inc.
+industrialgoods,ATCO-A.ST,stockholm,Atlas Copco AB ser. A
+industrialgoods,ATE.PA,paris,Alten SA
+industrialgoods,ATI,nyse,ATI Inc
+industrialgoods,ATKR,nyse,Atkore Inc.
+industrialgoods,ATL.MI,borsaitaliana,Atlantia Develops
+industrialgoods,AUTO.L,london,Auto Trader Group PLC
+industrialgoods,AVAV,nasdaq,AeroVironment Inc.
+industrialgoods,AWI,nyse,Armstrong World Industries Inc.
+industrialgoods,AXON,nasdaq,Axon Enterprise Inc
+industrialgoods,AYI,nyse,Acuity Brands Inc.
+industrialgoods,AZEK,nyse,The AZEK Company Inc.
+industrialgoods,AZJ.ASX,Sydney,Aurizon Holdings Limited
+industrialgoods,BA,nyse,Boeing
+industrialgoods,BCC,nyse,Boise Cascade Company
+industrialgoods,BDC,nyse,Belden Inc
+industrialgoods,BE,nyse,Bloom Energy Corp
+industrialgoods,BKYI,nasdaq,Bio-key International Inc
+industrialgoods,BLDP,nasdaq,Ballard Power Systems Inc.
+industrialgoods,BLDR,nyse,Builders FirstSource Inc
+industrialgoods,BLNK,nasdaq,Blink Charging Co
+industrialgoods,BMI,nyse,Badger Meter Inc
+industrialgoods,BOKA.NV,amsterdam,Koninklijke Boskalis Westminster NV
+industrialgoods,BRE.MI,borsaitaliana,Brembo
+industrialgoods,BRN.ASX,Sydney,BrainChip Holdings Ltd
+industrialgoods,BUCN.ZU,zurich,Bucher Industries AG
+industrialgoods,BW,nyse,Babcock & Wilcox Enterprises Inc
+industrialgoods,BWXT,nyse,BWX Technologies Inc.
+industrialgoods,BZU.MI,borsaitaliana,Buzzi Unicem Group
+industrialgoods,CARR,nyse,Carrier Global Corp
+industrialgoods,CAT,nyse,Caterpillar
+industrialgoods,CGCBV.HE,helsinki,Cargotec Oyj
+industrialgoods,CGNX,nasdaq,Cognex Corp
+industrialgoods,CHPT,nyse,Chargepoint Holdings Inc.
+industrialgoods,CLH,nyse,Clean Harbors Inc.
+industrialgoods,CLLS,nasdaq,Cellectis SA
+industrialgoods,CLNX.MC,bolsademadrid,Cellnex Telecom SA
+industrialgoods,CMI,nyse,Cummins Inc (Ex. Cummins Engine Inc)
+industrialgoods,CNHI.MI,borsaitaliana,CNH Industrial Group
+industrialgoods,CNI,nyse,Canadian National Railway Co
+industrialgoods,COHR,nasdaq,Coherent Corp
+industrialgoods,CP,nyse,Canadian Pacific Railway LTD
+industrialgoods,CR,nyse,Crane Co.
+industrialgoods,CRST.L,london,Crest Nicholson Holdings plc
+industrialgoods,CSIQ,nasdaq,Canadian Solar Inc.
+industrialgoods,CSP.L,london,Countryside Properties PLC
+industrialgoods,CTRM,nasdaq,Castor Maritime Inc
+industrialgoods,CW,nyse,Curtiss-Wright Corporation
+industrialgoods,CX,nyse,"Cemex, S.A.B. de C.V."
+industrialgoods,CYRX,nasdaq,CryoPort Inc.
+industrialgoods,DAC,nyse,Danaos Corp
+industrialgoods,DAR,nyse,Darling Ingredients Inc
+industrialgoods,DCI,nyse,Donaldson Company
+industrialgoods,DE,nyse,Deere & Co
+industrialgoods,DG.PA,paris,Vinci S.A
+industrialgoods,DGLY,nasdaq,Digital Ally Inc
+industrialgoods,DHI,nyse,D.R. Horton Inc
+industrialgoods,DHR,nyse,Danaher Corp
+industrialgoods,DHT,nyse,DHT Holdings Inc
+industrialgoods,DOV,nyse,Dover Corp
+industrialgoods,DSV.CO,copenhagen,DSV A/S
+industrialgoods,DY,nyse,Dycom Industries Inc.
+industrialgoods,EAF,nyse,GrafTech International Ltd.
+industrialgoods,EDIT,nasdaq,Editas Medicine Inc
+industrialgoods,EH,nasdaq,EHang Holdings Ltd
+industrialgoods,ELM.L,london,Elementis PLC
+industrialgoods,EME,nyse,Emcor Group Inc
+industrialgoods,EMR,nyse,Emerson Electric Co
+industrialgoods,EN.PA,paris,Bouygues SA
+industrialgoods,ENOV,nyse,Enovis Corp
+industrialgoods,ENPH,nasdaq,Enphase Energy Inc.
+industrialgoods,ENR.DE,frankfurt,Siemens Energy AG
+industrialgoods,EPIA.ST,stockholm,Epiroc AB
+industrialgoods,EQNR.OL,oslo,Equinor ASA
+industrialgoods,ERJ,nyse,Embraer SA
+industrialgoods,ETN,nyse,Eaton Corp PLC
+industrialgoods,EXP,nyse,Eagle Materials Inc.
+industrialgoods,EXPO,nasdaq,Exponent Inc.
+industrialgoods,FCC.MC,bolsademadrid,Fomento de Construcciones
+industrialgoods,FER.MC,bolsademadrid,Ferrovial
+industrialgoods,FERG.L,london,Ferguson PLC
+industrialgoods,FGR.PA,paris,Eiffage SA
+industrialgoods,FHZN.ZU,zurich,Flughafen Zurich AG
+industrialgoods,FIP,nasdaq,FTAI Infrastructure LLC
+industrialgoods,FLEX,nasdaq,Flex Ltd
+industrialgoods,FLR.US,nyse,Fluor Corp
+industrialgoods,FLS,nyse,Flowserve Corp
+industrialgoods,FLS.CO,copenhagen,FLSmidth & Co. A/S
+industrialgoods,FRO,nyse,Frontline Ltd
+industrialgoods,FTAI,nyse,Fortress Transportation and Infrastructure Investors LLC
+industrialgoods,FTDR,nasdaq,Frontdoor Inc.
+industrialgoods,FTV,nyse,Fortive Corporation
+industrialgoods,G1A.DE,frankfurt,GEA
+industrialgoods,GBF.DE,frankfurt,Bilfinger
+industrialgoods,GD,nyse,General Dynamics Corp
+industrialgoods,GE,nyse,General Electric Co
+industrialgoods,GEN.L,london,Genuit Group PLC
+industrialgoods,GET.PA,paris,Getlink SE
+industrialgoods,GLBS,nasdaq,Globus Maritime Ltd
+industrialgoods,GLNG,nasdaq,Golar LNG Ltd
+industrialgoods,GNRC,nyse,Generac Holdings Inc
+industrialgoods,GNTX,nasdaq,Gentex Corporation
+industrialgoods,GOGL.US,nasdaq,Golden Ocean Group Ltd
+industrialgoods,GRI.L,london,Grainger PLC
+industrialgoods,GTLS,nyse,Chart Industries Inc.
+industrialgoods,GVA,nyse,Granite Construction Inc
+industrialgoods,HDD.DE,frankfurt,Heidelberger Druckmaschinen AG
+industrialgoods,HEAR,nasdaq,Turtle Beach Corp
+industrialgoods,HEI,nyse,Heico Corporation
+industrialgoods,HEI.DE,frankfurt,HeidelbergCement AG
+industrialgoods,HII,nyse,Huntington Ingalls Industries Inc
+industrialgoods,HLAG.DE,frankfurt,Hapag-Lloyd
+industrialgoods,HLMA.L,london,Halma PLC
+industrialgoods,HO.PA,paris,Thales Group
+industrialgoods,HON,nasdaq,Honeywell International Inc
+industrialgoods,HOT.DE,frankfurt,HOCHTIEF AG
+industrialgoods,HPOLB.ST,stockholm,HEXPOL AB ser. B
+industrialgoods,HUBB,nyse,Hubbell Inc.
+industrialgoods,HUH1V.HE,helsinki,Huhtamaki Oyj
+industrialgoods,HUSQB.ST,stockholm,Husqvarna AB Ser. B
+industrialgoods,HWDN.L,london,Howden Joinery Group PLC
+industrialgoods,HWM,nyse,Howmet Aerospace Inc
+industrialgoods,HXL,nyse,Hexcel Corp
+industrialgoods,HYFM,nasdaq,Hydrofarm Holdings Group Inc.
+industrialgoods,IEX,nyse,IDEX Corp
+industrialgoods,IMI.L,london,IMI
+industrialgoods,IP.MI,borsaitaliana,Interpump Group
+industrialgoods,IR,nyse,Ingersoll Rand Inc.
+industrialgoods,ISS.CO,copenhagen,ISS A/S
+industrialgoods,ITRI,nasdaq,Itron Inc
+industrialgoods,ITT,nyse,ITT Inc
+industrialgoods,ITW,nyse,Illinois Tool Works Inc
+industrialgoods,JBT,nyse,John Bean Technologies Corp.
+industrialgoods,JHX.ASX,Sydney,James Hardie Industries plc
+industrialgoods,JUN3.DE,frankfurt,Jungheinrich Aktie
+industrialgoods,KCR.HE,helsinki,Konecranes Oyj
+industrialgoods,KEX,nyse,Kirby Corp
+industrialgoods,KEYS,nyse,Keysight Technologies Inc
+industrialgoods,KMT,nyse,Kennametal Inc
+industrialgoods,KN,nyse,Knowles Corporation
+industrialgoods,KNEBV.HE,helsinki,KONE Oyj
+industrialgoods,KNIN.ZU,zurich,Kuehne & Nagel International AG
+industrialgoods,KRNT,nasdaq,Kornit Digital Ltd.
+industrialgoods,KTOS,nasdaq,Kratos Defense & Security Solutions Inc
+industrialgoods,LAND.ZU,zurich,Landis+Gyr Group AG
+industrialgoods,LDO.MI,borsaitaliana,Leonardo Finmeccanica
+industrialgoods,LECO,nasdaq,Lincoln Electric Holdings Inc
+industrialgoods,LEN,nyse,Lennar Corp
+industrialgoods,LFUS,nasdaq,Littelfuse Inc
+industrialgoods,LIGHT.NV,amsterdam,Signify NV
+industrialgoods,LII,nyse,Lennox International Inc
+industrialgoods,LMT,nyse,Lockheed Martin Corporation
+industrialgoods,LOG.MC,bolsademadrid,Compania de Distribucion Integral Logista Holdings
+industrialgoods,LPL,nyse,LG Display Co Ltd - ADR
+industrialgoods,LPX,nyse,Louisiana-Pacific Corp
+industrialgoods,LR.PA,paris,Legrand SA
+industrialgoods,LSTR,nasdaq,Landstar System Inc
+industrialgoods,MAERSKB.CO,copenhagen,A P Moller Maersk
+industrialgoods,MAS,nyse,Masco Corp
+industrialgoods,MATX,nyse,Matson Inc.
+industrialgoods,MDU,nyse,MDU Resources Group Inc
+industrialgoods,METSB.HE,helsinki,Metsa Board
+industrialgoods,MIDD.US,nasdaq,Middleby Corp
+industrialgoods,MLM,nyse,Martin Marietta Materials Inc
+industrialgoods,MOCORP.HE,helsinki,Metso Outotec Oyj
+industrialgoods,MRCY,nasdaq,Mercury Systems Inc
+industrialgoods,MRO.L,london,Melrose Industries
+industrialgoods,MTD,nyse,Mettler-Toledo International Inc
+industrialgoods,MTW,nyse,Manitowoc Co Inc
+industrialgoods,MTZ,nyse,MasTec Inc
+industrialgoods,MVIS,nasdaq,MicroVision Inc
+industrialgoods,MWA,nyse,Mueller Water Products Inc
+industrialgoods,NAT,nyse,Nordic American Tankers Ltd
+industrialgoods,NEL.OL,oslo,NEL ASA
+industrialgoods,NHY.OL,oslo,Norsk Hydro
+industrialgoods,NIBEB.ST,stockholm,Nibe Industrier AB Ser. B
+industrialgoods,NK.PA,paris,Imerys
+industrialgoods,NOC,nyse,Northrop Grumman Corp
+industrialgoods,NSC,nyse,Norfolk Southern Corp
+industrialgoods,NTDOY,nasdaq,Nintendo CO Ltd
+industrialgoods,NTLA,nasdaq,Intellia Therapeutics Inc
+industrialgoods,NVR,nyse,NVR Inc
+industrialgoods,NVT,nyse,nVent Electric plc
+industrialgoods,NVX.ASX,Sydney,Novonix Limited
+industrialgoods,OC,nyse,Owens Corning Inc
+industrialgoods,ODFL,nasdaq,Old Dominion Freight Line Inc
+industrialgoods,OHLA.MC,bolsademadrid,OHL
+industrialgoods,OLED,nasdaq,Universal Display Corp
+industrialgoods,OSR.DE,frankfurt,OSRAM
+industrialgoods,OTIS,nyse,Otis Worldwide Corp
+industrialgoods,PETS.L,london,Pets at Home Group Plc
+industrialgoods,PH,nyse,Parker-Hannifin Corp
+industrialgoods,PHM,nyse,PulteGroup Inc
+industrialgoods,PHNX.L,london,Phoenix Group Holdings
+industrialgoods,PKI,nyse,PerkinElmer Inc
+industrialgoods,PNL.NV,amsterdam,PostNL NV
+industrialgoods,PNR,nyse,Pentair PLC
+industrialgoods,POLY.L,london,Polymetal International PLC
+industrialgoods,PRY.MI,borsaitaliana,Prysmian Group
+industrialgoods,PSN.L,london,Persimmon
+industrialgoods,PWR,nyse,Quanta Services Inc
+industrialgoods,RKLB,nasdaq,Rocket Lab USA Inc.
+industrialgoods,ROCKB.CO,copenhagen,Rockwool International B A/S
+industrialgoods,ROK,nyse,Rockwell Automation Inc
+industrialgoods,ROLL,nasdaq,RBC Bearings Incorporated
+industrialgoods,ROP,nyse,Roper Technologies Inc
+industrialgoods,RR.L,london,Rolls-Royce
+industrialgoods,RRX,nyse,Regal Rexnord Corp
+industrialgoods,RSG,nyse,Republic Services Inc
+industrialgoods,RTX,nyse,Raytheon-Technologies
+industrialgoods,RUN,nasdaq,Sunrun Inc.
+industrialgoods,S92.DE,frankfurt,SMA Solar Technology AG
+industrialgoods,SAABB.ST,stockholm,Saab AB Ser. B
+industrialgoods,SAF.PA,paris,SAFRAN
+industrialgoods,SAIA,nasdaq,Saia Inc.
+industrialgoods,SBLK,nasdaq,Star Bulk Carriers Corp.
+industrialgoods,SCHP.ZU,zurich,Schindler Holding AG
+industrialgoods,SCYR.MC,bolsademadrid,Sacyr
+industrialgoods,SECU-B.ST,stockholm,Securitas AB ser. B
+industrialgoods,SEDG,nasdaq,SolarEdge Technologies
+industrialgoods,SGO.PA,paris,Compagnie de Saint-Gobain S.A.
+industrialgoods,SGRE.MC,bolsademadrid,Siemens Gamesa Renewable Energy SA
+industrialgoods,SGSN.ZU,zurich,SGS SA
+industrialgoods,SHIP,nasdaq,Seanergy Maritime Holdings Corp
+industrialgoods,SIE.DE,frankfurt,Siemens Aktiengesellschaft
+industrialgoods,SIKA.ZU,zurich,Sika Ltd
+industrialgoods,SKA-B.ST,stockholm,Skanska AB ser. B
+industrialgoods,SKF-A.ST,stockholm,"SKF, AB ser. A"
+industrialgoods,SMIN.L,london,Smiths Group
+industrialgoods,SNA,nyse,Snap-on Incorporated
+industrialgoods,SNR.L,london,Senior PLC
+industrialgoods,SPIE.PA,paris,Spie SA
+industrialgoods,SPR,nyse,Spirit AeroSystems Holdings Inc
+industrialgoods,SRAIL.ZU,zurich,Stadler Rail AG
+industrialgoods,SRCL,nasdaq,Stericycle
+industrialgoods,STNG,nyse,Scorpio Tankers Inc
+industrialgoods,SU.PA,paris,Schneider Electric SE
+industrialgoods,SUM,nyse,Summit Materials Inc
+industrialgoods,SWBI,nasdaq,Smith & Wesson Brands Inc
+industrialgoods,SWK,nyse,Stanley Black & Decker Inc
+industrialgoods,SWX,nyse,Southwest Gas Holdings Inc.
+industrialgoods,TBLT,nasdaq,Toughbuilt Industries Inc
+industrialgoods,TCAP.L,london,TP ICAP PLC
+industrialgoods,TDG,nyse,Transdigm Group Incorporated
+industrialgoods,TEL.US,nyse,TE Connectivity Ltd
+industrialgoods,TEX,nyse,Terex Corporation
+industrialgoods,TFII,nyse,TFI International Inc
+industrialgoods,TKR,nyse,The Timken Company
+industrialgoods,TKTT.PA,paris,Tarkett SA
+industrialgoods,TOL,nyse,Toll Brothers Inc
+industrialgoods,TOM.OL,oslo,Tomra Systems
+industrialgoods,TPC,nyse,Tutor Perini Corp
+industrialgoods,TPH,nyse,Tri Pointe Homes Inc
+industrialgoods,TPK.L,london,Travis Perkins
+industrialgoods,TRE.MC,bolsademadrid,Tecnicas Reunidas
+industrialgoods,TREL-B.ST,stockholm,Trelleborg AB ser. B
+industrialgoods,TREX,nyse,Trex Co Inc
+industrialgoods,TT,nyse,Trane Technologies
+industrialgoods,TTC,nyse,The Toro Company
+industrialgoods,TTEK,nasdaq,Tetra Tech Inc
+industrialgoods,TW.L,london,Taylor Wimpey
+industrialgoods,TWEKA.NV,amsterdam,TKH Group
+industrialgoods,TXT,nyse,Textron Inc
+industrialgoods,UAVS,nyse,AgEagle Aerial Systems Inc
+industrialgoods,UNP,nyse,Union Pacific Corp
+industrialgoods,UPS,nyse,United Parcel Service Inc
+industrialgoods,USEA,nasdaq,United Maritime Corp
+industrialgoods,VACN.ZU,zurich,VAT Group Ltd
+industrialgoods,VALMT.HE,helsinki,Valmet Corporation
+industrialgoods,VAR1.DE,frankfurt,Varta AG
+industrialgoods,VK.PA,paris,Vallourec SA
+industrialgoods,VMC,nyse,Vulcan Materials Co
+industrialgoods,VMI,nyse,Valmont Industries Inc.
+industrialgoods,VNT,nyse,Vontier Corporation
+industrialgoods,WAB,nyse,Wabtec Corp
+industrialgoods,WATT,nasdaq,Energous Corp
+industrialgoods,WCH.DE,frankfurt,Wacker Chemie AG
+industrialgoods,WEIR.L,london,Weir Group
+industrialgoods,WERN,nasdaq,Werner Enterprises Inc.
+industrialgoods,WIRE,nasdaq,Encore Wire Corporation
+industrialgoods,WM,nyse,Waste Management Inc
+industrialgoods,WRK,nyse,Westrock Co
+industrialgoods,WRT1V.HE,helsinki,WÃ¤rtsilÃ¤ Oyj Abp
+industrialgoods,WSC,nasdaq,WillScot Mobile Mini Holdings Corp.
+industrialgoods,WY,nyse,Weyerhaeuser Co
+industrialgoods,XPO,nyse,XPO Logistics Inc
+industrialgoods,XYL,nyse,Xylem Inc
+industrialgoods,YAR.OL,oslo,Yara International
+industrialgoods,ZIM,nyse,ZIM Shipping Services Ltd
+industrialgoods,ZIP,nyse,ZipRecruiter Inc.
+industrialgoods,ZTO,nyse,ZTO Express Cayman Inc
+industrialgoods,ZWS,nyse,Zurn Elkay Water Solutions Corporation
+services,00001.HK,hongkong,CK Hutchison Holdings Ltd
+services,00019.HK,hongkong,Swire Pacific Ltd
+services,00763.HK,hongkong,ZTE Corp
+services,03690.HK,hongkong,Meituan Class B
+services,0700.HK,hongkong,Tencent
+services,0728.HK,hongkong,China Telecom
+services,0762.HK,hongkong,China Unicom HK
+services,2013.HK,hongkong,Weimob Inc
+services,9618.HK,hongkong,JD.com Inc
+services,9988.HK,hongkong,Alibaba Group Holding Ltd (Hong Kong)
+services,AAL,nasdaq,American Airlines Group Inc
+services,AAP,nyse,Advance Auto Parts Inc
+services,ABG,nyse,Asbury Automotive Group Inc
+services,ABM,nyse,ABM Industries Inc
+services,ABNB,nasdaq,Airbnb Inc
+services,AC.PA,paris,Accor S.A.
+services,ACM,nyse,AECOM
+services,ACN,nyse,Accenture PLC
+services,ADEN.ZU,zurich,Adecco Group AG
+services,AES,nyse,AES Corp
+services,AHT.L,london,Ashtead Group
+services,AIHS,nasdaq,Senmiao Technology Ltd
+services,AIR.PA,paris,AIRBUS SE
+services,AKA.US,nyse,a.k.a. Brands Holding
+services,ALIT,nyse,Alight Solutions Inc.
+services,ALK,nyse,Alaska Air Group Inc
+services,ALLE,nyse,Allegion
+services,AMWL,nyse,American Well Corp
+services,AMZN,nasdaq,Amazon.com Inc
+services,AN,nyse,AutoNation
+services,ANET,nyse,Arista Networks Inc
+services,ANF,nyse,Abercrombie & Fitch Company
+services,ANGI,nasdaq,ANGI Homeservices Inc
+services,AON,nyse,Aon plc
+services,APA.ASX,Sydney,APA Group
+services,ARMK,nyse,Aramark
+services,ARW,nyse,Arrow Electronics Inc
+services,ASAN,nyse,Asana
+services,ASC.L,london,ASOS PLC
+services,ATIP,nyse,ATI Physical Therapy Inc
+services,ATUS,nyse,Altice USA Inc A
+services,AVDX,nasdaq,AvidXchange
+services,AVT,nasdaq,Avnet Inc
+services,AZO,nyse,Autozone Inc
+services,AZPN,nasdaq,Aspen Technology Inc
+services,BAB.L,london,Babcock International
+services,BABA,nyse,Alibaba
+services,BAH,nyse,Booz Allen Hamilton Holding Corp
+services,BARK,nyse,The Original Bark Co
+services,BBBY,nasdaq,Bed Bath & Beyond Inc
+services,BBWI,nyse,Bath & Body Works Inc
+services,BBY,nyse,Best Buy Co Inc
+services,BCE,nyse,BCE Inc
+services,BDEV.L,london,Barratt Developments
+services,BIG,nyse,Big Lots Inc
+services,BIRD,nasdaq,Allbirds Inc
+services,BKKT,nasdaq,Bakkt Holding
+services,BKNG,nasdaq,Booking Holdings Inc
+services,BLMN,nasdaq,Bloomin Brands Inc
+services,BNZL.L,london,Bunzl
+services,BOL.PA,paris,Bollore SA
+services,BRBY.L,london,Burberry Group
+services,BURL,nyse,Burlington Stores Inc
+services,BYND,nasdaq,Beyond Meat Inc.
+services,BZUN,nasdaq,Baozun Inc
+services,CABO,nyse,Cable One Inc.
+services,CAMP,nasdaq,CalAmp Corp.
+services,CANO,nyse,Cano Health Inc.
+services,CAR,nasdaq,Avis Budget Group Inc
+services,CARG,nasdaq,Cargurus Inc
+services,CASY,nasdaq,Casey's General Stores Inc
+services,CDLX,nasdaq,Cardlytics Inc
+services,CHDN,nasdaq,Churchill Downs Inc.
+services,CHRW,nasdaq,C.H.Robinson Worldwide Inc
+services,CHTR,nasdaq,Charter Communications Inc
+services,CIEN,nyse,Ciena Corp
+services,CIVI,nyse,Civitas Resources Inc.
+services,CMG,nyse,Chipotle Mexican Grill Inc
+services,CPG.L,london,Compass Group
+services,CPI.L,london,Capita
+services,CRC,nyse,California Resources Corporation
+services,CRNT,nasdaq,Ceragon Networks Ltd
+services,CRTO,nasdaq,CRITEO SA-SPON ADR
+services,CSX,nasdaq,CSX Corp
+services,CTAS,nasdaq,Cintas Corp
+services,DAL,nyse,Delta Air Lines Inc (DE)
+services,DASH.US,nyse,DoorDash Inc
+services,DCC.L,london,DCC PLC
+services,DDS,nyse,Dillards Inc
+services,DEC.PA,paris,J C Decaux
+services,DHER.DE,frankfurt,Delivery Hero SE
+services,DIS,nyse,Walt Disney
+services,DISH,nasdaq,DISH Network Corp
+services,DKS,nyse,Dicks Sporting Goods Inc
+services,DKSH.ZU,zurich,DKSH Holding AG
+services,DLG.L,london,Direct Line Group
+services,DNUT,nasdaq,Krispy Kreme Inc.
+services,DPW.DE,frankfurt,Deutsche Post AG
+services,DPZ,nyse,Domino's Pizza Inc
+services,DRI,nyse,Darden Restaurants Inc
+services,DTM,nyse,DT Midstream Inc.
+services,EAT,nyse,Brinker Intl.
+services,EB,nyse,Eventbrite Inc
+services,EBAY,nasdaq,eBay
+services,EDR,nyse,Endeavor Group Holdings Inc
+services,EGHT,nyse,8x8 Inc
+services,ENFN,nyse,Enfusion
+services,ERIC,nasdaq,Telefonaktiebolaget LM Ericsson ADR
+services,ETL.PA,paris,Eutelsat Communications
+services,ETSY,nasdaq,Etsy Inc
+services,EXPD,nasdaq,Expeditors International of Washington
+services,EXPE,nasdaq,Expedia Group Inc
+services,EXPN.L,london,Experian
+services,EZJ.L,london,easyJet
+services,FDS,nyse,Factset Research Systems Inc.
+services,FDX,nyse,FedEx Corporation
+services,FFIV,nasdaq,F5 Networks Inc
+services,FIGS,nyse,FIGS Inc.
+services,FISV,nasdaq,Fiserv Inc
+services,FLNC,nasdaq,Fluence Energy Inc.
+services,FLT,nyse,FLEETCOR Technologies Inc
+services,FLTR.L,london,Flutter Entertainment
+services,FLWS,nasdaq,1 800 FLOWERS COM
+services,FNTN.DE,frankfurt,freenet
+services,FOX,nasdaq,Fox Corporation
+services,FOXA,nasdaq,Fox Corp
+services,FRA.DE,frankfurt,Fraport AG Frankfurt Airport S
+services,FRAS,london,Frasers Group
+services,FSLY,nyse,Fastly Inc
+services,FTCV,nasdaq,Fintech Acquisition Corp. V
+services,FUBO,nyse,fuboTV Inc.
+services,FVRR,nyse,Fiverr International
+services,FWONA,nasdaq,Liberty Media Formula One Corp A
+services,FXLV,nyse,F45 Training Holdings Inc.
+services,G24.DE,frankfurt,Scout24 AG
+services,GDS,nasdaq,GDS Holdings Ltd
+services,GHC,nyse,Graham Holdings Co - Class B
+services,GILT,nasdaq,Gilat Satellite Networks Ltd
+services,GJF.OL,oslo,Gjensidige Forsikring
+services,GLP,nyse,Global Partners LP
+services,GME,nyse,GameStop Corp.
+services,GOGL.OL,oslo,Golden Ocean Group
+services,GOGO,nasdaq,Gogo Inc
+services,GOOGL,nasdaq,Alphabet Inc Class A
+services,GPC,nyse,Genuine Parts Co
+services,GPI,nyse,Group 1 Automotive Inc
+services,GPS,nyse,"Gap, Inc."
+services,GRAB,nasdaq,Grab Holdings Ltd
+services,GRPN,nasdaq,Groupon Inc
+services,GTLB,nasdaq,GitLab
+services,GTN,nyse,Gray Television Inc
+services,GWW,nyse,WW Grainger Inc
+services,H,nyse,Hyatt Hotels Corp
+services,HAIN,nasdaq,Hain Celestial
+services,HD,nyse,Home Depot Inc
+services,HLT,nyse,Hilton Worldwide Holdings Inc
+services,HNR1.DE,frankfurt,Hannover Rueck SE
+services,HRI,nyse,Herc Holdings
+services,HSIC,nasdaq,Henry Schein Inc
+services,HTZ,nyse,Hertz Global Holdings Inc
+services,IAC,nasdaq,IAC Inc
+services,IAG.L,london,International Consolidated Airlines
+services,ICLK,nasdaq,iClick Interactive Asia Group
+services,IDCC,nasdaq,InterDigital Inc.
+services,IDT,nyse,IDT Corporation
+services,IHRT,nasdaq,iHeartMedia Inc
+services,IHS,nyse,IHS Holding
+services,INF.L,london,Informa
+services,INFN,nasdaq,Infinera Corp
+services,IPG,nyse,Interpublic Group of Companies Inc
+services,IPOF,nyse,Social Capital Hedosophia Holdings Corp. VI Class A
+services,IRDM,nasdaq,Iridium Communications Inc
+services,IS,nyse,IronSource LLC
+services,ITRK.L,london,Intertek Group
+services,ITV.L,london,ITV
+services,IZEA,nasdaq,IZEA Worldwide Inc
+services,J,nyse,Jacobs Engineering Group Inc
+services,JBHT,nasdaq,J.B.Hunt Transport Services Inc
+services,JBLU,nasdaq,JetBlue Airways Corp
+services,JMIA,nyse,Jumia Technologies AG
+services,JTKWY,nasdaq,Just Eat Takeaway.com NV
+services,JWN,nyse,Nordstrom Inc
+services,KBR,nyse,KBR Inc
+services,KGF.L,london,Kingfisher
+services,KGX.DE,frankfurt,KION GROUP
+services,KMX,nyse,CarMax Inc
+services,KNX,nyse,Knight-Swift Transportation Holdings Inc.
+services,KSS,nyse,Kohl's Corp
+services,LBRDK,nasdaq,Liberty Broadband Corporation
+services,LBTYA,nasdaq,Liberty Global A
+services,LBTYK,nasdaq,Liberty Global C
+services,LCID,nasdaq,Lucid Group Inc
+services,LESL,nasdaq,Leslie's Inc
+services,LHA.DE,frankfurt,Deutsche Lufthansa Aktiengesellschaft
+services,LILA,nasdaq,Liberty Latin America Ltd.
+services,LPRO,nasdaq,Open Lending Corporation
+services,LSXMA,nasdaq,Liberty Media Corporation Series A Liberty SiriusXM Common Stock
+services,LSXMK,nasdaq,Liberty Media Corp-Liberty SiriusXM
+services,LUNA.US,nasdaq,Luna Innovations Inc
+services,LUV,nyse,Southwest Airlines Co
+services,LVS,nyse,Las Vegas Sands Corp
+services,LYFT,nasdaq,Lyft Inc.
+services,LYV,nyse,Live Nation Entertainment Inc
+services,MAN,nyse,ManpowerGroup Inc
+services,MAR,nasdaq,Marriott International Inc
+services,MARK,nasdaq,Remark Holdings Inc
+services,MAXR,nyse,Maxar Technologies Inc
+services,MBT,nyse,Mobile TeleSystems PJSC
+services,MCD,nyse,McDonald's
+services,MCO,nyse,Moody's Corp.
+services,MCRO.L,london,Micro Focus International PLC
+services,MELI,nasdaq,MercadoLibre
+services,MF,nasdaq,MissFresh Ltd. ADR
+services,MGM,nyse,MGM Resorts International
+services,MGNI,nasdaq,Magnite Inc
+services,MKS.L,london,Marks & Spencer
+services,ML.US,nyse,Moneylion Inc
+services,MMB.PA,paris,Lagardere SCA
+services,MMT.PA,paris,Metropole Television SA
+services,MMYT,nasdaq,Makemytrip
+services,MNST,nasdaq,Monster Beverage Corp
+services,MTCH,nasdaq,"Match Group, Inc"
+services,MUSA,nyse,Murphy USA Inc
+services,NAS.OL,oslo,Norwegian Air Shuttle
+services,NFLX,nasdaq,"Netflix, Inc."
+services,NICE,nasdaq,Nice Ltd
+services,NOG,nyse,Northern Oil and Gas Inc.
+services,NOKIA.HE,helsinki,Nokia Corp.
+services,NSTB,nyse,Northern Star Investment Corp. II
+services,NWSA,nasdaq,News Corp
+services,NXST,nasdaq,Nexstar Media Group Inc
+services,NXT.L,london,Next
+services,NYT,nyse,The New York Times Co
+services,O2D.DE,frankfurt,Telefonica Deutschland Holding AG
+services,ODP,nasdaq,The ODP Corporation
+services,OKTA,nasdaq,Okta Inc
+services,OMC,nyse,Omnicom Group Inc
+services,OMI,nyse,Owens & Minor Inc
+services,OPEN,nasdaq,Opendoor Technologies Inc.
+services,ORA.PA,paris,Orange
+services,ORAN,nyse,Orange S.A.
+services,ORGN,nasdaq,Origin Materials Inc
+services,ORLY,nasdaq,O'Reilly Automotive Inc
+services,OSTK,nasdaq,"Overstock.com, Inc."
+services,OUT,nyse,Outfront Media Inc
+services,OZON,nasdaq,Ozon Holdings PLC
+services,PAYO,nasdaq,Payoneer Global Inc
+services,PD,nyse,PagerDuty Inc
+services,PDCO,nasdaq,Patterson Companies Inc
+services,PRFT,nasdaq,Perficient Inc
+services,PROX.BR,brussels,Proximus SA
+services,PRX.NV,amsterdam,Prosus NV
+services,PSM.DE,frankfurt,ProSiebenSat.1 Media SE
+services,PSON.L,london,Pearson
+services,PST.MI,borsaitaliana,Poste Italiane
+services,PTON,nasdaq,Peloton Interactive
+services,PUB.PA,paris,Publicis Groupe
+services,PWP,nasdaq,Perella Weinberg Partners
+services,QSR,nyse,Restaurant Brands International Inc.
+services,QTWO,nyse,Q2 Holdings Inc
+services,R,nyse,Ryder System Inc
+services,RAD,nyse,Rite Aid Corp
+services,REAL,nasdaq,RealReal Inc
+services,REC.MI,borsaitaliana,Recordati
+services,REL.L,london,RELX PLC
+services,RHI,nyse,Robert Half International Inc
+services,RMG.L,london,Royal Mail
+services,RMS.PA,paris,Hermes International
+services,RNG,nyse,RingCentral Inc
+services,ROKU,nasdaq,Roku Inc
+services,ROST,nasdaq,Ross Stores Inc
+services,RRTL.DE,frankfurt,RTL Group
+services,RSKD,nyse,Riskified Inc.
+services,RTO.L,london,Rentokil Initial PLC
+services,RVLV,nyse,Revolve Group Inc
+services,RYAAY,nasdaq,Ryanair Holdings plc
+services,SAH,nyse,Sonic Automotive Inc
+services,SAVE,nyse,Spirit Airlines
+services,SAX.DE,frankfurt,Stroeer SE & Co KGaA
+services,SBER.MOEX,london,Sberbank Moscow
+services,SBGI,nasdaq,Sinclair Broadcast Group Inc
+services,SBRY.L,london,J Sainsbury PLC
+services,SBUX,nasdaq,Starbucks Corporation
+services,SCATC.OL,oslo,Scatec ASA
+services,SCHA.OL,oslo,Schibsted ASA
+services,SCI,nyse,Service Corp Intl
+services,SEAT,nyse,Vivid Seats Inc (Class A)
+services,SEK.ASX,Sydney,SEEK Limited
+services,SESG.PA,paris,SES GLOBAL FDR
+services,SFIX,nasdaq,Stitch Fix Inc
+services,SHCR,nasdaq,Sharecare Inc
+services,SIG,nyse,Signet Jewelers LTD
+services,SIRI,nasdaq,Sirius XM Holdings Inc
+services,SIX,nyse,Six Flags Entertainment Corporation
+services,SIX2.DE,frankfurt,SIXT SE
+services,SKG.L,london,Smurfit Kappa Group
+services,SKM,nyse,SK Telecom Co Ltd
+services,SMWB,nyse,Similarweb
+services,SNOW,nyse,Snowflake Inc.
+services,SNX.US,nyse,TD Synnex Corp
+services,SOFI,nasdaq,SoFi Technologies Inc
+services,SPGI,nyse,S&P Global Inc
+services,SPT.L,london,Spirent Communications PLC
+services,SPTN,nasdaq,SpartanNash Company
+services,SQ,nyse,Block Inc.
+services,SQSP,nyse,Squarespace
+services,SSTK,nyse,Shutterstock Inc.
+services,STB.OL,oslo,Storebrand
+services,STO.ASX,Sydney,Santos Limited
+services,SWCH,nyse,Switch Inc
+services,SYY,nyse,Sysco Corp
+services,TA,nasdaq,TravelCenters of America LLC
+services,TASK,nasdaq,TaskUs Inc.
+services,TBLA,nasdaq,Taboola.com Ltd.
+services,TCOM.CH,nasdaq,Trip.com Group Ltd
+services,TEF.MC,bolsademadrid,Telefonica SA
+services,TEL2B.ST,stockholm,Tele2 AB Ser. B
+services,TELIA.ST,stockholm,Telia Company AB
+services,TGNA,nyse,TEGNA Inc
+services,TJX,nyse,TJX Companies Inc
+services,TL5.MC,bolsademadrid,Mediaset Espana
+services,TLS.ASX,Sydney,Telstra Corp Ltd
+services,TLX.DE,frankfurt,Talanx AG
+services,TMUS,nasdaq,T-Mobile US Inc
+services,TMX,nyse,Terminix Global Holdings Inc
+services,TNET.BR,brussels,Telenet Group Holding NV
+services,TNL,nyse,Travel + Leisure Co
+services,TRMR,nasdaq,Tremor International Ltd. ADR
+services,TRVG,nasdaq,Trivago NV
+services,TSCO.L,london,Tesco
+services,TTD,nasdaq,Trade Desk Inc A
+services,TUI.L,london,TUI AG
+services,TV,nyse,"Grupo Televisa, S.A.B."
+services,TWKS,nasdaq,Thoughtworks
+services,UAL,nasdaq,United Airlines Holdings Inc
+services,UBER,nyse,Uber Technologies Inc.
+services,UBXN.ZU,zurich,u-blox Holding AG
+services,UNFI,nyse,United Natural Foods Inc
+services,UNI.MI,borsaitaliana,Unipol
+services,UNIT,nasdaq,Uniti Group Inc
+services,UONE,nasdaq,Urban One Inc
+services,UPWK,nasdaq,Upwork Inc
+services,URBN,nasdaq,Urban Outfitters Inc.
+services,URI,nyse,United Rentals Inc
+services,UTDI.DE,frankfurt,United Internet
+services,VIPS,nyse,Vipshop Holdings Ltd
+services,VIV.US,nyse,TelefÃ´nica Brasil SA
+services,VMEO,nasdaq,Vimeo Inc.
+services,VMUK.L,london,Virgin Money UK
+services,VRSK,nasdaq,Verisk Analytics
+services,VSAT,nasdaq,Viasat Inc.
+services,W,nyse,Wayfair Inc.
+services,WBD,nasdaq,Warner Bros Discovery Inc
+services,WCC,nyse,WESCO International Inc
+services,WDS.ASX,Sydney,Woodside Energy Group Ltd
+services,WE,nasdaq,WeWork Inc
+services,WHC.ASX,Sydney,Whitehaven Coal Limited
+services,WISH,nasdaq,ContextLogic Inc
+services,WMT,nyse,Walmart Inc.
+services,WPP.L,london,WPP
+services,WSM,nyse,Williams-Sonoma Inc
+services,WSO,nyse,Watsco Inc
+services,WTB.L,london,Whitbread
+services,WTW,nasdaq,Willis Towers Watson Public Limited Company
+services,WWE,nyse,World Wrestling Entertainment Inc
+services,WYNN,nasdaq,Wynn Resorts Ltd
+services,XELAP,nasdaq,XELA Pref
+services,YOU.DE,frankfurt,ABOUT YOU Holding AG
+services,YUM,nyse,Yum Brands Inc
+services,YY,nasdaq,JOYY Inc.
+services,ZG,nasdaq,Zillow Group Inc
+services,ZH,nyse,Zhihu Inc
+services,ZS,nasdaq,Zscaler Inc
+technology,00241.HK,hongkong,Alibaba Health Information Tec
+technology,00268.HK,hongkong,Kingdee International Software
+technology,00981.HK,hongkong,Semiconductor Manufacturing International Corporation
+technology,0992.HK,hongkong,Lenovo Group
+technology,3888.HK,hongkong,Kingsoft Corp Ltd
+technology,888.L,london,888 Holdings
+technology,ACIW,nasdaq,ACI Worldwide Inc.
+technology,ACLS,nasdaq,Axcelis Technologies Inc.
+technology,ACMR,nasdaq,ACM Research Inc
+technology,ADBE,nasdaq,Adobe Systems Inc
+technology,ADI,nasdaq,Analog Devices Inc
+technology,ADP,nasdaq,Automatic Data Processing Inc
+technology,ADSK,nasdaq,"Autodesk, Inc."
+technology,AI,nyse,C3.ai Inc.
+technology,AIXA.DE,frankfurt,AIXTRON
+technology,AKAM,nasdaq,Akamai Technologies
+technology,ALGM,nasdaq,Allegro MicroSystems Inc
+technology,AMAT,nasdaq,Applied Materials Inc
+technology,AMD,nasdaq,Advanced Micro Devices Inc
+technology,AMEH,nasdaq,Apollo Medical Holdings Inc.
+technology,AMKR,nasdaq,Amkor Technology Inc
+technology,AMS.MC,bolsademadrid,Amadeus IT Hold -A-
+technology,AMS.ZU,zurich,Ams AG
+technology,AMX,nyse,"America Movil, S.A.B. de C.V."
+technology,ANSS,nasdaq,ANSYS
+technology,AOSL,nasdaq,Alpha and Omega Semiconductor Limited
+technology,APH,nyse,Amphenol Corporation
+technology,API,nasdaq,Agora Inc
+technology,APPF,nasdaq,Appfolio Inc
+technology,APPN,nasdaq,Appian Corporation
+technology,APPS,nasdaq,Digital Turbine Inc
+technology,ASM.NV,amsterdam,ASM International NV
+technology,ASML,nasdaq,ASML Holding NV
+technology,ASML.NV,amsterdam,ASML Holding NV
+technology,ASX,nyse,ASE Technology Holding -ADR
+technology,ATHM.CH,nyse,Autohome
+technology,ATO.PA,paris,Atos SE
+technology,ATVI,nasdaq,"Activision Blizzard, Inc."
+technology,AVGO,nasdaq,Broadcom Inc
+technology,AVID,nasdaq,Avid Technology Inc.
+technology,AVLR,nyse,Avalara Inc.
+technology,AVYA,nyse,Avaya Holdings Corp
+technology,AYX,nyse,Alteryx Inc.
+technology,AZTA,nasdaq,Azenta Inc
+technology,BAND.US,nasdaq,Bandwidth Inc.
+technology,BASE,nasdaq,Couchbase Inc.
+technology,BB,nyse,BlackBerry Limited
+technology,BBY.L,london,Balfour Beatty PLC
+technology,BC8.DE,frankfurt,Bechtle AG
+technology,BESI.NV,amsterdam,BE Semiconductor Industries NV
+technology,BIDU,nasdaq,"Baidu, Inc."
+technology,BIGC,nasdaq,BigCommerce Holdings Inc
+technology,BILL,nyse,Bill.com Holdings Inc
+technology,BKI,nyse,Black Knight Inc.
+technology,BL,nasdaq,BlackLine Inc.
+technology,BLND.US,nyse,Blend Labs Inc.
+technology,BMBL,nasdaq,Bumble Inc.
+technology,BOX,nyse,Box Inc
+technology,BOXL,nasdaq,Boxlight Corp
+technology,BR,nyse,Broadridge Financial Solutions
+technology,BSY,nasdaq,"Bentley Systems, Incorporated"
+technology,BT.L,london,BT Group
+technology,CACI,nyse,CACI International Inc
+technology,CAJ,nyse,Canon Inc - ADR
+technology,CAN,nasdaq,Canaan Inc
+technology,CAP.PA,paris,Capgemini SE
+technology,CAPC.L,london,Capital & Counties Properties PLC
+technology,CDAY,nyse,Ceridian HCM Holding Inc.
+technology,CDNS,nasdaq,Cadence Design Systems Inc
+technology,CDW,nasdaq,CDW Corp
+technology,CEVA,nasdaq,Ceva Inc.
+technology,CFLT,nasdaq,Confluent Inc.
+technology,CHKP,nasdaq,Check Point Software Technologies
+technology,CHNG,nasdaq,Change Healthcare Inc.
+technology,CKN.L,london,Clarkson PLC
+technology,CLA.PA,paris,Claranova SADIR
+technology,CLVT,nyse,Clarivate Plc
+technology,CNDT,nasdaq,Conduent Inc
+technology,CNXC,nasdaq,Concentrix Corporation
+technology,COMM,nasdaq,CommScope Holding Co Inc
+technology,COP.DE,frankfurt,CompuGroup Medical SE
+technology,COUP,nasdaq,Coupa Software Inc
+technology,CPNG,nyse,Coupang Inc.
+technology,CPU.ASX,Sydney,Computershare Limited
+technology,CRM,nyse,Salesforce Inc
+technology,CRNC,nasdaq,Cerence Inc.
+technology,CRSR,nasdaq,Corsair Gaming Inc
+technology,CRUS,nasdaq,Cirrus Logic Inc
+technology,CRWD,nasdaq,Crowdstrike Holdings
+technology,CSCO,nasdaq,Cisco Systems Inc
+technology,CTSH,nasdaq,Cognizant Technology Solutions Corp
+technology,CTXS,nasdaq,Citrix Systems Inc
+technology,CVLT,nasdaq,Commvault Systems Inc.
+technology,CYBR,nasdaq,CyberArk
+technology,DAVA,nyse,Endava plc
+technology,DBD,nyse,Diebold Nixdorf Inc
+technology,DBX,nasdaq,Dropbox Inc
+technology,DDD,nyse,3D Systems Corp.
+technology,DDOG,nasdaq,Datadog Inc
+technology,DELL,nyse,Dell Technologies Inc C
+technology,DIA.MI,borsaitaliana,Diasorin
+technology,DIOD,nasdaq,Diodes Incorporated
+technology,DM,nyse,Desktop Metal Inc.
+technology,DOCN,nyse,DigitalOcean Holdings Inc.
+technology,DOCS,nyse,Doximity Inc.
+technology,DOCU,nasdaq,DocuSign Inc
+technology,DOMO,nasdaq,Domo Inc
+technology,DOX,nasdaq,Amdocs Ltd
+technology,DOYU,nasdaq,Douyu
+technology,DSY.PA,paris,Dassault Systemes
+technology,DT,nyse,Dynatrace Inc
+technology,DTE.DE,frankfurt,Deutsche Telekom AG
+technology,DUE.DE,frankfurt,Duerr AG
+technology,DUOL,nasdaq,Duolingo
+technology,DXC,nyse,DXC Technology Co
+technology,EA,nasdaq,"Electronic Arts, Inc."
+technology,EGAN,nasdaq,eGain Corp
+technology,EMBRACB.ST,stockholm,Embracer Group AB
+technology,ENTG,nasdaq,Entegris Inc
+technology,ENV,nyse,Envestnet Inc
+technology,EPAM,nyse,EPAM Systems Inc.
+technology,ERIC-A.ST,stockholm,Telefonaktiebolaget LM Ericsson
+technology,ESTC,nyse,Elastic NV
+technology,ETWO,nyse,E2open Parent Holdings Inc.
+technology,EVBG,nasdaq,Everbridge Inc
+technology,EXLS,nasdaq,ExlService Holdings Inc.
+technology,FICO,nyse,Fair Isaac Corporation
+technology,FIS,nyse,Fidelity National Information Services Inc
+technology,FSJ.L,london,James Fisher & Sons PLC
+technology,FSLR,nasdaq,"First Solar, Inc."
+technology,FTCH,nyse,Farfetch
+technology,FTNT,nasdaq,Fortinet Inc
+technology,G,nyse,Genpact Limited
+technology,GDDY,nyse,GoDaddy Inc.
+technology,GDYN,nasdaq,Grid Dynamics Holdings Inc
+technology,GFS,nasdaq,GlobalFoundries Inc
+technology,GIB,nyse,CGI Group
+technology,GLBE,nasdaq,Global-E Online Ltd
+technology,GLOB,nyse,Globant SA
+technology,GLW,nyse,Corning Inc
+technology,GNUS,nasdaq,Genius Brands International Inc
+technology,GOOG,nasdaq,Alphabet
+technology,GOTU,nyse,Gaotu Techedu Inc.
+technology,GRMN,nasdaq,Garmin Ltd.
+technology,GSAT,nyse,Globalstar
+technology,GWRE,nyse,Guidewire Software Inc
+technology,HCAT,nasdaq,Health Catalyst Inc
+technology,HEXA-B.ST,stockholm,Hexagon AB ser. B
+technology,HPE,nyse,Hewlett Packard Enterprise Co
+technology,HPQ,nyse,Hewlett Packard
+technology,HUBS,nyse,HubSpot
+technology,IBM,nyse,International Business Machines Corporation (IBM)
+technology,IDEX,nasdaq,Ideanomics Inc
+technology,IDR.MC,bolsademadrid,Indra Sistemas SA
+technology,IFX.DE,frankfurt,Infineon Technologies AG
+technology,INFA,nyse,Informatica Inc
+technology,INFY,nyse,Infosys Limited
+technology,INPX,nasdaq,Inpixon
+technology,INTC,nasdaq,Intel
+technology,INTU,nasdaq,Intuit Corp
+technology,IPGP,nasdaq,Ipg Photonics Corp.
+technology,JAMF,nasdaq,Jamf Holding Corp.
+technology,JBL,nyse,Jabil Inc
+technology,JD.US,nasdaq,JD.com
+technology,JEN.DE,frankfurt,Jenoptik
+technology,JKHY,nasdaq,Jack Henry & Associates Inc
+technology,JNPR,nyse,Juniper Networks Inc
+technology,KBX.DE,frankfurt,Knorr-Bremse AG
+technology,KC,nasdaq,Kingsoft Cloud Holdings Ltd
+technology,KD,nyse,Kyndryl Holdings Inc
+technology,KLAC,nasdaq,KLA Corporation
+technology,KLIC,nasdaq,Kulicke and Soffa Industries Inc.
+technology,KLTR,nasdaq,Kaltura Inc.
+technology,KNBE,nasdaq,KnowBe4 Inc.
+technology,KPN.NV,amsterdam,KPN
+technology,KRN.DE,frankfurt,Krones AG
+technology,KTN.DE,frankfurt,Kontron AG
+technology,LAW,nyse,CS Disco Inc
+technology,LDOS,nyse,Leidos Holdings Inc
+technology,LITE,nasdaq,Lumentum Holdings Inc
+technology,LOGI,nasdaq,Logitech International S.A.
+technology,LOGN.ZU,zurich,Logitech International SA
+technology,LPSN,nasdaq,LivePerson Inc
+technology,LRCX,nasdaq,Lam Research Corp
+technology,LSCC,nasdaq,Lattice Semiconductor Corp
+technology,LSPD,nyse,Lightspeed Commerce Inc
+technology,LUMN,nyse,Lumen Technologies Inc
+technology,MANH,nasdaq,Manhattan Associates Inc
+technology,MCHP,nasdaq,Microchip Technology Inc
+technology,MDB,nasdaq,MongoDB Inc
+technology,MDRX,nasdaq,Allscripts Healthcare Solutions Inc.
+technology,META,nasdaq,Meta Platforms Inc
+technology,MIGI,nasdaq,Mawson Infrastructure Group Inc.
+technology,MITK,nasdaq,Mitek Systems Inc
+technology,MKSI,nasdaq,MKS Instruments Inc
+technology,MMS,nyse,Maximus Inc.
+technology,MNDY,nasdaq,Monday.com
+technology,MNTV,nasdaq,Momentive Global Inc
+technology,MOMO,nasdaq,Hello Group Inc
+technology,MPWR,nasdaq,Monolithic Power Systems Inc
+technology,MRVL,nasdaq,Marvell Technology Group Ltd
+technology,MSCI,nyse,MSCI Inc
+technology,MSFT,nasdaq,Microsoft
+technology,MSI,nyse,"Motorola Solutions, Inc."
+technology,MSTR,nasdaq,MicroStrategy Incorporated
+technology,MTRO.L,london,Metro Bank PLC
+technology,MTSI,nasdaq,Macom Technology Solutions
+technology,MTTR,nasdaq,Matterport Inc
+technology,MTX.DE,frankfurt,MTU Aero Engines AG
+technology,MU,nasdaq,"Micron Technology, Inc."
+technology,MX,nyse,MagnaChip Semiconductor Corp.
+technology,MXL,nyse,MaxLinear Inc
+technology,NATI,nasdaq,National Instruments Corporation
+technology,NCNO,nasdaq,nCino Inc.
+technology,NCR,nyse,NCR Corp
+technology,NEM.DE,frankfurt,Nemetschek SE
+technology,NET,nyse,Cloudflare
+technology,NEWR,nyse,New Relic
+technology,NLOK,nasdaq,NortonLifeLock
+technology,NLSN,nyse,Nielsen Holdings plc
+technology,NNDM,nasdaq,Nano Dimension Ltd
+technology,NOK,nyse,Nokia Oyj
+technology,NOW,nyse,ServiceNow Inc
+technology,NTAP,nasdaq,NetApp Inc
+technology,NTCT,nasdaq,NetScout Systems Inc.
+technology,NTES,nasdaq,NetEase Inc.
+technology,NTNX,nasdaq,Nutanix Inc A
+technology,NVDA,nasdaq,NVIDIA Corporation
+technology,NVMI,nasdaq,Nova Ltd.
+technology,NXPI,nasdaq,NXP Semiconductors
+technology,OB,nasdaq,Outbrain Inc.
+technology,OLO,nyse,Olo Inc.
+technology,ON,nasdaq,ON Semiconductor Corp
+technology,ONEM,nasdaq,1Life Healthcare Inc
+technology,ONTO,nyse,Onto Innovation Inc
+technology,ORCL,nyse,Oracle Corporation
+technology,PANW,nyse,Palo Alto Networks
+technology,PARRO.PA,paris,Parrot SA
+technology,PATH,nyse,UiPath Inc.
+technology,PAYC,nyse,Paycom Software Inc
+technology,PAYX,nasdaq,Paychex Inc
+technology,PCOR,nyse,Procore Technologies Inc.
+technology,PEGA,nasdaq,Pegasystems Inc
+technology,PHR,nyse,Phreesia Inc
+technology,PHUN,nasdaq,Phunware Inc
+technology,PI,nasdaq,Impinj Inc.
+technology,PING,nyse,Ping Identity Holding Corp
+technology,PINS,nyse,Pinterest Inc
+technology,PIRC.MI,borsaitaliana,Pirelli & C
+technology,PLTR,nyse,Palantir Technologies Inc.
+technology,POSH,nasdaq,Poshmark Inc Class A
+technology,POWI,nasdaq,Power Integrations
+technology,PRCH,nasdaq,Porch Group Inc.
+technology,PRGS,nasdaq,Progress Software Corporation
+technology,PSTG,nyse,Pure Storage Inc
+technology,PTC,nasdaq,PTC Inc.
+technology,PUBM,nasdaq,PUBMATIC INC-CLASS A
+technology,PYPL,nasdaq,PayPal Holdings
+technology,QCOM,nasdaq,Qualcomm Inc
+technology,QLYS,nasdaq,Qualys Inc.
+technology,QRVO,nasdaq,Qorvo Inc.
+technology,QTT,nasdaq,Qutoutiao Inc.
+technology,RBLX,nyse,Roblox Corp.
+technology,RENN,nyse,Renren Inc.
+technology,RPD,nasdaq,Rapid7 Inc
+technology,S.US,nyse,SentinelOne Inc.
+technology,SANM,nasdaq,Sanmina Corp
+technology,SAP,nyse,SAP SE ADR
+technology,SAP.DE,frankfurt,SAP SE
+technology,SBAC,nasdaq,SBA Communications Corporation
+technology,SCMN.ZU,zurich,Swisscom AG
+technology,SCPL,nasdaq,Sciplay Corp
+technology,SCT.L,london,Softcat PLC
+technology,SDGR,nasdaq,Schrodinger Inc/United States
+technology,SE,nyse,Sea Ltd
+technology,SEMR,nyse,Semrush Holdings Inc
+technology,SF.ST,stockholm,Stillfront Group AB
+technology,SHOP,nyse,Shopify Inc.
+technology,SIM.CO,copenhagen,SimCorp A/S
+technology,SIMO,nasdaq,SILICON MOTION TECHNOL-ADR
+technology,SITM,nasdaq,SiTime Corporation
+technology,SKLZ,nyse,Skillz Inc
+technology,SLAB,nasdaq,Silicon Laboratories Inc.
+technology,SMAR,nyse,Smartsheet Inc
+technology,SMSN.L,london,Samsung Electronics Co Ltd
+technology,SMTC,nasdaq,Semtech Corp.
+technology,SNAP,nyse,Snapchat Inc
+technology,SNPS,nasdaq,Synopsys Inc
+technology,SOP.PA,paris,Sopra Steria Group
+technology,SOW.DE,frankfurt,Software
+technology,SPLK,nasdaq,Splunk Inc
+technology,SPOT,nyse,Spotify Technologies SA
+technology,SPSC,nasdaq,SPS Commerce Inc.
+technology,SPT,nasdaq,Sprout Social Inc.
+technology,SSNC,nasdaq,SS&C Technologies Holdings Inc
+technology,ST,nyse,Sensata Technologies Holding N.V.
+technology,STM.MI,borsaitaliana,STMicroelectronics Company
+technology,STM.PA,paris,STMicroelectronics NV
+technology,STM.US,nyse,STMicroelectronics NV
+technology,STX.US,nasdaq,Seagate Technology PLC
+technology,SUMO,nasdaq,Sumo Logic Inc.
+technology,SWKS,nasdaq,Skyworks Solutions
+technology,SYNA,nasdaq,Synaptics Inc.
+technology,T,nyse,AT&T Inc
+technology,TDC,nyse,Teradata Corp
+technology,TDS,nyse,Telephone And Data Systems Inc
+technology,TEAM,nasdaq,Atlassian Corp PLC A
+technology,TEF,nyse,Telefonica SA (US)
+technology,TEMN.ZU,zurich,Temenos Ltd
+technology,TENB,nasdaq,Tenable Holdings Inc
+technology,TEO,nyse,Telecom Argentina SA
+technology,TEP.PA,paris,Teleperformance SE
+technology,TER,nasdaq,Teradyne Inc
+technology,TME,nyse,Tencent Music Entertainment Group
+technology,TMV.DE,frankfurt,TeamViewer AG
+technology,TOM2.NV,amsterdam,TomTom BV
+technology,TOST,nyse,Toast Inc.
+technology,TRIP,nasdaq,TripAdvisor Inc
+technology,TRMB,nasdaq,Trimble Inc.
+technology,TSEM,nasdaq,Tower Semiconductor Ltd
+technology,TSM,nyse,Taiwan Semiconductor Manufacturing Co Ltd - ADR
+technology,TTWO,nasdaq,Take Two Interactive Software Inc
+technology,TWLO,nyse,Twilio Inc A
+technology,TWTR,nyse,Twitter
+technology,TXN,nasdaq,Texas Instruments Inc
+technology,TYL,nyse,Tyler Technologies Inc.
+technology,UBI.PA,paris,Ubisoft Entertainment SA
+technology,UCTT,nasdaq,Ultra Clean Holdings Inc.
+technology,UDMY,nasdaq,Udemy Inc
+technology,UI,nyse,Ubiquiti Inc
+technology,UMC,nyse,United Microelectronics Corporation
+technology,VEEV,nyse,Veeva Systems Inc A
+technology,VIAV,nasdaq,Viavi Solutions
+technology,VISL,nasdaq,Vislink Technologies Inc
+technology,VMW,nyse,VMware
+technology,VOD,nasdaq,Vodafone Group plc
+technology,VPK.NV,amsterdam,Koninklijke Vopak NV
+technology,VRNS,nasdaq,Varonis Systems Inc
+technology,VRNT,nasdaq,Verint Systems Inc.
+technology,VRSN,nasdaq,Verisign
+technology,VTEX,nyse,VTEX
+technology,VTRU,nasdaq,Vitru Ltd
+technology,VUZI,nasdaq,Vuzix Corp
+technology,VZ,nyse,Verizon
+technology,WAF.DE,frankfurt,Siltronic
+technology,WB,nasdaq,Weibo Corp
+technology,WDAY,nasdaq,Workday Inc A
+technology,WDC,nasdaq,Western Digital Corporation
+technology,WIMI,nasdaq,WiMi Hologram Cloud Inc
+technology,WISE.L,london,Wise Ltd
+technology,WIX,nasdaq,Wix.com Ltd
+technology,WK,nyse,Workiva Inc.
+technology,WKME,nasdaq,WalkMe Ltd.
+technology,WLN.PA,paris,Worldline SA
+technology,WOLF,nasdaq,Wolfspeed Inc
+technology,WTC.ASX,Sydney,WiseTech Global Limited
+technology,XELA,nasdaq,Exela Technologies Inc
+technology,XM,nasdaq,QUALTRICS INTERNATIONAL-CL A
+technology,XNET,nasdaq,Xunlei Ltd
+technology,XRO.ASX,Sydney,Xero Limited
+technology,XRX,nasdaq,Xerox Corp
+technology,YELP,nyse,Yelp Inc.
+technology,YEXT,nyse,Yext Inc
+technology,YNDX,nasdaq,Yandex NV
+technology,ZBRA,nasdaq,Zebra Technologies Corp.
+technology,ZEN.US,nyse,Zendesk
+technology,ZI,nasdaq,ZoomInfo Technologies Inc
+technology,ZM,nasdaq,Zoom Video Communications Inc
+technology,ZUO,nyse,Zuora Inc
+utilities,00002.HK,hongkong,CLP Holdings Ltd
+utilities,00006.HK,hongkong,Power Assets Holdings Ltd
+utilities,00135.HK,hongkong,Kunlun Energy Co Ltd
+utilities,00257.HK,hongkong,China Everbright Environment Group Ltd
+utilities,00384.HK,hongkong,China Gas Holdings Ltd
+utilities,02386.HK,hongkong,Sinopec Engineering Group Co
+utilities,02688.HK,hongkong,ENN Energy Holdings Ltd
+utilities,0902.HK,hongkong,Huaneng Power International Inc (HK)
+utilities,0916.HK,hongkong,China Longyuan
+utilities,1816.HK,hongkong,CGN Power Co Ltd
+utilities,1U1.DE,frankfurt,1&1 AG
+utilities,3.HK,hongkong,Hong Kong & China Gas Co Ltd
+utilities,A2A.MI,borsaitaliana,A2A Group
+utilities,AEE,nyse,Ameren Corp
+utilities,AEP,nasdaq,American Electric Power Inc
+utilities,AGL.ASX,Sydney,AGL Energy Limited
+utilities,AGR.US,nyse,Avangrid Inc
+utilities,ALB,nyse,Albemarle Corporation
+utilities,AMRC,nyse,Ameresco Inc
+utilities,ANA.MC,bolsademadrid,Acciona
+utilities,AQN,nyse,Algonquin Power & Utilities Corp
+utilities,ATADL.L,london,Tatneft OAO
+utilities,ATO,nyse,Atmos Energy Corp
+utilities,AWK,nyse,American Water Works Co Inc
+utilities,BCPT.L,london,BMO Commercial Property Trust Ltd
+utilities,BIP,nyse,Brookfield Infrastructure Partners LP
+utilities,BKH,nyse,Black Hills Corporation
+utilities,BRW.L,london,Brewin Dolphin Holdings PLC
+utilities,BWLPG.OL,oslo,BW LPG
+utilities,CCC.L,london,Computacenter PLC
+utilities,CIG,nyse,Companhia Energetica de Minas Gerais
+utilities,CMS,nyse,CMS Energy Corp
+utilities,CNA.L,london,Centrica
+utilities,CNP,nyse,Centerpoint Energy Inc
+utilities,CURY.L,london,Currys PLC
+utilities,CWEN,nyse,Clearway Energy Inc
+utilities,D,nyse,Dominion Energy Inc
+utilities,DANSKE.CO,copenhagen,Danske Bank A/S
+utilities,DTE,nyse,DTE Energy Co
+utilities,DUK,nyse,Duke Energy Corp
+utilities,EBR,nyse,Centrais Eletricas Brasileiras - ADR
+utilities,ECV.DE,frankfurt,Encavis AG
+utilities,ED,nyse,Consolidated Edison Inc
+utilities,EDF.PA,paris,Electricite de France SA
+utilities,EDP.LSB,lisbon,EDP - Energias de Portugal SA
+utilities,EIX,nyse,Edison International
+utilities,ELE.MC,bolsademadrid,Endesa
+utilities,ELISA.HE,helsinki,Elisa Oyj
+utilities,ENEL.MI,borsaitaliana,Enel Power Company
+utilities,ENG.MC,bolsademadrid,Enagas
+utilities,ENGI.PA,paris,Engie SA
+utilities,ENS.US,nyse,EnerSys
+utilities,ENT.L,london,Entain PLC
+utilities,EOAN.DE,frankfurt,E.ON SE
+utilities,ES,nyse,Eversource Energy
+utilities,ETR,nyse,Entergy Corp
+utilities,EVA,nyse,Enviva Partners LP
+utilities,EVRG,nyse,Evergy Inc
+utilities,EXC,nasdaq,Exelon Corp
+utilities,FE,nyse,FirstEnergy Corp
+utilities,FGP.L,london,Firstgroup PLC
+utilities,FORTUM.HE,helsinki,Fortum Oyj
+utilities,GLO.L,london,ContourGlobal
+utilities,HER.MI,borsaitaliana,Hera SPA
+utilities,IBE.MC,bolsademadrid,Iberdrola
+utilities,IDA,nyse,IDACORP Inc
+utilities,IG.MI,borsaitaliana,Italgas
+utilities,IRE.MI,borsaitaliana,Iren
+utilities,KEN,nyse,Kenon Holdings Ltd
+utilities,LEO.DE,frankfurt,LEONI
+utilities,LNT,nasdaq,Alliant Energy Corp
+utilities,MPC,nyse,Marathon Petroleum Corporation
+utilities,MRC.L,london,Mercantile Investment Trust PLC
+utilities,NEE,nyse,NextEra Energy Inc
+utilities,NEP,nyse,NextEra Energy Partners LP
+utilities,NFG,nyse,National Fuel Gas Company
+utilities,NG.L,london,National Grid
+utilities,NGG,nyse,National Grid plc
+utilities,NI,nyse,Nisource Inc
+utilities,NRG,nyse,NRG Energy Inc
+utilities,NTGY.MC,bolsademadrid,"Naturgy Energy Group, S.A."
+utilities,NVTKL.L,london,NOVATEK OAO
+utilities,NWE,nasdaq,NorthWestern Corporation
+utilities,OGE,nyse,OGE Energy Corp.
+utilities,OGZDL.L,london,Gazprom OAO
+utilities,OKE,nyse,ONEOK Inc
+utilities,ORA.US,nyse,Ormat Technologies Inc.
+utilities,ORG.ASX,Sydney,Origin Energy Limited
+utilities,PAM,nyse,Pampa Energia S.A.
+utilities,PCG,nyse,PG&E Corp
+utilities,PDL.L,london,Petra Diamonds Ltd
+utilities,PEG,nyse,Public Service Enterprise Group Inc
+utilities,PNM,nyse,PNM Resources Inc.
+utilities,PNW,nyse,Pinnacle West Capital Corporation
+utilities,POR,nyse,Portland General Electric Company
+utilities,PPL,nyse,PPL Corp
+utilities,PSX,nyse,Phillips 66
+utilities,RED.MC,bolsademadrid,Red Electrica Corp
+utilities,REP.MC,bolsademadrid,Repsol
+utilities,RMV.L,london,Rightmove PLC
+utilities,RUI.PA,paris,Rubis SCA
+utilities,RWE.DE,frankfurt,RWE AG
+utilities,SBMO.NV,amsterdam,SBM Offshore NV
+utilities,SBS,nyse,Cia de Saneamento Basico do Estado de Sao Paulo
+utilities,SGGD.L,london,Surgutneftegas OAO
+utilities,SJI,nyse,South Jersey Industries Inc.
+utilities,SO,nyse,Southern Co
+utilities,SPX.L,london,Spirax-Sarco Engineering PLC
+utilities,SR,nyse,Spire Inc.
+utilities,SRE,nyse,Sempra Energy
+utilities,SRG.MI,borsaitaliana,Snam Group
+utilities,SSE.L,london,SSE
+utilities,SVT.L,london,Severn Trent
+utilities,TCH.PA,paris,Technicolor SA
+utilities,TED.L,london,Ted Baker PLC
+utilities,TEL.OL,oslo,Telenor
+utilities,TFI.PA,paris,TF1 Group
+utilities,TIT.MI,borsaitaliana,Telecom Italia S.p.A.
+utilities,TRN.L,london,Trainline PLC
+utilities,TRN.MI,borsaitaliana,Terna SPA
+utilities,UGI,nyse,UGI Corp
+utilities,UKCM.L,london,UK Commercial Property Trust Ltd
+utilities,UN01.DE,frankfurt,Uniper
+utilities,UU.L,london,United Utilities
+utilities,VIE.PA,paris,Veolia Environnement S.A.
+utilities,VLO,nyse,Valero Energy Corp
+utilities,VST,nyse,Vistra Corp
+utilities,WEC,nyse,WEC Energy Group
+utilities,WES,nyse,Western Midstream Partners LP
+utilities,WKL.NV,amsterdam,Wolters Kluwer NV
+utilities,WMB,nyse,Williams Companies Inc
+utilities,WTRG,nyse,Essential Utilities Inc
+utilities,XEL,nasdaq,Xcel Energy Inc
