@@ -1,10 +1,12 @@
 import yfinance as yf
 import pandas as pd
 import numpy as np
+import openpyxl
+
 ## Creating the Stock list and the randomization
 
 df = pd.read_csv("etoro_data.csv")
-df.drop(['Industry', 'Stock Name', 'Exchange'],axis = 1, inplace=True)
+df.drop(['Industry', 'Stock Name', 'Exchange'],axis = 1, inplace=True) ##<-- Not necessary, just makes the DF a bit cleaner
 stock_list = df["Ticker"].values.tolist()
 
 
@@ -62,6 +64,8 @@ for j in range(len(newlist)):
         covariance = np.cov(df_returns["Ret"],df_mreturns["Ret"])
         beta = covariance[0,1]/variance_market
         CAPM = risk_f + beta * (mrkt_ret - risk_f)
-        print("Stock: ",stock_list[j], "\n", "CAPM: " ,CAPM, "\n", "Beta: ", beta, "\n", "Sharpe geo/arith: (", sharpe_arith, "/", sharpe_geo, ")" "\n", "AAR geo/arith: (", 
-        aar_geo, "/", aar_arith,")", "\n" "Std. Dev: ",std_deviation, "\n")
+    analyis_df = pd.DataFrame({"Stock" : stock_list[j], "CAPM" : CAPM, "Beta" : beta, "Sharpe Arith" : sharpe_arith,
+    "AAR Arith" :aar_arith,"std. Deviation" : std_deviation}, index=[0])
+    print(analyis_df)
 
+analyis_df.to_excel(r'/Users/sebastianhaidinger/code/malkiel/CAPM_stock_analysis.xlsx', index = False)
