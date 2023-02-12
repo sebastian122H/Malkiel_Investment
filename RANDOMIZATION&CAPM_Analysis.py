@@ -50,6 +50,7 @@ for j in range(len(newlist)):
             returns.append((dfh.iloc[i + 1,j] - dfh.iloc[i,j]) / dfh.iloc[i,j])
         else: 
             continue
+    ## Defining the necessary variables to caluclate the VIP variables
     geo_returns = [i + 1 for i in returns]
     df_returns = pd.DataFrame({"Ret" : returns, "Ret + 1" : geo_returns})
     Weeks = len(df_returns)
@@ -57,6 +58,7 @@ for j in range(len(newlist)):
     aar_arith = np.average(df_returns["Ret"])*52
     aar_geo = (np.product(df_returns["Ret + 1"])**(1/Years)) - 1
     variance_stock = np.var(df_returns["Ret"])
+    ##VIP Variables that give us the final calculations and data necessary to calculate CAPM
     std_deviation = np.std(df_returns["Ret"])
     if std_deviation != 0:
         sharpe_arith = (aar_arith/std_deviation)
