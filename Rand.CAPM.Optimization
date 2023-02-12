@@ -2,7 +2,7 @@ import yfinance as yf
 import pandas as pd
 import numpy as np
 import openpyxl
-## Creating the Stock list and the randomization
+## Creating the Stock list and the randomization <-- Further Optimization possible
 df = pd.read_csv("etoro_data.csv")
 stock_list = df["Ticker"].values.tolist()
 num = int(input("How many stocks does every group need?: "))
