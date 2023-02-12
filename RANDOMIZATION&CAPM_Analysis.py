@@ -50,4 +50,4 @@ for j in range(len(all_picks)):
     # why not use the market return calculated earlier?
     CAPM = risk_f + beta * (mrkt_ret - risk_f)
     print("Stock: ",all_picks[j], "\n", "CAPM: " ,CAPM, "\n", "Beta: ", beta, "\n", "Sharpe arith: (", sharpe_arith, ")" "\n", "AAR arith: (", aar_arith,")", "\n" "Std. Dev: ",std_return, "\n")
-
+# add more/different indicators?
