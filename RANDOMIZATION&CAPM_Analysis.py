@@ -23,7 +23,7 @@ risk_f = 0.0346
 ##  market return
 market_data = yf.download("SPY", period="5y", interval="1wk", group_by='ticker')
 market_returns = market_data['Adj Close'].pct_change().to_list()
-market_returns.pop(0)
+# market_returns.pop(0)
 variance_market = np.var(market_returns)
 
 # market_geo_returns = [i + 1 for i in market_returns]
@@ -39,11 +39,11 @@ for j in range(len(all_picks)):
     # check that this does not count nan!!!!!!!!!!!
     weeks = len(stock_returns)
     years = weeks/52
-    mean_return = stock_returns.mean()
-    std_return = stock_returns.std()
+    mean_return = np.average(stock_returns)
+    std_return = np.std(stock_returns)
 
     aar_arith = mean_return * 52
-    variance_stock = stock_returns.var()
+    variance_stock = np.var(stock_returns)
     sharpe_arith = (aar_arith/std_return)
     covariance = np.cov(stock_returns,market_returns)
     beta = covariance/variance_market
@@ -51,3 +51,5 @@ for j in range(len(all_picks)):
     CAPM = risk_f + beta * (mrkt_ret - risk_f)
     print("Stock: ",all_picks[j], "\n", "CAPM: " ,CAPM, "\n", "Beta: ", beta, "\n", "Sharpe arith: (", sharpe_arith, ")" "\n", "AAR arith: (", aar_arith,")", "\n" "Std. Dev: ",std_return, "\n")
 # add more/different indicators?
+
+# analyis_df.to_excel(r'/Users/sebastianhaidinger/code/malkiel/CAPM_stock_analysis.xlsx', index=False)
