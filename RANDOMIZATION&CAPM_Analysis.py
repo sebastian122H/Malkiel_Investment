@@ -2,27 +2,25 @@ import yfinance as yf
 import pandas as pd
 import numpy as np
 import openpyxl
+import statistics
+##  Parsing CSV
 
-## Creating the Stock list and the randomization
-
-df = pd.read_csv("etoro_data.csv")
-df.drop(['Industry', 'Stock Name', 'Exchange'],axis = 1, inplace=True) ##<-- Not necessary, just makes the DF a bit cleaner
-stock_list = df["Ticker"].values.tolist()
-
-
-num = int(input("How many stocks does every group need?: "))
-group1 = np.random.choice(stock_list,num,replace=False)
-group2 = np.random.choice(stock_list,num,replace=False)
-group3 = np.random.choice(stock_list,num,replace=False)
-group4 = np.random.choice(stock_list,num,replace=False)
-print("Group 1 Stocks are: ", group1, "\n Group 2 Stocks are: ", group2, "\n Group 3 Stocks are: ", group3, "\n Group 4 Stocks are: ", group4)
-
-##Create a newlist that combines all the stocks for every group into one big list
-newlist = [y for x in [group1, group2, group3,group4] for y in x]
+etoro_raw = pd.read_csv("etoro_data.csv")
+stock_list = etoro_raw["Ticker"].values.tolist()
 
 
-## Define Market Rate and Risk free Rate
 
+
+##  random stock selection and group allocation
+stock_num = int(input("How many stocks does every group need?: "))
+
+all_picks = []
+for k in range(1,5):
+    group_picks = np.random.choice(stock_list,stock_num,replace=False)
+    print("Group ", k, "stocks are: ", group_picks)
+    all_picks.extend(group_picks)
+
+##  Define Market Rate and Risk free Rate
 mrkt_ret = 0.008
 risk_f = 0.0346
 
