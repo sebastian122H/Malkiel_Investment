@@ -30,9 +30,8 @@ covariance = returns.cov()
 beta = covariance["SPY"]/returns["SPY"].var()
 CAPM = risk_f + beta * (mrkt_ret - risk_f)
 df_analysis = pd.DataFrame({"CAPM": CAPM, "Beta": beta, "Std_deviation": std_deviation,
-                           "Sharpe Arith": sharpe_arith, "AAR Arith": aar_arith})
+                          "Sharpe Arith": sharpe_arith, "AAR Arith": aar_arith})
 
-print(df_analysis)
 
 def to_excel(num):
     df_analysis.to_excel(r'/Users/arthurbirnstiel/desktop/malkiel/CAPM_stock_analysis.xlsx',
