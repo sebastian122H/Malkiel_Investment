@@ -20,18 +20,3 @@ newlist.insert(0,"SPY")
 mrkt_ret = 0.008
 risk_f = 0.0346
 
-##Stock+Market returns and Download
-dfh = yf.download(newlist, period="5y", interval="1wk", ignore_tz = True, prepost = False)["Close"]
-returns = dfh.pct_change()
-aar_arith = returns.mean()*52
-std_deviation = returns.std()
-sharpe_arith = (aar_arith/std_deviation)
-covariance = returns.cov()
-beta = covariance["SPY"]/returns["SPY"].var()
-CAPM = risk_f + beta * (mrkt_ret - risk_f)
-df_analysis = pd.DataFrame({"CAPM" : CAPM, "Beta" : beta, "Std_deviation" : std_deviation, "Sharpe Arith" : sharpe_arith, "AAR Arith" : aar_arith})
-
-def to_excel(num):
-    df_analysis.to_excel(r'/Users/sebastianhaidinger/code/malkiel/CAPM_stock_analysis.xlsx', index = True, sheet_name= "Analysis"+ num)
-
-to_excel(str(1))
