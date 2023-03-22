@@ -8,7 +8,7 @@ stock_list = etoro_raw["Ticker"].values.tolist()
 
 ##  random stock selection and group allocation
 stock_num = int(input("How many stocks does every group need?: "))
-
+##  radom test comment
 all_picks = ["SPY"]
 for k in range(1,5):
     group_picks = np.random.choice(stock_list,stock_num,replace=False)
