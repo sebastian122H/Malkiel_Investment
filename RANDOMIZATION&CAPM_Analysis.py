@@ -42,7 +42,6 @@ for i in range(len(dfm)):
 
 dfh = yf.download(newlist, period="5y", interval="1wk", ignore_tz = True, prepost = False)["Close"]
 
-
 for j in range(len(newlist)):
     returns = []
     for i in range(len(dfh)):
