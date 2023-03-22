@@ -33,9 +33,9 @@ df_analysis = pd.DataFrame({"CAPM": CAPM, "Beta": beta, "Std_deviation": std_dev
                           "Sharpe Arith": sharpe_arith, "AAR Arith": aar_arith})
 
 
+
 def to_excel(num):
     df_analysis.to_excel(r'/Users/arthurbirnstiel/desktop/malkiel/CAPM_stock_analysis.xlsx',
                          index=True, sheet_name="Analysis" + num)
-
 
 to_excel(str(1))

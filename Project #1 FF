@@ -1,0 +1,15 @@
+import yfinance as yf
+import pandas as pd
+import numpy as np
+import openpyxl
+
+
+df = pd.read_csv("etoro_data.csv")
+stock_list = df["Ticker"].values.tolist()
+
+num = int(input("How many stocks does every group need?: "))
+group1 = list(np.random.choice(stock_list,num))
+
+dfh = yf.download(group1, period="5y", interval="1wk", ignore_tz = True, prepost = False)["Close"]
+
+dfh.to_excel(r'/Users/sebastianhaidinger/code/malkiel/Stock_Price Data.xlsx', index = True)
